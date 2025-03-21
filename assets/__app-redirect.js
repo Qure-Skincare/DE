@@ -117,27 +117,27 @@ async function main() {
         /* */
         else if(window.location.href.includes('breakout-control-pro-1'))
         {
-            window.location = 'https://www.qureskincare.com/pages/exclusive-holiday-bundle-deal';
+            window.location = 'https://www.qureskincare.de/pages/exclusive-holiday-bundle-deal';
         }
         else if(window.location.href.includes('breakout-control-starter'))
         {
-            window.location = 'https://www.qureskincare.com/pages/exclusive-holiday-bundle-deal';
+            window.location = 'https://www.qureskincare.de/pages/exclusive-holiday-bundle-deal';
         }
         else if(window.location.href.includes('filter-family-bundle'))
         {
-            window.location = 'https://www.qureskincare.com/pages/exclusive-holiday-bundle-deal';
+            window.location = 'https://www.qureskincare.de/pages/exclusive-holiday-bundle-deal';
         }
         else if(window.location.href.includes('line-refine-bundle-advanced-1'))
         {
-            window.location = 'https://www.qureskincare.com/pages/exclusive-holiday-bundle-deal';
+            window.location = 'https://www.qureskincare.de/pages/exclusive-holiday-bundle-deal';
         }
         else if(window.location.href.includes('shower-filter'))
         {
-            window.location = 'https://www.qureskincare.com/pages/shower-filter-trynow';
+            window.location = 'https://www.qureskincare.de/pages/shower-filter-trynow';
         }
         else
         {
-            window.location = 'https://www.qureskincare.com/collections/best-sellers';
+            window.location = 'https://www.qureskincare.de/collections/best-sellers';
         }
     }
 }

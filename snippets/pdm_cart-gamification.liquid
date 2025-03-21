@@ -64,6 +64,11 @@
   assign remainingAmountMoney = remainingAmount | money_without_trailing_zeros
 %}
 
+<!-- aaaaqqqq11 [ {{ enableFreeShipping }}] -->
+<!-- aaaaqqqq22 [ {{ enableProductGift }}] -->
+<!-- aaaaqqqq33 [ {{ giftProduct.available }}] -->
+<!-- aaaaqqqq44 [ https://admin.shopify.com/store/qure-skincare/products/{{ giftProduct.id }} ] -->
+
 {% if enableFreeShipping or enableProductGift and giftProduct.available %}
   <div class="progress-container pdm-gamification">
     <div class="progress-container__message">

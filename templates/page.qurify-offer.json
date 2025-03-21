@@ -31,7 +31,7 @@
           "type": "navigation-link",
           "settings": {
             "link_label": "WHY Q-URIFY",
-            "link_url": "https:\/\/www.qureskincare.com\/pages\/why-qurify",
+            "link_url": "https:\/\/www.qureskincare.de\/pages\/why-qurify",
             "image": "shopify:\/\/shop_images\/header_2.webp"
           }
         },
@@ -39,7 +39,7 @@
           "type": "navigation-link",
           "settings": {
             "link_label": "LOCAL WATER REPORT",
-            "link_url": "https:\/\/www.qureskincare.com\/pages\/free-water-report",
+            "link_url": "https:\/\/www.qureskincare.de\/pages\/free-water-report",
             "image": "shopify:\/\/shop_images\/header-lp-local.webp"
           }
         }

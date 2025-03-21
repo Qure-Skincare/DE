@@ -14,7 +14,7 @@
           "type": "navigation-link",
           "settings": {
             "link_label": "Shop",
-            "link_url": "https:\/\/www.qureskincare.com\/pages\/qurify-offer#shop",
+            "link_url": "https:\/\/www.qureskincare.de\/pages\/qurify-offer#shop",
             "image": "shopify:\/\/shop_images\/header-lp-shop_7387e6cf-34d3-49b7-b695-f71022d8c817.webp"
           }
         },
@@ -30,7 +30,7 @@
           "type": "navigation-link",
           "settings": {
             "link_label": "LOCAL WATER REPORT",
-            "link_url": "https:\/\/www.qureskincare.com\/pages\/free-water-report",
+            "link_url": "https:\/\/www.qureskincare.de\/pages\/free-water-report",
             "image": "shopify:\/\/shop_images\/header-lp-local.webp"
           }
         }
@@ -43,7 +43,7 @@
       ],
       "settings": {
         "button_label": "Get Clearer Skin",
-        "button_url": "https:\/\/www.qureskincare.com\/pages\/qurify-offer#shop"
+        "button_url": "https:\/\/www.qureskincare.de\/pages\/qurify-offer#shop"
       }
     },
     "main": {

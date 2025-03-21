@@ -31,7 +31,7 @@
       ],
       "settings": {
         "button_label": "SAVE UP TO 43%",
-        "button_url": "https://www.qureskincare.com/pages/qure-microinfusion-offer"
+        "button_url": "https://www.qureskincare.de/pages/qure-microinfusion-offer"
       }
     },
     "two_column_box_kH6ngX": {
@@ -429,7 +429,7 @@
         "content_VdYxaH": {
           "type": "content",
           "settings": {
-            "text": "<p>You can purchase the Qure Micro-Infusion System directly from our official website. This ensures you get the authentic product with the quality and results you expect.<br/><br/>Avoid imitations and knockoffs by buying only from our site. We’ve designed our system to be effective and safe, and only our official website can guarantee you’re getting the real thing.<br/><br/><a href=\"https://www.qureskincare.com/pages/qure-microinfusion-offer\" title=\"https://www.qureskincare.com/pages/qure-microinfusion-offer\">Visit our website to order your Qure Micro-Infusion System today.</a></p>",
+            "text": "<p>You can purchase the Qure Micro-Infusion System directly from our official website. This ensures you get the authentic product with the quality and results you expect.<br/><br/>Avoid imitations and knockoffs by buying only from our site. We’ve designed our system to be effective and safe, and only our official website can guarantee you’re getting the real thing.<br/><br/><a href=\"https://www.qureskincare.de/pages/qure-microinfusion-offer\" title=\"https://www.qureskincare.de/pages/qure-microinfusion-offer\">Visit our website to order your Qure Micro-Infusion System today.</a></p>",
             "column_content": 5,
             "classname": "it_info p-0 pt-md-3 pe-md-5 me-md-4"
           }
@@ -490,7 +490,7 @@
         "content_3dFLJE": {
           "type": "content",
           "settings": {
-            "text": "<p>We want you to love your Qure Micro-Infusion System. That’s why we offer a 90-day money-back guarantee on all purchases.<br/><br/>You have 90 days from the date your order arrives to try the product and see the results for yourself. If you’re not completely satisfied, simply contact our customer support team at <a href=\"mailto:support@qureskincare.com\">support@qureskincare.com</a>, and we’ll issue you a full refund—no questions asked.<br/><br/>Your satisfaction is our priority, and we’re here to ensure you have a positive experience with Qure.</p>",
+            "text": "<p>We want you to love your Qure Micro-Infusion System. That’s why we offer a 90-day money-back guarantee on all purchases.<br/><br/>You have 90 days from the date your order arrives to try the product and see the results for yourself. If you’re not completely satisfied, simply contact our customer support team at <a href=\"mailto:support@qureskincare.de\">support@qureskincare.de</a>, and we’ll issue you a full refund—no questions asked.<br/><br/>Your satisfaction is our priority, and we’re here to ensure you have a positive experience with Qure.</p>",
             "column_content": 10,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
@@ -624,7 +624,7 @@
           "type": "button",
           "settings": {
             "btn_text": "Check Availability Now",
-            "btn_url": "https://www.qureskincare.com/pages/qure-microinfusion-offer"
+            "btn_url": "https://www.qureskincare.de/pages/qure-microinfusion-offer"
           }
         }
       },
@@ -789,7 +789,7 @@
           "type": "button",
           "settings": {
             "button_label": "Check Availability And Apply Discount Now",
-            "button_url": "https://www.qureskincare.com/pages/qure-microinfusion-offer",
+            "button_url": "https://www.qureskincare.de/pages/qure-microinfusion-offer",
             "custom_class": "mw-452"
           }
         }

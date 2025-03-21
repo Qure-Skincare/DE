@@ -371,7 +371,7 @@
     position: relative;
 }
 [data-widget-type=rewards-spendings-v2] .stamped-rewards-widget-campaign-value:before {
-    content: url(https://qureskincaredns.com/new/assets/qoins.svg);
+    content: url(https://qureskincaredns-de.com/qoins.svg);
     padding-right: 10px;
     vertical-align: text-top;
 }
@@ -426,17 +426,17 @@
     position: relative;
 }
 [data-target-id=section-step-one] .stamped-rewards-widget-heading:before {
-    content: url(https://qureskincaredns.com/new/assets/user.svg);
+    content: url(https://qureskincaredns-de.com/user.svg);
     vertical-align: text-top;
     padding-right: 10px;
 }
 [data-target-id=section-step-two] .stamped-rewards-widget-heading:before{
-    content: url(https://qureskincaredns.com/new/assets/2-qoins.svg);
+    content: url(https://qureskincaredns-de.com/2-qoins.svg);
     vertical-align: text-top;
     padding-right: 10px;
 }
 [data-target-id=section-step-three] .stamped-rewards-widget-heading:before{
-    content: url(https://qureskincaredns.com/new/assets/4-qoins.svg);
+    content: url(https://qureskincaredns-de.com/4-qoins.svg);
     vertical-align: text-top;
     padding-right: 10px;
 }
@@ -482,27 +482,27 @@
     font-weight: 600;
 }
 [data-element-id="5"] .stamped-rewards-widget-campaign-value:before {
-    content: url(https://qureskincaredns.com/new/assets/qoins.svg);
+    content: url(https://qureskincaredns-de.com/qoins.svg);
     vertical-align: sub;
     padding-right: 5px;
 }
 [data-element-id="5"] .fa-bags-shopping:before{
-    background: url(https://qureskincaredns.com/new/assets/way-shop.svg) no-repeat center / contain;
+    background: url(https://qureskincaredns-de.com/way-shop.svg) no-repeat center / contain;
 }
 [data-element-id="5"] .fa-envelope:before{
-    background: url(https://qureskincaredns.com/new/assets/way-envlop.svg) no-repeat center / contain;
+    background: url(https://qureskincaredns-de.com/way-envlop.svg) no-repeat center / contain;
 }
 [data-element-id="5"] .fa-image:before{
-    background: url(https://qureskincaredns.com/new/assets/way-camera.svg) no-repeat center / contain;
+    background: url(https://qureskincaredns-de.com/way-camera.svg) no-repeat center / contain;
 }
 [data-element-id="5"] .fa-instagram:before{
-    background: url(https://qureskincaredns.com/new/assets/way-ig.svg) no-repeat center / contain;
+    background: url(https://qureskincaredns-de.com/way-ig.svg) no-repeat center / contain;
 }
 [data-element-id="5"] .fa-square-youtube:before, .fa-youtube-square:before{
-    background: url(https://qureskincaredns.com/new/assets/way-youtube.svg) no-repeat center / contain;
+    background: url(https://qureskincaredns-de.com/way-youtube.svg) no-repeat center / contain;
 }
 [data-element-id="5"] .fa-tiktok:before{
-    background: url(https://qureskincaredns.com/new/assets/way-tiktok.svg) no-repeat center / contain;
+    background: url(https://qureskincaredns-de.com/way-tiktok.svg) no-repeat center / contain;
 }
 [data-element-id="5"] i:before{
     content: '';

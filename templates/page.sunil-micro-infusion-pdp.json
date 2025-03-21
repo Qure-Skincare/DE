@@ -973,7 +973,7 @@
           "type": "button",
           "settings": {
             "button_label": "See Detailed Guide",
-            "button_url": "https://www.qureskincare.com/pages/microinfusion-safety-guide"
+            "button_url": "https://www.qureskincare.de/pages/microinfusion-safety-guide"
           }
         }
       },
@@ -1214,7 +1214,7 @@
           "type": "object",
           "settings": {
             "heading": "When is the best time to perform a Micro-Infusion treatment?",
-            "text": "<p>We recommend doing the treatment at night before bed. Avoid being in the sun and using makeup for 24 hours after the treatment. For more information on post treatment care, <a href=\"https://www.qureskincare.com/pages/microinfusion-safety-guide\">visit our safety guide.</a></p>",
+            "text": "<p>We recommend doing the treatment at night before bed. Avoid being in the sun and using makeup for 24 hours after the treatment. For more information on post treatment care, <a href=\"https://www.qureskincare.de/pages/microinfusion-safety-guide\">visit our safety guide.</a></p>",
             "code": ""
           }
         },

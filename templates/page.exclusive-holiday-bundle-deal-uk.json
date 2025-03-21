@@ -1940,7 +1940,7 @@
           "type": "object",
           "settings": {
             "heading": "Can I update or cancel my order?",
-            "text": "<p>You have a 60-minute window after placing your order to request cancellation or adjustments. If your order hasn’t shipped yet, email us at<a href=\"mailto:support@qureskincare.com\">support@qureskincare.com</a>ASAP, and we’ll do our best to assist.</p>",
+            "text": "<p>You have a 60-minute window after placing your order to request cancellation or adjustments. If your order hasn’t shipped yet, email us at<a href=\"mailto:support@qureskincare.de\">support@qureskincare.de</a>ASAP, and we’ll do our best to assist.</p>",
             "code": ""
           }
         },

@@ -18,7 +18,7 @@
           "settings": {
             "heading": "INTERNATIONAL WOMEN’S DAY",
             "subheading": "<h3>Claim a FREE Micro-Infusion Bundle</h3>",
-            "link_url": "https://qureskincare.com/pages/international-womens-offer",
+            "link_url": "https://qureskincare.de/pages/international-womens-offer",
             "link_label": "SHOP & SAVE $357"
           }
         }
@@ -31,7 +31,7 @@
         "heading_mobile": "",
         "image": "shopify://shop_images/banner_best_sellers.png",
         "image_mobile": "shopify://shop_images/banner_best_sellers_mobile.png",
-        "link_url": "https://qureskincare.com/collections/best-sellers"
+        "link_url": "https://qureskincare.de/collections/best-sellers"
       }
     },
     "icons_list_BUTDmx": {
@@ -107,7 +107,7 @@
             "header": "VOGUE",
             "text": "<p>One of VOGUE's top LED masks</p>",
             "button_label": "Discover Now",
-            "button_url": "https://www.qureskincare.com/products/q-rejuvalight-pro-facewear",
+            "button_url": "https://www.qureskincare.de/products/q-rejuvalight-pro-facewear",
             "position": "7"
           }
         }

@@ -122,7 +122,7 @@
     {% assign discount_percentage = product.price | times: 1.0 | divided_by: product.compare_at_price | minus: 1 | abs | times: 100 | ceil %}
 
     <a class="btn btn-lg btn-primary buy_btn submit_btn_top reserve_btn mt-4" href="/cart/add?id={{ product_variant_id }}&amp;quantity=1" onclick="setEventProductHandler('{{ product.handle }}')" data-ajax-cart-request-button>
-        Buy Now <span class="savedAmount">& SAVE {{ discount_percentage }}%</span><img src="https://qureskincaredns.com/new/assets/arrow_right.svg" alt="">
+        Buy Now <span class="savedAmount">& SAVE {{ discount_percentage }}%</span><img src="https://qureskincaredns-de.com/arrow_right.svg" alt="">
     </a>
 
     <script>
@@ -153,7 +153,7 @@
     </div>
     <div class="certified_derm mb-4 mb-md-5">
         <img src="{{ 'certified_derma.webp' | asset_url }}" alt="">
-        <p><b>50+ Board Certified Dermatologists</b> recommended Qure to their patients. <a href="https://qureskincare.com/pages/derm-reviews" class="text-black text-decoration-underline">See More</a> </p>
+        <p><b>50+ Board Certified Dermatologists</b> recommended Qure to their patients. <a href="https://qureskincare.de/pages/derm-reviews" class="text-black text-decoration-underline">See More</a> </p>
     </div>
     <div class="shipping shipping_bg bg-transparent py-md-0 px-0 free-shipping-guarentee-original">
         <div class="s_bx">

@@ -5,14 +5,14 @@ var updateItemObject = function(product_variant_id)
 {
     let variants_to_handles = [];
 
-    //kits from https://www.qureskincare.com/pages/micro-infusion-refill
+    //kits from https://www.qureskincare.de/pages/micro-infusion-refill
 
         variants_to_handles[43821031031023] = 'micro-infusion-3-month-refill-3x-b-g-serum-3x-e-g-f-serum';
         variants_to_handles[43821069435119] = 'micro-infusion-3-month-refill-6x-rejuvenating-serum';
         variants_to_handles[43821035290863] = 'micro-infusion-3-month-refill-6x-hydra-soothing-serum';
 
 
-    //products from https://www.qureskincare.com/pages/microinfusion
+    //products from https://www.qureskincare.de/pages/microinfusion
     
         //Rejuvenating + Hydra-Soothing
         variants_to_handles[43216489513199] = 'micro-infusion-1-month-bundle-1x-b-g-serum-1x-e-g-f-serum';   //1 month
@@ -30,7 +30,7 @@ var updateItemObject = function(product_variant_id)
         variants_to_handles[43216359555311] = 'micro-infusion-3-month-bundle-6x-beta-glucan-serum';   //3 months
         
 
-    //products from  https://www.qureskincare.com/pages/micro-infusion-special-offer
+    //products from  https://www.qureskincare.de/pages/micro-infusion-special-offer
 
         //Rejuvenating + Hydra-Soothing
         variants_to_handles[43216489513199] = 'micro-infusion-1-month-bundle-1x-b-g-serum-1x-e-g-f-serum';   //1 month

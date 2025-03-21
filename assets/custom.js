@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }, 750);
 
-    //https://www.qureskincare.com/products/micro-infusion-targeted-patches
+    //https://www.qureskincare.de/products/micro-infusion-targeted-patches
     var swiper = new Swiper(".combat_slider", {
         slidesPerView: 3.6,
         grid: {

@@ -23,7 +23,7 @@
           "type": "navigation-link",
           "settings": {
             "link_label": "SHOP",
-            "link_url": "https:\/\/www.qureskincare.com\/pages\/qurify-offer#shop",
+            "link_url": "https:\/\/www.qureskincare.de\/pages\/qurify-offer#shop",
             "image": "shopify:\/\/shop_images\/header-lp-shop_2a0a39a1-3374-48e7-bcc6-efaebfe132fd.webp"
           }
         },
@@ -31,7 +31,7 @@
           "type": "navigation-link",
           "settings": {
             "link_label": "WHY Q-URIFY",
-            "link_url": "https:\/\/www.qureskincare.com\/pages\/why-qurify",
+            "link_url": "https:\/\/www.qureskincare.de\/pages\/why-qurify",
             "image": "shopify:\/\/shop_images\/headerLanding-2_2fe2a335-9e17-487c-b0dc-c50a325e0e91.png"
           }
         },
@@ -39,7 +39,7 @@
           "type": "navigation-link",
           "settings": {
             "link_label": "LOCAL WATER REPORT",
-            "link_url": "https:\/\/www.qureskincare.com\/pages\/free-water-report",
+            "link_url": "https:\/\/www.qureskincare.de\/pages\/free-water-report",
             "image": "shopify:\/\/shop_images\/header-lp-local_f1e236ac-3a53-41aa-94c5-aa7309579a0d.webp"
           }
         }
@@ -57,7 +57,7 @@
       ],
       "settings": {
         "button_label": "GET CLEARER SKIN",
-        "button_url": "https:\/\/www.qureskincare.com\/pages\/qurify-offer#shop"
+        "button_url": "https:\/\/www.qureskincare.de\/pages\/qurify-offer#shop"
       }
     },
     "banner_dzjhFt": {

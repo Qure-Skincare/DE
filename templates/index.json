@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/homepageslide-1.jpg",
             "link_label": "Q-Rejuvalight LED Mask",
-            "link_url": "https://www.qureskincare.com/products/q-rejuvalight-pro-facewear"
+            "link_url": "https://www.qureskincare.de/products/q-rejuvalight-pro-facewear"
           }
         },
         "slide_qqmpCY": {
@@ -25,7 +25,7 @@
           "settings": {
             "image": "shopify://shop_images/homepageslide-2.webp",
             "link_label": "Micro-Infusion System",
-            "link_url": "https://www.qureskincare.com/pages/microinfusion"
+            "link_url": "https://www.qureskincare.de/pages/microinfusion"
           }
         },
         "slide_iQgE8e": {
@@ -33,7 +33,7 @@
           "settings": {
             "image": "shopify://shop_images/Ellipse_78_d067490c-3b6b-41d2-8191-9bd1618f636b.png",
             "link_label": "Neck & Décolletage LED",
-            "link_url": "https://www.qureskincare.com/products/neck-decolletage-led"
+            "link_url": "https://www.qureskincare.de/products/neck-decolletage-led"
           }
         },
         "slide_aKL6kD": {
@@ -41,7 +41,7 @@
           "settings": {
             "image": "shopify://shop_images/homepageslide-4.jpg",
             "link_label": "All-In-One Face Serum",
-            "link_url": "https://www.qureskincare.com/products/face-serum"
+            "link_url": "https://www.qureskincare.de/products/face-serum"
           }
         },
         "slide_9wpXXH": {
@@ -49,7 +49,7 @@
           "settings": {
             "image": "shopify://shop_images/Ellipse_78.png",
             "link_label": "Micro-Infusion Targeted Patches",
-            "link_url": "https://www.qureskincare.com/products/micro-infusion-targeted-patches"
+            "link_url": "https://www.qureskincare.de/products/micro-infusion-targeted-patches"
           }
         },
         "slide_9qAien": {
@@ -65,7 +65,7 @@
           "settings": {
             "image": "shopify://shop_images/homepageslide-6.jpg",
             "link_label": "Micro-Infusion Refill",
-            "link_url": "https://www.qureskincare.com/pages/micro-infusion-refill"
+            "link_url": "https://www.qureskincare.de/pages/micro-infusion-refill"
           }
         },
         "slide_hVri9x": {
@@ -73,7 +73,7 @@
           "settings": {
             "image": "shopify://shop_images/Ellipse_81_6730773b-c0c0-4501-9bf1-740bf439e1fd.png",
             "link_label": "Dermal Mist",
-            "link_url": "https://qureskincare.com/products/dermal-mist"
+            "link_url": "https://qureskincare.de/products/dermal-mist"
           }
         },
         "slide_tNrDjD": {
@@ -90,7 +90,7 @@
           "settings": {
             "image": "shopify://shop_images/Ellipse_tt81.png",
             "link_label": "Shower Filter",
-            "link_url": "https://qureskincare.com/products/shower-filter"
+            "link_url": "https://qureskincare.de/products/shower-filter"
           }
         }
       },
@@ -134,7 +134,7 @@
             "image": "shopify://shop_images/sub_banner.webp",
             "image_mobile": "shopify://shop_images/sub_banner-mob.webp",
             "link_label": "Buy Now",
-            "link_url": "https://www.qureskincare.com/pages/exclusive-holiday-bundle-deal"
+            "link_url": "https://www.qureskincare.de/pages/exclusive-holiday-bundle-deal"
           }
         }
       },
@@ -163,7 +163,7 @@
           "settings": {
             "link_label": "SHOP & SAVE $357",
             "link_label_mobile": "SHOP & SAVE $357",
-            "link_url": "https://qureskincare.com/pages/international-womens-offer"
+            "link_url": "https://qureskincare.de/pages/international-womens-offer"
           }
         },
         "banner_6wgzUN": {
@@ -173,7 +173,7 @@
             "image": "shopify://shop_images/sub_banner.webp",
             "image_mobile": "shopify://shop_images/sub_banner-mob.webp",
             "link_label": "Buy Now",
-            "link_url": "https://www.qureskincare.com/pages/exclusive-holiday-bundle-deal"
+            "link_url": "https://www.qureskincare.de/pages/exclusive-holiday-bundle-deal"
           }
         }
       },
@@ -190,7 +190,7 @@
         "text": "",
         "image": "shopify://shop_images/hm_womens_day_banner_desk.webp",
         "image_mobile": "shopify://shop_images/hm_womens_day_banner_mob.webp",
-        "link_url": "https://qureskincare.com/pages/international-womens-offer"
+        "link_url": "https://qureskincare.de/pages/international-womens-offer"
       }
     },
     "featuredin_extended_P7BNDN": {
@@ -491,7 +491,7 @@
             "c_image": "shopify://shop_images/skin_c1.webp",
             "name": "Signs of aging, fine lines & wrinkles",
             "button": "Shop Now",
-            "btn_url": "https://www.qureskincare.com/collections/fine-line-wrinkles"
+            "btn_url": "https://www.qureskincare.de/collections/fine-line-wrinkles"
           }
         },
         "column_XGE36r": {
@@ -500,7 +500,7 @@
             "c_image": "shopify://shop_images/skin_c2.webp",
             "name": "Dark spots & uneven skin tone",
             "button": "Shop Now",
-            "btn_url": "https://www.qureskincare.com/collections/dark-spots?ose=false"
+            "btn_url": "https://www.qureskincare.de/collections/dark-spots?ose=false"
           }
         },
         "column_pTADx3": {
@@ -509,7 +509,7 @@
             "c_image": "shopify://shop_images/skin_c3.webp",
             "name": "Acne Breakouts & Blemishes",
             "button": "Shop Now",
-            "btn_url": "https://www.qureskincare.com/collections/acne-breakouts?ose=false"
+            "btn_url": "https://www.qureskincare.de/collections/acne-breakouts?ose=false"
           }
         },
         "column_7bHmxW": {
@@ -518,7 +518,7 @@
             "c_image": "shopify://shop_images/skin_c4.webp",
             "name": "Large pores & textured skin",
             "button": "Shop Now",
-            "btn_url": "https://www.qureskincare.com/collections/dark-spots?"
+            "btn_url": "https://www.qureskincare.de/collections/dark-spots?"
           }
         }
       },
@@ -553,7 +553,7 @@
             "bestseller": true,
             "rating": "shopify://shop_images/star-half_fill_d51f6801-2e35-487c-89d0-130f978da1e8.svg",
             "rating_text": "283 Reviews",
-            "pd_link": "https://www.qureskincare.com/pages/microinfusion"
+            "pd_link": "https://www.qureskincare.de/pages/microinfusion"
           }
         },
         "product_a84cyP": {
@@ -566,7 +566,7 @@
             "bestseller": false,
             "rating": "shopify://shop_images/star-half_fill_d51f6801-2e35-487c-89d0-130f978da1e8.svg",
             "rating_text": "283 Reviews",
-            "pd_link": "https://www.qureskincare.com/products/q-rejuvalight-pro-facewear"
+            "pd_link": "https://www.qureskincare.de/products/q-rejuvalight-pro-facewear"
           }
         },
         "product_RV8HgT": {
@@ -579,7 +579,7 @@
             "bestseller": false,
             "rating": "shopify://shop_images/star-half_fill_d51f6801-2e35-487c-89d0-130f978da1e8.svg",
             "rating_text": "85 Reviews",
-            "pd_link": "https://www.qureskincare.com/products/face-serum"
+            "pd_link": "https://www.qureskincare.de/products/face-serum"
           }
         },
         "product_3hFb8X": {
@@ -921,7 +921,7 @@
         "text": "",
         "text_content": "<p>At Qure, we're redefining beauty boundaries by making professional clinical treatments accessible to everyone from the comfort of peoples home—without the clinical price tag. </p>",
         "button_label": "Our story",
-        "button_url": "https://www.qureskincare.com/pages/our-story"
+        "button_url": "https://www.qureskincare.de/pages/our-story"
       }
     },
     "community_QPpfkf": {
@@ -974,7 +974,7 @@
         "heading": "Personalized solutions for your skin’s unique needs",
         "text": "<p>Answer a few questions and we’ll tell you how to achieve your skincare goals.</p>",
         "btn_text": "Claim Free Consultation",
-        "btn_url": "https://www.qureskincare.com/pages/skin-consultation"
+        "btn_url": "https://www.qureskincare.de/pages/skin-consultation"
       }
     }
   },

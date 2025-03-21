@@ -52,7 +52,7 @@
           "type": "button",
           "settings": {
             "button_label": "Learn more about the Micro-Infusion System",
-            "button_url": "https://www.qureskincare.com/pages/microinfusion"
+            "button_url": "https://www.qureskincare.de/pages/microinfusion"
           }
         }
       },
@@ -128,7 +128,7 @@
             "show": false,
             "heading": "Serums to treat your specific skin concerns",
             "content": "<p>Your skin is <strong>unique,</strong> so your treatment should be. Choose between two serums (or both) you want to infuse with your Micro-Infusion device and experience a set of benefits tailored to <strong>your</strong> exact skin concerns.</p>",
-            "code": "<div class=\"serums_wrap\">\n                                                <img src=\"https://qureskincaredns.com/new/assets/u_serum_1.webp\" alt=\"\" class=\"img-fluid\">\n                                                <div>\n                                                    <h5 class=\"bg-yellow\">Dark Spots</h5>\n                                                    <p>For dark spots and uneven skin tone choose Rejuvenating\n                                                        serum</p>\n                                                </div>\n                                            </div>\n                                            <ul>\n                                                <li>Brightens discolouration, fades dark spots and acne marks,\n                                                    promotes even skin tone and minimizes pores.</li>\n                                                <li>Formulated with Epidermal Growth Factor (EGF), Niacinamide,\n                                                    Tranexamic Acid.</li>\n                                            </ul>\n                                            <div class=\"serums_wrap\">\n                                                <img src=\"https://qureskincaredns.com/new/assets/u_serum_2.webp\" alt=\"\" class=\"img-fluid\">\n                                                <div>\n                                                    <h5 class=\"bg-grey\">Wrinkles</h5>\n                                                    <p>For fine lines and wrinkles choose Hydra-Soothing serum\n                                                    </p>\n                                                </div>\n                                            </div>\n                                            <ul>\n                                                <li>Reduces the look of fine lines and wrinkles, helps soothe\n                                                    redness and boosts hydration.</li>\n                                                <li>Formulated with Beta Glucan, Niacinamide and Tripeptide-1\n                                                    Peptide.</li>\n                                            </ul>"
+            "code": "<div class=\"serums_wrap\">\n                                                <img src=\"https://qureskincaredns-de.com/u_serum_1.webp\" alt=\"\" class=\"img-fluid\">\n                                                <div>\n                                                    <h5 class=\"bg-yellow\">Dark Spots</h5>\n                                                    <p>For dark spots and uneven skin tone choose Rejuvenating\n                                                        serum</p>\n                                                </div>\n                                            </div>\n                                            <ul>\n                                                <li>Brightens discolouration, fades dark spots and acne marks,\n                                                    promotes even skin tone and minimizes pores.</li>\n                                                <li>Formulated with Epidermal Growth Factor (EGF), Niacinamide,\n                                                    Tranexamic Acid.</li>\n                                            </ul>\n                                            <div class=\"serums_wrap\">\n                                                <img src=\"https://qureskincaredns-de.com/u_serum_2.webp\" alt=\"\" class=\"img-fluid\">\n                                                <div>\n                                                    <h5 class=\"bg-grey\">Wrinkles</h5>\n                                                    <p>For fine lines and wrinkles choose Hydra-Soothing serum\n                                                    </p>\n                                                </div>\n                                            </div>\n                                            <ul>\n                                                <li>Reduces the look of fine lines and wrinkles, helps soothe\n                                                    redness and boosts hydration.</li>\n                                                <li>Formulated with Beta Glucan, Niacinamide and Tripeptide-1\n                                                    Peptide.</li>\n                                            </ul>"
           }
         },
         "description_tVQDHe": {
@@ -167,7 +167,7 @@
             "heading": "Product Details",
             "image": "shopify://shop_images/search.svg",
             "image_large": "shopify://shop_images/img_col_e8f6043d-3dfd-4e45-b20d-8d9a3bf04339.png",
-            "content": "<ul><li>0.5 mm needles create controlled depth of micro-channels in the top layer of your skin through a \"stamping\" technique. It “tricks” your skin into activating your body’s natural healing process.</li><li>Single-use sterile 24 gold plated needle heads help minimize the risk of infection or irritation.</li><li>Serum of choice (for wrinkles / for dark spots) is infused directly below the skin barrier, accelerating absorption of active ingredients for faster results.</li></ul><p><a href=\"https://www.qureskincare.com/pages/microinfusion\" title=\"https://www.qureskincare.com/pages/microinfusion\">Learn more about Micro-Infusion System &gt;</a></p>",
+            "content": "<ul><li>0.5 mm needles create controlled depth of micro-channels in the top layer of your skin through a \"stamping\" technique. It “tricks” your skin into activating your body’s natural healing process.</li><li>Single-use sterile 24 gold plated needle heads help minimize the risk of infection or irritation.</li><li>Serum of choice (for wrinkles / for dark spots) is infused directly below the skin barrier, accelerating absorption of active ingredients for faster results.</li></ul><p><a href=\"https://www.qureskincare.de/pages/microinfusion\" title=\"https://www.qureskincare.de/pages/microinfusion\">Learn more about Micro-Infusion System &gt;</a></p>",
             "wistia_id": ""
           }
         },
@@ -177,7 +177,7 @@
             "classname": "faq",
             "heading": "Usage Instructions",
             "image": "shopify://shop_images/usage_dir.svg",
-            "content": "<ul><li>Treatment every 2 weeks, at night, for the best results. </li><li>Follow pre and post treatment protocol.</li><li>Make sure to scan the QR-code on the packaging before use or see detailed protocol <a href=\"https://www.qureskincare.com/pages/microinfusion-safety-guide\">here</a>.</li></ul>",
+            "content": "<ul><li>Treatment every 2 weeks, at night, for the best results. </li><li>Follow pre and post treatment protocol.</li><li>Make sure to scan the QR-code on the packaging before use or see detailed protocol <a href=\"https://www.qureskincare.de/pages/microinfusion-safety-guide\">here</a>.</li></ul>",
             "wistia_id": "yy9nv8vwsn"
           }
         },
@@ -185,7 +185,7 @@
           "type": "button",
           "settings": {
             "button_label": "Detailed How to Use Guide",
-            "button_url": "https://www.qureskincare.com/pages/microinfusion-safety-guide"
+            "button_url": "https://www.qureskincare.de/pages/microinfusion-safety-guide"
           }
         },
         "description_GE3PNL": {
