@@ -571,6 +571,7 @@
         },
         "product_RV8HgT": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "pd_img": "shopify://shop_images/fav_pdt3.webp",
             "pd_name": "All-In-One Face Serum",
@@ -584,6 +585,7 @@
         },
         "product_3hFb8X": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "pd_img": "shopify://shop_images/MITP.png",
             "pd_name": "Micro-Infusion Targeted Patches",
