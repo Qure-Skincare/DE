@@ -605,9 +605,9 @@
         "product_3hFb8X"
       ],
       "settings": {
-        "heading": "Best Sellers",
-        "btn": "Shop All Best-Sellers",
-        "btn_url": "shopify://collections/best-sellers"
+        "heading": "Our Products",
+        "btn": "See More",
+        "btn_url": "shopify://collections/all-products"
       }
     },
     "icons_list_iPVXgA": {
