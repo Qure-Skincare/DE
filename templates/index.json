@@ -460,7 +460,7 @@
           "settings": {
             "heading": "Dr. Prem Tripathi",
             "subheading": "Facharzt für plastische Gesichtschirurgie",
-            "text": "<p>„Ich finde es toll, dass die Produkte von Qure Skincare über rein topische Behandlungen hinausgehen und dabei helfen, die Ergebnisse von klinischen Behandlungen im Alltag zu erhalten.“</p>",
+            "text": "<p>„Ich finde es toll, dass die Produkte von Qure Skincare über rein topische Behandlungen hinausgehen und dabei helfen, die Ergebnisse von klinischen Behandlungen im Alltag aufrecht zu erhalten.“</p>",
             "image": "shopify://shop_images/advisor_4.webp",
             "customClass": ""
           }
@@ -476,10 +476,10 @@
         ".targetSkin .swiper-slide:nth-of-type(4) .text-white {margin-top: -10px;}"
       ],
       "settings": {
-        "heading": "Meet our board of advisors",
-        "heading_mobile": "Board of advisors",
-        "subheading": "At Qure Skincare, we are proud to have a team of esteemed Dermatologists guiding our mission to deliver high-quality skincare solutions.",
-        "subheading_mobile": "Meet our board of advisors:"
+        "heading": "Lernen Sie unsere medizinischen Berater kennen",
+        "heading_mobile": "Medizinische Berater",
+        "subheading": "Wir bei Qure Skincare sind stolz darauf, dass ein Team angesehener Dermatologen unsere Mission, hochwertige Hautpflegelösungen zu liefern, unterstützt.",
+        "subheading_mobile": "Medizinische Berater kennenlernen"
       }
     },
     "featured_collection_Hj3Xcw": {
