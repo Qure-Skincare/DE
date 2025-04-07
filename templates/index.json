@@ -824,11 +824,11 @@
         "box_tkGFdT": {
           "type": "Box",
           "settings": {
-            "heading": "Behandlung verschiedenster Hautprobleme",
+            "heading": "Behandlung verschiedener Hautprobleme",
             "text": "<p>Fühlen Sie sich wohl in Ihrer Haut mit individuellen Behandlungen für Ihren spezifischen Hauttyp und Ihre Hautprobleme. Wir geben Ihnen <strong>klinisch erprobte </strong>Hautpflegeprodukte an die Hand, damit Sie <strong>Ergebnisse wie im Kosmetikstudio</strong> erzielen können – <strong>ganz ohne Rätselraten.</strong></p>",
             "btn_img": "shopify://shop_images/treat-skin-lg.svg",
-            "btn_text": "<p>Behandlung verschiedenster Hautprobleme</p>",
-            "btn_textm": "<p>Behandlung verschiedenster Hautprobleme</p>"
+            "btn_text": "<p>Behandlung verschiedener Hautprobleme</p>",
+            "btn_textm": "<p>Behandlung verschiedener Hautprobleme</p>"
           }
         }
       },
