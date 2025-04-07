@@ -498,8 +498,8 @@
           "type": "column",
           "settings": {
             "c_image": "shopify://shop_images/skin_c2.webp",
-            "name": "Dark spots & uneven skin tone",
-            "button": "Shop Now",
+            "name": "Pigmentflecken & unregelmäßiger Teint",
+            "button": "Jetzt kaufen",
             "btn_url": "https://www.qureskincare.de/collections/dark-spots?ose=false"
           }
         },
