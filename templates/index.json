@@ -631,7 +631,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/derma-ftr.svg",
-            "text": "<p>Dermatologist Tested</p><p>& Approved</p>"
+            "text": "<p>Von Dermatologen</p><p>getestet und empfohlen</p>"
           }
         },
         "icon_iah3Eg": {
