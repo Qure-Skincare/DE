@@ -638,7 +638,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/science-ftr.svg",
-            "text": "<p>Proven Results,</p><p>Backed by science</p>"
+            "text": "<p>Nachgewiesene Ergebnisse, </p><p>wissenschaftlich belegt</p>"
           }
         }
       },
