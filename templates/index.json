@@ -147,9 +147,9 @@
         "heading": "",
         "heading_mobile": "",
         "heading_tag": "h1",
-        "subheading": "<h3>Get clinic-level results</h3><h4>from home- minus</h4><h5>the ‘clinical’ costs.</h5>",
-        "subheading_mobile": "<h3>Get clinic-level results</h3><h4>from home- minus</h4><h5>the ‘clinical’ costs.</h5>",
-        "text": "<p><strong>50,000+ </strong>customers feel more confident in their own skin.</p>",
+        "subheading": "<h3>Ergebnisse wie aus der </h3><h3>Klinik - für minimale</h3><h5>Kosten.</h5>",
+        "subheading_mobile": "<h3>Ergebnisse wie aus der </h3><h3>Klinik - für minimale</h3><h5>Kosten.</h5>",
+        "text": "<p><strong>50.000+ Kunden</strong> fühlen sich wohler in ihrer Haut.</p>",
         "image": "shopify://shop_images/hm_banner_clinic_results.webp",
         "image_mobile": "shopify://shop_images/hm_banner_clinic_results.png_mob.webp",
         "wistia_id": ""
