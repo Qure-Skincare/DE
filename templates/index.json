@@ -824,11 +824,11 @@
         "box_tkGFdT": {
           "type": "Box",
           "settings": {
-            "heading": "Treat Multiple Skin Concerns",
-            "text": "<p>Feel good in your skin with personalized treatments for your specific skin type and concern. We put <strong>clinically proven</strong> skincare in your hands so you can <strong>achieve in-clinic results without the guess work.</strong></p>",
+            "heading": "Behandlung verschiedenster Hautprobleme",
+            "text": "<p>Fühlen Sie sich wohl in Ihrer Haut mit individuellen Behandlungen für Ihren spezifischen Hauttyp und Ihre Hautprobleme. Wir geben Ihnen <strong>klinisch erprobte </strong>Hautpflegeprodukte an die Hand, damit Sie <strong>Ergebnisse wie im Kosmetikstudio</strong> erzielen können – <strong>ganz ohne Rätselraten.</strong></p>",
             "btn_img": "shopify://shop_images/treat-skin-lg.svg",
-            "btn_text": "<p>Treat Multiple Skin Concerns</p>",
-            "btn_textm": "<p>Treat Multiple Skin Concerns</p>"
+            "btn_text": "<p>Behandlung verschiedenster Hautprobleme</p>",
+            "btn_textm": "<p>Behandlung verschiedenster Hautprobleme</p>"
           }
         }
       },
