@@ -617,7 +617,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/free-shipping-ftr.svg",
-            "text": "<p>Free Shipping</p><p>Orders Over $100</p>"
+            "text": "<p>Kostenloser Versand</p><p>bei Bestellungen über 100 €</p>"
           }
         },
         "icon_VEziHa": {
