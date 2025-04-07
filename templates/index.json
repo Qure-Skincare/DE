@@ -814,11 +814,11 @@
         "box_ideJJP": {
           "type": "Box",
           "settings": {
-            "heading": "Saves You Time, and Money",
-            "text": "<p>No one has the time, or the money, to attend regular in-clinic treatments in order to see long lasting results. With Qure, it’s like going to the clinic 5x a week - Minus the cost and the time commitment.</p>",
+            "heading": "Spart Ihnen Zeit und Geld",
+            "text": "<p>Niemand hat die Zeit oder das Geld, regelmäßig zu Behandlungen ins Kosmetikstudio zu gehen, um langfristige Ergebnisse zu erzielen. Mit Qure ist es so, als würde man fünfmal pro Woche ins Kosmetikstudio – minus die Kosten und den Zeitaufwand.</p>",
             "btn_img": "shopify://shop_images/money_time.svg",
-            "btn_text": "<p>Saves You Time, and Money</p>",
-            "btn_textm": "<p>Saves You Time & Money</p>"
+            "btn_text": "<p>Spart Ihnen Zeit und Geld</p>",
+            "btn_textm": "<p>Spart Ihnen Zeit und Geld</p>"
           }
         },
         "box_tkGFdT": {
