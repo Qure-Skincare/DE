@@ -547,12 +547,12 @@
           "type": "product",
           "settings": {
             "pd_img": "shopify://shop_images/MI_new.png",
-            "pd_name": "Micro-Infusion Facial System",
+            "pd_name": "Micro-Infusion-System für das Gesicht",
             "from": true,
             "product": "micro-infusion-1-month-bundle-1x-b-g-serum-1x-e-g-f-serum",
             "bestseller": true,
             "rating": "shopify://shop_images/star-half_fill_d51f6801-2e35-487c-89d0-130f978da1e8.svg",
-            "rating_text": "283 Reviews",
+            "rating_text": "283 Bewertungen",
             "pd_link": "https://www.qureskincare.de/pages/microinfusion"
           }
         },
