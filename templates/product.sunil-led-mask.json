@@ -81,21 +81,21 @@
         "free_gift_EC9AgX"
       ],
       "settings": {
-        "seo_heading": "Red Light Mask Q-Rejuvalight Pro",
+        "seo_heading": "Rotlichtmaske Q-Rejuvalight Pro",
         "heading": "Repair & rejuvenate your skin with our Light Therapy Mask",
-        "heading_mobile": "Repair & rejuvenate your skin with our Light Therapy Mask",
+        "heading_mobile": "Reparieren und verjüngen Sie Ihre Haut mit unserer Lichttherapie-Maske",
         "wistia_id": "",
         "product_images_limit": 5,
         "product_button_label": "Product",
         "before_after_images_limit": 2,
-        "before_after_button_label": "Before & After",
+        "before_after_button_label": "Vorher & Nachher",
         "reserve": false,
-        "underbutton_text_left": "Dermatologist Reviewed",
-        "underbutton_text_right": "Free Shipping Over $100",
+        "underbutton_text_left": "Dermatologisch getestet",
+        "underbutton_text_right": "Versandkostenfrei ab 100 €",
         "selected_design": "new",
-        "text_label_real_result_1": "Product",
-        "text_label_real_result_2": "Real Results",
-        "text_label_real_result_3": "Dermatologist"
+        "text_label_real_result_1": "Produkt",
+        "text_label_real_result_2": "Echte Resultte",
+        "text_label_real_result_3": "Dermatologe"
       }
     },
     "featuredin_yT6yRP": {
@@ -945,6 +945,7 @@
         "classname": "section videosQure",
         "btn": "",
         "btn_url": "",
+        "ctm_cls_btn": "",
         "desk_slide": 6,
         "mob_slide": 1.7,
         "slide_space": 10
