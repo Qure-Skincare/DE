@@ -288,10 +288,10 @@
       "settings": {
         "background": "bg_yellow",
         "classname": "bg_yellow",
-        "heading": "Frequently Asked Questions",
+        "heading": "Häufig gestellte Fragen",
         "text": "",
-        "button_label": "Show More Questions",
-        "button_hide_label": "Hide More Questions"
+        "button_label": "Weitere Fragen einblenden",
+        "button_hide_label": "Weitere Fragen ausblenden"
       }
     },
     "featured_collection_YxcB6X": {
