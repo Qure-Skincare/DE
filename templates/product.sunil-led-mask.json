@@ -1070,7 +1070,7 @@
             "text": "<p><strong>Kosten für sechs Sitzungen</strong></p>",
             "price": "300 - 900 €",
             "style": "incorrectCircle",
-            "list": "<ul><li><strong>Zeitaufwändig </strong>– falls Sie überhaupt einen Termin bekommen</li><li><strong>Begrenzte Anzahl an Behandlungen.</strong></li><li><strong>Regelmäßige</strong> Besuche erforderlich.</li><li>Laufende Kosten.</li></ul><p></p>"
+            "list": "<ul><li><strong>Zeitaufwändig </strong>– falls Sie überhaupt einen Termin bekommen</li><li><strong>Begrenzte Anzahl an Behandlungen</strong></li><li><strong>Regelmäßige</strong> Besuche erforderlich</li><li>Laufende Kosten</li></ul><p></p>"
           }
         }
       },
