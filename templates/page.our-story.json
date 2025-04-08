@@ -248,12 +248,12 @@
       "type": "trusted-simple",
       "settings": {
         "heading": "Von weltweit führenden Dermatologen anerkannt",
-        "text": "<p>Was uns auszeichnet, ist das unerschütterliche Vertrauen, das wir uns bei unserer Mission, professionelle Hautpflege zu demokratisieren, von Dermatologen erarbeitet haben.</p><p>Wir sind stolz darauf, die Lücke zwischen professioneller Expertise und für jedermann zugängliche Hautpflege zu schließen. So können wir Ihnen wissenschaftlich fundierte, klinisch hochwertige Hautbehandlungen anbieten, die Sie ganz einfach selbst durchführen können – ganz bequem und privat in Ihrem eigenen Zuhause.</p>",
+        "text": "<p>Was uns auszeichnet, ist das unerschütterliche Vertrauen, das wir uns bei unserer Mission, professionelle Hautpflege zu demokratisieren, von Dermatologen erarbeitet haben.</p><p>Wir sind stolz darauf, die Lücke zwischen professioneller Expertise und Hautpflege, die für alle zugänglich ist, zu schließen. Daher bieten wir Ihnen wissenschaftlich fundierte, klinisch hochwertige Hautbehandlungen, die Sie ganz einfach selbst durchführen können – ganz bequem und privat in Ihrem eigenen Zuhause.</p>",
         "image": "shopify://shop_images/trusted_main.webp",
         "video_url": "https://www.youtube.com/watch?v=I2Fe-kP-2Jg",
-        "video_label": "Click To Watch Review",
-        "likes": "4.8K",
-        "views": "192k views"
+        "video_label": "Klicken Sie, um die Bewertungen anzusehen",
+        "likes": "4.800",
+        "views": "192.000 Aufrufe"
       }
     }
   },
