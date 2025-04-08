@@ -28,8 +28,8 @@
         "@media (max-width: 768px) {.section_header {text-align: center !important; }}"
       ],
       "settings": {
-        "heading": "Qure Skincare Creator Program",
-        "text": "<p><strong>Become a Qure Ambassador and be part of a community that shapes the future of skincare.</strong></p><p>Let’s bridge the gap to better skincare together and spread skin confidence worldwide.</p>",
+        "heading": "Qure Skincare Creator-Programm",
+        "text": "<p><strong>Werden Sie Qure-Botschafter und Teil einer Gemeinschaft, die die Zukunft der Hautpflege gestaltet.</strong></p><p>Lassen Sie uns gemeinsam die Lücke zu einer besseren Hautpflege schließen und weltweit dafür sorgen, dass sich noch mehr Menschen in ihrer Haut wohlfühlen.</p>",
         "image": "shopify://shop_images/affiliate_banner_desk_eac3f62e-a6b8-4b8f-baac-348068557bce.webp",
         "image_mobile": "shopify://shop_images/affiliate_banner_mob_a82bdff3-59df-4ee9-9461-040862208406.webp",
         "align_center": false,
@@ -197,7 +197,6 @@
           "type": "object",
           "settings": {
             "heading": "Influencers",
-            "image": "shopify://shop_images/affiliate_s_m_2.webp",
             "button_label": "Join now",
             "button_url": "#shopify-section-template--17601769439471__liquid_ebhnbf"
           }
