@@ -15,7 +15,7 @@
         "button_hD4WnF": {
           "type": "button",
           "settings": {
-            "button_label": "Vertriebsanfrage einreichen",
+            "button_label": "Vertrieb anfragen",
             "button_url": "#stocklist_form",
             "classname": "btn_white m-0"
           }
