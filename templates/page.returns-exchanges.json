@@ -265,8 +265,8 @@
         "object_ARnU9X": {
           "type": "object",
           "settings": {
-            "heading": "How long does it take to credit my account for refunds?",
-            "text": "<p>Please allow up to 7-14 business days for your return to be processed. Credit card refunds usually take 5-10 business days to appear on your statement.</p>",
+            "heading": "Wie lange dauert es, bis Rückerstattungen meinem Konto gutgeschrieben werden?",
+            "text": "<p>Bitte rechnen Sie mit einer Bearbeitungszeit von 7 bis 14 Werktagen für Ihre Rücksendung. Bei Kreditkartenrückerstattungen dauert es in der Regel 5 bis 10 Werktage, bis der Betrag auf Ihrem Kontoauszug erscheint.</p>",
             "code": ""
           }
         },
