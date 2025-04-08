@@ -52,8 +52,8 @@
         "object_XGWAbF": {
           "type": "object",
           "settings": {
-            "heading": "Plan and Schedule",
-            "text": "<p>The Qure planner shows your treatment history and scheduled treatments in a monthly calendar. View your total summary of completed challenges, monthly and yearly treatments.</p>",
+            "heading": "Planen",
+            "text": "<p>Der Qure-Planer zeigt Ihre Behandlungshistorie sowie Ihre geplanten Behandlungen. Sehen Sie in der Gesamtübersicht Ihre abgeschlossenen Challenges sowie Ihre monatlichen und jährlichen Behandlungen.</p>",
             "image": "shopify://shop_images/app_out_3.webp"
           }
         },
