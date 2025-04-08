@@ -44,8 +44,8 @@
         "object_HQFWDh": {
           "type": "object",
           "settings": {
-            "heading": "Customize Treatments",
-            "text": "<p>Customize your LED treatments for a personalized program that’s unique to your skin’s profile. Choose between the Anti-Aging or Anti-Breakout treatment on 5 facial areas to treat your specific skin concerns, no one else's.</p>",
+            "heading": "Behandlungen individuell anpassen",
+            "text": "<p>Passen Sie Ihre LED-Behandlungen an, um ein personalisiertes Programm zu erhalten, das auf das Profil Ihrer Haut zugeschnitten ist. Wählen Sie für 5 Gesichtsbereiche zwischen der Anti-Aging- oder der Anti-Unreinheiten-Behandlung. Behandeln Sie Ihre eigenen Hautprobleme so ganz spezifisch.</p>",
             "image": "shopify://shop_images/app_out_2.webp"
           }
         },
