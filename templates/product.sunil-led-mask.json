@@ -1053,12 +1053,12 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/compare-1_274fb7f7-5fac-4ee0-81f9-94699d7576c9.png",
-            "heading": "Q-Rejuvalight Pro LED Mask",
+            "heading": "Q-Rejuvalight Pro LED-Maske",
             "mob_text": "",
-            "text": "<p><strong>One-time cost investment</strong></p>",
-            "price": "$379",
+            "text": "<p><strong>Einmalige Kosteninvestition</strong></p>",
+            "price": "379 €",
             "style": "correctCircle",
-            "list": "<ul><li>saves you time</li><li>comfort and privacy of your own home</li><li><strong>unlimited treatments</strong></li><li><strong>only 3 minutes daily</strong></li><li>no ongoing payments</li></ul>"
+            "list": "<ul><li>Zeitersparnis</li><li>Komfort und Privatsphäre ihrer eigenen vier Wände</li><li><strong>unbegrenzte Behandlungen</strong></li><li><strong>nur 3 Minuten täglich</strong></li><li>keine laufenden Kosten</li></ul><p></p>"
           }
         },
         "object_Kxz9qm": {
