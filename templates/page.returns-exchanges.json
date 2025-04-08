@@ -312,7 +312,7 @@
             "c_image": "shopify://shop_images/more_help2.webp",
             "name": "",
             "button": "Erfahren Sie mehr auf dem Blog",
-            "btn_url": ""
+            "btn_url": "shopify://blogs/all"
           }
         },
         "column_crELCA": {
