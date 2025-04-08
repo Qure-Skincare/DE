@@ -204,11 +204,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/results_john.webp",
-            "heading": "Healthier-looking glow",
-            "text": "<p>“My skin feels a lot more clear, considerably less oily, and all round a healthier-looking glow. My breakout scars had even been reduced!”</p>",
+            "heading": "Gesündere Ausstrahlung",
+            "text": "<p>„Meine Haut fühlt sich deutlich reiner an, ist spürbar weniger fettig und sieht insgesamt gesünder aus. Sogar meine Pickelnarben sind zurückgegangen!“</p>",
             "see-more": "",
             "image_country": "shopify://shop_images/canada_f.svg",
-            "text_country": "Canada",
+            "text_country": "Kanada",
             "client": "John P.",
             "code": ""
           }
