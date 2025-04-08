@@ -861,12 +861,12 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/beauty_derma1.webp",
-            "heading": "Behandlungen beim Dermatologen / im Kosmetikstudio",
+            "heading": "Behandlungen im Kosmetikstudio / beim Dermatologen",
             "mob_text": "",
             "text": "",
             "price": "",
             "style": "incorrectCircle",
-            "list": "<ul><li>Zeitaufwändige Anfahrt</li><li>Termine nicht immer verfügbar</li><li>Weniger Behandlungen – weniger Ergebnisse</li><li>Laufende Zahlungen</li></ul>"
+            "list": "<ul><li>Zeitaufwändige Anfahrt</li><li>Termine nicht immer verfügbar</li><li>Weniger Behandlungen – weniger Ergebnisse</li><li>Laufende Kosten</li></ul>"
           }
         }
       },
