@@ -46,8 +46,8 @@
           "type": "Block",
           "settings": {
             "product_guide_img": "shopify://shop_images/product_guide-4.webp",
-            "micro_title": "Shower Filter",
-            "micro_desc": "<p>Installation & Filter Replacement</p>",
+            "micro_title": "Duschkopffilter",
+            "micro_desc": "<p>Einbau & Austausch</p>",
             "micro_prod_link": "https://qureskincare.de/pages/shower-filter-online-guide",
             "arrow_img": "shopify://shop_images/arrow-next.png"
           }
