@@ -432,7 +432,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/free-shipping-ftr.svg",
-            "text": "<p>Free Shipping</p><p>Orders Over $100</p>"
+            "text": "<p>Versandkostenfreie Lieferung</p><p>ab 100 € Bestellwert</p>"
           }
         },
         "icon_E9efAW": {
