@@ -820,13 +820,13 @@
           "type": "details",
           "settings": {
             "heading": "Behandlungsdetails",
-            "text": "<p><strong>ANWENDUNG: </strong>Täglich nach der Reinigung und vor der Anwendung von Hautpflegeprodukten verwenden.</p><p><strong>ANTI-AGING-BEHANDLUNG: </strong>415 nm (Blau), 605 nm (Bernstein), 630 nm (Rot), 660 nm (Tiefrot), 880 nm (Infrarot)</p><p><strong>ANIT-UNREINHEITEN-BEHANDLUNGEN: </strong>415 nm (Blau), 630 nm (Rot)</p><p><strong>INDIVIDUELLE BEHANDLUNG:</strong> Behandlungsmodi für 5 verschiedene Gesichtsbereiche wählbar </p><p><strong>HAUTTYP: </strong>Am besten geeignet für die Fitzpatrick-Hauttypen I-IV</p>"
+            "text": "<p><strong>ANWENDUNG: </strong>Täglich nach der Reinigung und vor der Anwendung von Hautpflegeprodukten verwenden.</p><p><strong>ANTI-AGING-BEHANDLUNG: </strong>415 nm (Blau), 605 nm (Bernstein), 630 nm (Rot), 660 nm (Tiefrot), 880 nm (Infrarot)</p><p><strong>ANIT-UNREINHEITEN-BEHANDLUNG: </strong>415 nm (Blau), 630 nm (Rot)</p><p><strong>INDIVIDUELLE BEHANDLUNG:</strong> Behandlungsmodi für 5 verschiedene Gesichtsbereiche wählbar </p><p><strong>HAUTTYP: </strong>Am besten geeignet für die Fitzpatrick-Hauttypen I-IV</p>"
           }
         },
         "content_reduced_EApyeE": {
           "type": "content_reduced",
           "settings": {
-            "text": "<h2>Personalized clinical-grade LED</h2><h3>See transformative results in less than 12 weeks. <br/>[image_mobile]</h3><p>Safe, clinically proven light wavelengths <strong>penetrate various skin layers to trigger natural cellular regeneration processes</strong>, treating the skin from the inside out for immediate, long-lasting results. </p><p>[details]</p>",
+            "text": "<h2>Klinische LED-Behandlungen, auf Ihre Haut zugeschnitten</h2><h3>Transformative Resultate in weniger als 12 Wochen.<br/>[image_mobile]</h3><p>Sichere, <strong>klinisch erprobte</strong>Wellenlängen dringen in verschiedenen Tiefen in die Hautschichten ein. Dort lösen sie natürliche zelluläre Reaktionen aus und behandeln Hautprobleme so von innen heraus: für sofortige und lang anhaltende Ergebnisse.</p><p>[details]</p>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
