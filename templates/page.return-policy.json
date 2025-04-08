@@ -320,7 +320,7 @@
           "settings": {
             "c_image": "shopify://shop_images/more_help3.webp",
             "name": "",
-            "button": "Shop Best Sellers ",
+            "button": "Kaufen Sie Bestseller",
             "btn_url": "shopify://collections/best-sellers"
           }
         }
