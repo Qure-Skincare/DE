@@ -1065,12 +1065,12 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/beauty_derma.webp",
-            "heading": "In-Clinic/\\n Dermatologist",
+            "heading": "Kosmetikstudio/Dermatologe",
             "mob_text": "",
-            "text": "<p><strong>per 6 session treatment cost</strong></p>",
-            "price": "$300 - $900",
+            "text": "<p><strong>Kosten für sechs Sitzungen</strong></p>",
+            "price": "300 - 900 €",
             "style": "incorrectCircle",
-            "list": "<ul><li><strong>time-consuming</strong> commute to clinic </li><li>when (if) you get an appointment</li><li><strong>limited treatments</strong></li><li>requires <strong>regular visits</strong></li><li>ongoing payments required</li></ul>"
+            "list": "<ul><li><strong>Zeitaufwändig </strong>– falls Sie überhaupt einen Termin bekommen</li><li><strong>Begrenzte Anzahl an Behandlungen.</strong></li><li><strong>Regelmäßige</strong> Besuche erforderlich.</li><li>Laufende Kosten.</li></ul><p></p>"
           }
         }
       },
