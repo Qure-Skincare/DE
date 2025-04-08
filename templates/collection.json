@@ -239,10 +239,10 @@
       ],
       "settings": {
         "classname": "mi_landing_result all_bg_gradient_green_tb",
-        "heading": "Results you‘ll see with your own eyes",
+        "heading": "Sehen Sie die Resultate selbst",
         "heading_reduced": "",
         "text_verified_customer": "Verified customer",
-        "text_reviewed": "Reviewed in"
+        "text_reviewed": "Bewertet in"
       }
     }
   },
