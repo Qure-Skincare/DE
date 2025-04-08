@@ -114,7 +114,7 @@
         "link_GirQqh": {
           "type": "link",
           "settings": {
-            "link_label": "Kaufen Sie die Bestseller",
+            "link_label": "Kaufen Sie unsere Bestseller",
             "link_label_mobile": "Bestseller kaufen",
             "link_url": "shopify://collections/best-sellers"
           }
