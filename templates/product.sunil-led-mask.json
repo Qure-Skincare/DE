@@ -293,8 +293,8 @@
           "type": "text_content",
           "settings": {
             "trust_icon": "shopify://shop_images/verified_design.svg",
-            "trust_des": "Trusted and recommended by world leading Dermatologists",
-            "title": "\"The best LED mask <strong>on the market in my opinion at this time, that being said you do need to </strong>use this consistently to see results…\"",
+            "trust_des": "Von weltweit führenden Dermatologen empfohlen",
+            "title": "„Meiner Meinung nach die derzeit <strong>beste LED-Maske </strong>auf dem Markt. Allerdings muss man sie <strong>konsequent verwenden</strong>, um Ergebnisse zu sehen ...“",
             "title_clr": "#000000",
             "title_strong_clr": "#797d7c"
           }
