@@ -16,8 +16,8 @@
           "type": "Block",
           "settings": {
             "product_guide_img": "shopify://shop_images/product_guide-1.webp",
-            "micro_title": "Micro-Infusion Facial System",
-            "micro_desc": "<p>How To Use, Safety Treatment Protocols, etc..</p>",
+            "micro_title": "Micro-Infusion Gesichtssystem",
+            "micro_desc": "<p>Verwendung, Sicherheitsmaßnahmen etc.</p>",
             "micro_prod_link": "https://qureskincare.de/pages/microinfusion-safety-guide",
             "arrow_img": "shopify://shop_images/arrow-next.png"
           }
