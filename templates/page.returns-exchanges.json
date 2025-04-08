@@ -311,7 +311,7 @@
           "settings": {
             "c_image": "shopify://shop_images/more_help2.webp",
             "name": "",
-            "button": "Discover More on the Blog",
+            "button": "Erfahren Sie mehr auf dem Blog",
             "btn_url": ""
           }
         },
@@ -320,7 +320,7 @@
           "settings": {
             "c_image": "shopify://shop_images/more_help3.webp",
             "name": "",
-            "button": "Shop Best Sellers ",
+            "button": "Kaufen Sie Bestseller",
             "btn_url": ""
           }
         }
