@@ -1081,10 +1081,10 @@
       "settings": {
         "classname": "beauty_skincare section bg-white",
         "sub_head": "",
-        "heading": "The beauty of clinical results from home - without the ‘clinical’ costs",
-        "heading_reduced": "Clinical results from home – without the “clinical” cost",
-        "text": "<p>It’s like going to a clinic, minus the on-going costs, the time commitment, the overpromises, the upselling and the hassle.</p>",
-        "text_reduced": "<p>Stop worrying about the “clinical” time commitment, transportation costs, overpromises, upselling, and hassle.</p>",
+        "heading": "Schöne Ergebnisse wie aus dem Kosmetikstudio - aber ohne die Kosten.",
+        "heading_reduced": "Schöne Ergebnisse wie aus dem Kosmetikstudio - aber ohne die Kosten.",
+        "text": "<p>Es ist wie ein Besuch im Kosmetikstudio, nur ohne die laufenden Kosten, den Zeitaufwand, die überzogenen Versprechungen, die aufdringliche Verkaufsstrategien und den Ärger.</p>",
+        "text_reduced": "<p>Machen Sie sich keine Sorgen mehr über Zeitaufwand, Anreisekosten, überzogene Versprechen und den Ärger.</p>",
         "design": false
       }
     },
