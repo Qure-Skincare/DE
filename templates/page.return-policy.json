@@ -257,8 +257,8 @@
         "object_Tt4cat": {
           "type": "object",
           "settings": {
-            "heading": "What should I do if I receive the wrong product?",
-            "text": "<p>If you received a product different from the one that you ordered, please contact us at<a href=\"mailto:support@qureskincare.de\">support@qureskincare.de</a>and we’ll be sure to make this right!</p>",
+            "heading": "Was soll ich tun, wenn ich das falsche Produkt erhalten habe?",
+            "text": "<p>Falls Sie ein anderes Produkt erhalten haben als das, das Sie bestellt haben, kontaktieren Sie uns bitte unter <a>support@qureskincare.de</a> und wir werden sicherstellen, dass das Problem schnellstmöglich behoben wird.</p>",
             "code": ""
           }
         },
