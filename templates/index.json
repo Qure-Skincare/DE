@@ -973,10 +973,10 @@
         "form_FCEpBt"
       ],
       "settings": {
-        "heading": "Personalized solutions for your skin’s unique needs",
-        "text": "<p>Answer a few questions and we’ll tell you how to achieve your skincare goals.</p>",
-        "btn_text": "Claim Free Consultation",
-        "btn_url": "https://www.qureskincare.de/pages/skin-consultation"
+        "heading": "Individuelle Lösungen für Ihre Hautbedürfnisse",
+        "text": "<p>Beantworten Sie ein paar Fragen und wir zeigen Ihnen, wie Sie Ihre Hautziele erreichen können.</p>",
+        "btn_text": "Kostenlose Beratung anfordern",
+        "btn_url": "shopify://pages/skin-consultation"
       }
     }
   },
