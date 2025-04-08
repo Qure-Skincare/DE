@@ -273,8 +273,8 @@
         "object_HcDU7C": {
           "type": "object",
           "settings": {
-            "heading": "Is there a Restocking Fee?",
-            "text": "<p>Yes, a return fee will be deducted from the refund to cover the warehouse cost to return the product. This fee amounts to $10 for all products. Customer service agents can provide a more exact cost if the returned product is subject to a shipping fee.</p>",
+            "heading": "Fällt eine Gebühr für die Rücksendung an?",
+            "text": "<p>Ja, von der Rückerstattung wird eine Rücknahmegebühr abgezogen, um die logistischen Kosten für die Wiedereinlagerung des Produkts zu decken. Diese Gebühr beträgt für alle Produkte 10 €.</p>",
             "code": ""
           }
         }
