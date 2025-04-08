@@ -78,7 +78,7 @@
           "tab_3Wyyea": {
             "type": "tab",
             "settings": {
-              "heading": "🤍 Rediscover The Qure"
+              "heading": "🤍 Entdecken Sie The Qure neu"
             }
           },
           "banner_jrcxU4": {
@@ -93,7 +93,7 @@
             "type": "banner",
             "settings": {
               "image": "shopify://shop_images/header_drop3.webp",
-              "button_label": "Q-Rejuvalight Pro [Kurzanleitung]",
+              "button_label": "Q-Rejuvalight Pro [Quick Start Guide]",
               "button_url": "https://www.qureskincare.de/pages/q-rejuvalight-pro-led-mask-guide"
             }
           },
@@ -101,7 +101,7 @@
             "type": "banner",
             "settings": {
               "image": "shopify://shop_images/header_drop4.webp",
-              "button_label": "Erfahren Sie mehr zur Mikroinfusion [Detaillierte Anleitung]",
+              "button_label": "See Micro-Infusion [Detailed Guide]",
               "button_url": "https://www.qureskincare.de/pages/microinfusion-safety-guide"
             }
           },
@@ -109,7 +109,7 @@
             "type": "banner",
             "settings": {
               "image": "shopify://shop_images/header_drop1.webp",
-              "button_label": "[Mikro-Infusion] kaufen: Erscheinungsbild von Falten reduzieren",
+              "button_label": "Shop [Micro-Infusion]: reduce look of wrinkles",
               "button_url": "https://www.qureskincare.de/pages/microinfusion"
             }
           },
@@ -117,7 +117,7 @@
             "type": "banner",
             "settings": {
               "image": "shopify://shop_images/header_drop2.webp",
-              "button_label": "Versand & Umtausch",
+              "button_label": "Shipping & Exchanges",
               "button_url": "shopify://pages/faq-orders-shipping"
             }
           }
