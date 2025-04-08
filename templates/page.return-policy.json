@@ -249,8 +249,8 @@
         "object_UL7zfM": {
           "type": "object",
           "settings": {
-            "heading": "I used a promo code on my purchase. Will I get another one?",
-            "text": "<p>Orders placed with a promo code that discounts the order are only eligible for a store credit in a form of voucher(s).</p>",
+            "heading": "Ich habe bei meinem Einkauf einen Gutscheincode verwendet. Erhalte ich einen neuen?",
+            "text": "<p>Bestellungen, die mit einem Rabatt-Code aufgegeben wurden, der den Betrag der Bestellung reduziert, sind nur für ein Guthaben in Form von Gutscheinen berechtigt.</p>",
             "code": ""
           }
         },
