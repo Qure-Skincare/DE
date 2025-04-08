@@ -303,7 +303,7 @@
             "c_image": "shopify://shop_images/more_help1.webp",
             "name": "",
             "button": "Starten Sie Ihre Hautberatung",
-            "btn_url": ""
+            "btn_url": "shopify://pages/skin-consultation"
           }
         },
         "column_A4Tzbx": {
