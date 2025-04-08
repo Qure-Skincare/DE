@@ -15,7 +15,7 @@
         "button_ytUV8q": {
           "type": "button",
           "settings": {
-            "button_label": "Join now",
+            "button_label": "Jetzt anmelden",
             "button_url": "#affiliate-sign-up-form",
             "classname": "buy_btn mw-359 m-0 w-100 d-inline-block"
           }
