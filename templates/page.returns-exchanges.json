@@ -250,7 +250,7 @@
           "type": "object",
           "settings": {
             "heading": "Ich habe bei meinem Einkauf einen Gutscheincode verwendet. Erhalte ich einen neuen?",
-            "text": "<p>Bestellungen, die mit einem Rabatt-Code aufgegeben wurden, der den Betrag der Bestellung reduziert, sind nur für ein Store-Guthaben in Form von Gutscheinen berechtigt.</p>",
+            "text": "<p>Bestellungen, die mit einem Rabatt-Code aufgegeben wurden, der den Betrag der Bestellung reduziert, sind nur für ein Guthaben in Form von Gutscheinen berechtigt.</p>",
             "code": ""
           }
         },
