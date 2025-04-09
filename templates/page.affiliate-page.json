@@ -269,7 +269,7 @@
         "button_PxHQH3": {
           "type": "button",
           "settings": {
-            "button_label": "Join now",
+            "button_label": "Jetzt mitmachen",
             "button_url": "https://qure.postaffiliatepro.com/affiliates/signup.php#SignupForm"
           }
         }
@@ -299,9 +299,9 @@
     "solution_form_yD8EYM": {
       "type": "solutionForm",
       "settings": {
-        "heading": "Want to collaborate with us as a UGC creator?",
-        "text": "<h6>Please reach out to us at: <a href=\"mailto:ugc@qureskincare.de\" title=\"ugc@qureskincare.de\"><strong>ugc@qureskincare.de</strong></a><strong> </strong><br/><br/>In the information please include the following:<br/></h6><ul><li>- Your age.</li><li>- Location.</li><li>- Portfolio.</li><li>- Socials.</li><li>- Some makeup-free images of your skin.<br/><br/>We'll be in touch!'<br/><br/></li></ul>",
-        "btn_text": "Send an e-mail",
+        "heading": "Du möchtest als UGC-Creator mit uns zusammenarbeiten?",
+        "text": "<h6><strong>Bitte kontaktiere uns unter: ugc@qureskincare.de</strong></h6><h6></h6><h6><strong>Gib uns bitte folgende Informationen:</strong></h6><ul><li>- Dein Alter</li><li>- Standort</li><li>- Portfolio</li><li>- Soziale Netzwerke</li><li>- Ein paar ungeschminkte Bilder Deiner Haut</li></ul><p>Wir melden uns!</p>",
+        "btn_text": "E-Mail senden",
         "btn_url": "mailto:ugc@qureskincare.de"
       }
     }
