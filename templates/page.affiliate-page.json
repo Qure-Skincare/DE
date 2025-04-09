@@ -164,8 +164,8 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/join_handshake.jpg",
-            "heading": "Dedicated Ambassador Manager",
-            "text": "<p>To help you understand how to grow your following, get the most out of the program and progress at an individual level</p>"
+            "heading": "Engagierte Manager",
+            "text": "<p>Sie helfen Dir, um zu verstehen, wie Du Deine Reichweite vergrößern, das Programm optimal nutzen und auf individueller Ebene Fortschritte erzielen kannst</p>"
           }
         }
       },
