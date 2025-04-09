@@ -217,7 +217,7 @@
         "text_t9tnXK": {
           "type": "text",
           "settings": {
-            "text": "<p>„Die Behandlungszeit beträgt nur drei Minuten – so kurz wie bei kaum einem anderen Gerät.“</p>"
+            "text": "<p>„Die Behandlungszeit beträgt nur drei Minuten – so wenig wie bei kaum einem anderen Gerät.“</p>"
           }
         },
         "image_PmUxLt": {
@@ -284,7 +284,7 @@
         "text_dUdLVN"
       ],
       "settings": {
-        "heading": "FEATURED IN",
+        "heading": "BEKANNT AUS",
         "slider_type": "five_slides",
         "slide_per_view_desktop": 3,
         "slide_per_view_mobile": 3
