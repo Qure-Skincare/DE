@@ -501,8 +501,8 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/results_tiffany.webp",
-            "heading": "Renewed Skin!",
-            "text": "<p>\"My Qure mask has been amazing! As someone who struggles with acne and rosacea, your LED light therapy mask has improved my skin so much that I can now feel comfortable without any makeup. I’m very happy with this product!\"</p>",
+            "heading": "Erneuerte Haut",
+            "text": "<p>Meine Qure-Maske ist unglaublich! Als jemand, die mit Akne und Rosacea zu kämpfen hat, hat die LED-Lichttherapie-Maske meine Haut so sehr verbessert, dass ich mich jetzt auch ohne Make-up wohlfühle. Ich bin sehr zufrieden mit diesem Produkt!</p>",
             "see-more": "",
             "image_country": "shopify://shop_images/america_f.webp",
             "text_country": "United States",
@@ -514,8 +514,8 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/Terri_P_results.png",
-            "heading": "Wish I had this technology years ago!",
-            "text": "<p>“After two weeks I began to see results and after six weeks the changes in my skin were dramatic. I have now been using Qure six months and loving the compliments! I bought masks for my daughters for Christmas so they could start at a younger age…. I wish this technology had been available when I was younger. I am 76 years old! Photos below are after 6 weeks.”</p>",
+            "heading": "Ich wünschte, ich hätte diese Technologie schon vor Jahren gehabt",
+            "text": "<p>Nach zwei Wochen konnte ich erste Ergebnisse sehen und nach sechs Wochen waren die Veränderungen meiner Haut dramatisch. Ich benutze Qure jetzt seit sechs Monaten und bin begeistert von den Komplimenten! Ich habe meinen Töchtern zu Weihnachten Masken gekauft, damit sie in einem jüngeren Alter damit anfangen können.... Ich wünschte, es hätte diese Technologie gegeben, als ich jünger war. Ich bin 76 Jahre alt! Das Foto rechts ist nach 6 Wochen aufgenommen.</p>",
             "see-more": "",
             "image_country": "shopify://shop_images/america_f.webp",
             "text_country": "United States",
@@ -689,7 +689,7 @@
         "classname": "mi_landing_result",
         "heading": "Sehen Sie die Resultate selbst",
         "heading_reduced": "Sehen Sie die Resultate selbst",
-        "text_verified_customer": "Verifizierter Kunde",
+        "text_verified_customer": "Verifizierte Kundin",
         "text_reviewed": "Aus"
       }
     },
