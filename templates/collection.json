@@ -55,14 +55,14 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/derma-ftr.svg",
-            "text": "<p>Dermatologist</p><p>Reviewed & Approved</p>"
+            "text": "<p>Von Dermatologen</p><p>getestet und empfohlen</p>"
           }
         },
         "icon_PncCDy": {
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/science-ftr.svg",
-            "text": "<p>Proven Results,</p><p>Backed by science</p>"
+            "text": "<p>Nachgewiesene Ergebnisse, </p><p>wissenschaftlich belegt</p>"
           }
         }
       },
