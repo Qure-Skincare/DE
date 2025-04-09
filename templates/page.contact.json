@@ -16,16 +16,16 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/live-chat.svg",
-            "heading": "LIVE CHAT",
-            "text": "<p>Experts are Available: Mon-Sat</p><p>9AM - 5PM EST<br/>9AM - 5PM AEST</p><p>9AM -5PM CET</p>"
+            "heading": "LIVE-CHAT",
+            "text": "<p>Verfügbarkeit: Montag bis Samstag</p><p>9.00 - 17.00 Uhr (EST)<br/>9.00 - 17.00 Uhr (AEST)</p><p>9.00 - 17.00 Uhr (CET)</p>"
           }
         },
         "object_UNNXkx": {
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/call-us.svg",
-            "heading": "CALL US",
-            "text": "<p><strong>+1 (240) 702-2228</strong></p><p>Availability: Mon-Sat</p><p>9AM - 5PM EST</p>"
+            "heading": "RUFEN SIE UNS AN",
+            "text": "<p><strong>+1 (240) 702-2228</strong></p><p>Verfügbarkeit: Montag - Samstag</p><p>9.00 -  17.00 Uhr (EST)</p>"
           }
         },
         "object_ejQnXh": {
