@@ -44,7 +44,7 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/affiliate_h_w_1_22fdaba6-7ac4-464a-9cbd-9454882ef5fd.webp",
-            "heading": "Apply",
+            "heading": "Bewerben",
             "text": ""
           }
         },
@@ -52,7 +52,7 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/affiliate_h_w_2.webp",
-            "heading": "Create",
+            "heading": "Kreieren",
             "text": ""
           }
         },
@@ -60,7 +60,7 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/affiliate_h_w_3.webp",
-            "heading": "Share",
+            "heading": "Teilen",
             "text": ""
           }
         }
