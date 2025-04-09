@@ -115,7 +115,7 @@
       ],
       "settings": {
         "background": "bg_clr_transparent",
-        "heading": "Quick Facts",
+        "heading": "",
         "hide_on_mob": false,
         "column": 6,
         "padding_top": 0,
