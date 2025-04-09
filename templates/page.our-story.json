@@ -165,25 +165,6 @@
             "popup_content": "<p>87 % der Teilnehmer berichteten bei einer klinischen Beurteilung ohne Wissen der Prüfer von einer Verringerung des Fitzpatrick-Faltenschweregrads. Verbesserungen im Hautbild bei mit LED behandelten Personen deuteten darauf hin, dass es sich bei LED bei 660 nm um eine sichere und effektive Strategie zur Kollagenverbesserung handelt. Es wurden keine Nebenwirkungen oder Ausfallzeiten gemeldet.</p><p><strong>Über die klinische Studie<br/></strong><br/>Die klinische Studie wurde durchgeführt und untersuchte das Potenzial von Licht-emittierenden Dioden (LED) mit 660 nm. Die Effekte von LED wurden anschließend bei älteren bzw. lichtgeschädigten Personen in einer Split-Face, einfach verblindeten Studie bewertet.<br/><br/><em>Referenz: SOURCE: J Invest Dermatol. 2009 Dez;129(12):2751-9. doi: 10.1038/jid.2009.186. Epub 2009 Jul 9</em></p>"
           }
         },
-        "slide_qXmD6H": {
-          "type": "slide",
-          "settings": {
-            "heading": "",
-            "product": "",
-            "product_title": "",
-            "product_url": "",
-            "text_before": "",
-            "text_after": "",
-            "client": "",
-            "progress": 85,
-            "progress_text": "",
-            "text": "",
-            "feedback_title": "In einer klinischen Studie ...",
-            "feedback_text": "",
-            "popup_link_text": "Mehr zur klinischen Studie",
-            "popup_content": ""
-          }
-        },
         "slide_CPkxQK": {
           "type": "slide",
           "settings": {
@@ -233,7 +214,6 @@
       },
       "block_order": [
         "slide_CTdQkN",
-        "slide_qXmD6H",
         "slide_CPkxQK",
         "slide_rQUTdk"
       ],
