@@ -1167,8 +1167,8 @@
         "object_WzL6if": {
           "type": "object",
           "settings": {
-            "heading": " Is it FDA cleared? ",
-            "text": "<p>YES! Our Q-Rejuvalight Pro LED mask is the <strong>world’s first customizable, FDA-cleared at-home LED mask</strong> that is <span style=\"text-decoration:underline\">proven</span> to be an effective and safe treatment for acne, and aging skin issues. You may find more details on the FDA website (K230042).</p>",
+            "heading": "Ist sie durch die FDA zugelassen?",
+            "text": "<p>Ja. Unsere Q-Rejuvalight Pro LED-Maske ist die <strong>weltweit erste anpassbare, von der FDA zugelassene LED-Maske für zu Hause</strong>, die <span style=\"text-decoration:underline\">nachgewiesen</span> wirksam und sicher Akne und Anzeichen von Hautalterung bekämpft. Weitere Informationen finden Sie auf der Website der FDA unter dem Code K230042.</p>",
             "code": ""
           }
         },
