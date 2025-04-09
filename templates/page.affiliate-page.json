@@ -124,24 +124,24 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/join_money.jpg",
-            "heading": "Earn Money",
-            "text": "<p>A competitive % commission per sale</p>"
+            "heading": "Verdiene Geld",
+            "text": "<p>Eine wettbewerbsfähige %-Provision pro Verkauf</p>"
           }
         },
         "object_nE8JJn": {
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/join_creatives_f6707665-8344-4ff3-80a3-f42da0de26b9.jpg",
-            "heading": "Access to Creatives",
-            "text": "<p>Shared creatives and graphics so you are set up for success</p>"
+            "heading": "Zugang zu Assets",
+            "text": "<p>Wir unterstützen Dich mit Assets und Grafiken</p>"
           }
         },
         "object_C4dCRz": {
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/join_vip.jpg",
-            "heading": "Exclusive Perks",
-            "text": "<p>Receive free products, bonuses, and first access to new products, promotions and VIP campaigns</p>"
+            "heading": "Exklusive Vergünstigungen",
+            "text": "<p>Erhalte kostenlose Produkte und Boni sowie exklusiven Zugang zu neuen Produkten, Promotionen und VIP-Kampagnen</p>"
           }
         },
         "object_Fw7fMV": {
