@@ -33,11 +33,7 @@
     ],
     "frontrow_health_image_1": "shopify://shop_images/frontrow-health1.png",
     "frontrow_health_image_2": "shopify://shop_images/User_Image_1.png",
-    "frontrow_health_count_text": "50+",
     "frontrow_health_count_circle_color": "#c8e6dc",
-    "frontrow_health_heading": "50+ Fachärzte für Dermatologie",
-    "frontrow_health_description": "empfehlen Qure ihren Patienten.",
-    "frontrow_health_link_text": "Mehr anzeigen",
     "frontrow_health_link": "https://qureskincare.de/pages/derm-reviews",
     "frontrow_product_list_to_exclude": [
       "silk-pillowcase",
@@ -46,9 +42,8 @@
       "faucet-filter-refill",
       "faucet-filter"
     ],
-    "money_back_guarantee_label": "30 Tage Geld-zurück-Garantie",
     "show_order_by_receive_by": true,
-    "today_text": "Bestellen Sie noch heute",
+    "today_text": "Order today",
     "start_time_order": "2024-10-30T23:00",
     "end_time_order": "2024-11-04T23:59",
     "show_order_by_receive_by_us": false,
