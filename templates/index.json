@@ -507,7 +507,7 @@
           "type": "column",
           "settings": {
             "c_image": "shopify://shop_images/skin_c3.webp",
-            "name": "Akne & Unreinheiten",
+            "name": "Bei Akne & Unreinheiten",
             "button": "Jetzt kaufen",
             "btn_url": "https://www.qureskincare.de/collections/acne-breakouts?ose=false"
           }
