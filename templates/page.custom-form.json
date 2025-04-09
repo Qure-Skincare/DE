@@ -15,7 +15,7 @@
         "button_hD4WnF": {
           "type": "button",
           "settings": {
-            "button_label": "Vertrieb anfragen",
+            "button_label": "Zusammenarbeit beantragen",
             "button_url": "#stocklist_form",
             "classname": "btn_white m-0"
           }
