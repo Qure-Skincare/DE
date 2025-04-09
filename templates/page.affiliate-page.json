@@ -82,21 +82,21 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/free-shipping-ftr.svg",
-            "text": "<p>Free Shipping</p><p>Orders Over $100</p>"
+            "text": "<p>Kostenloser Versand</p><p>bei Bestellungen über 100 €</p>"
           }
         },
         "icon_ki7Nza": {
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/buy-now-ftr.svg",
-            "text": "<p>Buy Now,</p><p>Pay Later</p>"
+            "text": "<p>Jetzt kaufen,</p><p>später zahlen</p>"
           }
         },
         "icon_h9mYj7": {
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/derma-ftr.svg",
-            "text": "<p>Dermatologist</p><p>Reviewed & Approved</p>"
+            "text": "<p>Von Dermatologen</p><p>getestet und empfohlen</p>"
           }
         },
         "icon_ENM96A": {
