@@ -94,7 +94,7 @@
         "underbutton_text_right": "Versandkostenfrei ab 100 €",
         "selected_design": "new",
         "text_label_real_result_1": "Produkt",
-        "text_label_real_result_2": "Echte Resultte",
+        "text_label_real_result_2": "Echte Resultate",
         "text_label_real_result_3": "Dermatologe"
       }
     },
@@ -687,10 +687,10 @@
       ],
       "settings": {
         "classname": "mi_landing_result",
-        "heading": "Results you‘ll see with your own eyes",
-        "heading_reduced": "Results you see with your own eyes",
-        "text_verified_customer": "Verified customer",
-        "text_reviewed": "Reviewed in"
+        "heading": "Sehen Sie die Resultate selbst",
+        "heading_reduced": "Sehen Sie die Resultate selbst",
+        "text_verified_customer": "Verifizierter Kunde",
+        "text_reviewed": "Aus"
       }
     },
     "two_column_box_xCB6mV": {
