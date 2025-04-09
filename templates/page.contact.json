@@ -32,8 +32,8 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/email.svg",
-            "heading": "EMAIL",
-            "text": "<p>Send a Message to Customer Service Using the Form Below</p>"
+            "heading": "E-MAIL",
+            "text": "<p>Senden Sie über das untenstehende Formular eine Nachricht an die Experten in unserem Kundendienst </p>"
           }
         }
       },
