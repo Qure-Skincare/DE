@@ -714,7 +714,7 @@
         "content_reduced_PFHmVD": {
           "type": "content_reduced",
           "settings": {
-            "text": "<h2>Our LED light therapy mask is unlike any other</h2><p>One device, all the skin-firming, smoothing, and clearing benefits<br/></p><ul><li>Portable, <strong>FDA-cleared</strong>, at-home LED light therapy treatment</li><li><strong>Scientifically proven</strong> to change your skin for the better</li><li><strong>Three treatment options</strong>: anti-breakouts, anti-aging, and custom treatment zones</li></ul>",
+            "text": "<h2><strong>Unsere LED-Lichttherapie-Maske ist anders als alle anderen</strong></h2><p>Ein Gerät – alle Vorteile: strafffere, glattere und reinere Haut</p><ul><li>Tragbare, <strong>FDA-zugelassene</strong> LED-Lichttherapie-Maske für zu Hause</li><li>Sorgt <strong>wissenschaftlich erwiesen </strong>für eine Verbesserung der Haut</li><li><strong>Drei Behandlungsoptionen</strong>: Anti-Unreinheiten, Anti-Aging und individuelle Behandlungszonen</li></ul><p></p>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
