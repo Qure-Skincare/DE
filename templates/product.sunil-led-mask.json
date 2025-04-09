@@ -1168,15 +1168,15 @@
           "type": "object",
           "settings": {
             "heading": "Ist sie durch die FDA zugelassen?",
-            "text": "<p>Ja. Unsere Q-Rejuvalight Pro LED-Maske ist die <strong>weltweit erste anpassbare, von der FDA zugelassene LED-Maske für zu Hause</strong>, die <span style=\"text-decoration:underline\">nachgewiesen</span> wirksam und sicher Akne und Anzeichen von Hautalterung bekämpft. Weitere Informationen finden Sie auf der Website der FDA unter dem Code K230042.</p>",
+            "text": "<p>Ja. Unsere Q-Rejuvalight Pro LED-Maske ist die <strong>weltweit erste anpassbare, von der FDA zugelassene LED-Maske für zu Hause</strong>, die <span style=\"text-decoration:underline\">nachgewiesen</span> wirksam und sicher Akne sowie Anzeichen von Hautalterung bekämpft. Weitere Informationen finden Sie auf der Website der FDA unter dem Code K230042.</p>",
             "code": ""
           }
         },
         "object_zEjFPh": {
           "type": "object",
           "settings": {
-            "heading": "What type of results will I see? How quickly will I see them?",
-            "text": "<p>Every individual may respond differently to specific wavelengths of lights and results will depend on the goal you want to achieve.</p><p>Most users see a reduction of acne breakouts and redness quicker than they expect.</p><p>Smoother lines, improved skin tone and firmness can take longer.</p><p>The day-to-day changes will be subtle, so be sure to take \"before and after\" pictures to document progress. The most important thing to remember is that results are cumulative, so consistent daily treatment is key.</p>",
+            "heading": "Welche Art von Ergebnissen werde ich sehen? Wie schnell werde ich sie sehen?",
+            "text": "<p>Jeder Mensch reagiert unterschiedlich auf bestimmte Wellenlängen. Darüber hinaus hängt die Schnelligkeit des Eintretens der Resulltaten auch von dem Ziel ab, das Sie erreichen möchten.</p><p>Die meisten Anwender sehen eine Reduzierung von Akneausbrüchen und Rötungen schneller als erwartet.</p><p>Bis Linien geglättet werden, der Hautton ebenmäßiger wird und eine Zunahme an Festigkeit zu bemerken ist, kann es etwas länger dauern.</p><p>Da die täglichen Veränderungen subtil sein werden, sollten Sie unbedingt „Vorher-Nachher“-Bilder machen, um den Fortschritt zu dokumentieren. Entscheidend ist, dass die Ergebnisse kumulativ sind, sodass eine konsequente tägliche Behandlung entscheidend ist.</p>",
             "code": ""
           }
         },
