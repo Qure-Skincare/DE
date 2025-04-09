@@ -189,24 +189,24 @@
           "settings": {
             "heading": "Hautpflege-Experten",
             "image": "shopify://shop_images/affiliate_s_m_1.webp",
-            "button_label": "Macht jetzt mit",
+            "button_label": "Jetzt mitmachen",
             "button_url": "#shopify-section-template--17601769439471__liquid_ebhnbf"
           }
         },
         "object_TpBnqU": {
           "type": "object",
           "settings": {
-            "heading": "Influencers",
-            "button_label": "Join now",
+            "heading": "Influencer",
+            "button_label": "Jetzt mitmachen",
             "button_url": "#shopify-section-template--17601769439471__liquid_ebhnbf"
           }
         },
         "object_yzhdrf": {
           "type": "object",
           "settings": {
-            "heading": "Dermatologists",
+            "heading": "Dermatologen",
             "image": "shopify://shop_images/affiliate_s_m_3.webp",
-            "button_label": "Join now",
+            "button_label": "Jetzt mitmachen",
             "button_url": "#shopify-section-template--17601769439471__liquid_ebhnbf"
           }
         }
