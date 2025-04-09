@@ -156,8 +156,8 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/join_discounts.jpg",
-            "heading": "Special Discounts",
-            "text": "<p>Exclusive discounts & offers to share with your friends, family, and followers</p>"
+            "heading": "Besondere Rabatte",
+            "text": "<p>Exklusive Rabatte und Angebote, die Du mit Deinen Freunden, Deiner Familie und Deinen Followern teilen kannst</p>"
           }
         },
         "object_BLGzFp": {
