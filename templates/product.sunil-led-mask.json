@@ -1234,10 +1234,10 @@
       "settings": {
         "background": "bg_yellow",
         "classname": "bg_yellow",
-        "heading": "The answers to your questions",
+        "heading": "Die Antworten auf Ihre Fragen",
         "text": "",
-        "button_label": "Show More Questions",
-        "button_hide_label": "Hide More Questions"
+        "button_label": "Weitere Fragen einblenden",
+        "button_hide_label": "Weitere Fragen ausblenden"
       }
     },
     "heading_fijgLW": {
