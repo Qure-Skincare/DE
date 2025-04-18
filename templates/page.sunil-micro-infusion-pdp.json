@@ -992,24 +992,24 @@
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/beauty_micro.webp",
-            "heading": "Qure Micro-Infusion System",
+            "heading": "Qure Micro-Infusionssystem",
             "mob_text": "",
             "text": "",
             "price": "",
             "style": "correctCircle",
-            "list": "<ul><li>Stamping doesn’t <strong>over-damage</strong> skin</li><li><strong>Little to no downtime</strong> & quick recovery of the skin</li><li>New needle heads provide sharp, straight needles for every treatment - designed for better efficacy</li><li>Disposable heads minimizes risk of infection/ irritation</li><li>Delivers serum directly to skin to help <strong>increase absorption & results</strong></li></ul>"
+            "list": "<ul><li>Verursacht <strong>keine größeren Verletzungen als nötig</strong></li><li><strong>Kaum bis keine Ausfallzeit</strong> und schnelle Erholung der Haut</li><li>Neue Nadelköpfe bieten scharfe, gerade Nadeln für jede Behandlung – für eine bessere Wirksamkeit</li><li>Einwegköpfe minimieren das Risiko von Infektionen/Irritationen</li><li>Transportiert das Serum direkt in die Haut, um <strong>die Absorption und die Wirkung zu verbessern </strong></li></ul>"
           }
         },
         "object_Q9qBw4": {
           "type": "object",
           "settings": {
             "image": "shopify://shop_images/beauty_needle.webp",
-            "heading": "Other At-Home Needling Devices",
+            "heading": "Andere Nadelgeräte für den Hausgebrauch",
             "mob_text": "",
             "text": "",
             "price": "",
             "style": "incorrectCircle",
-            "list": "<ul><li>Rolling can cause <strong>unnecessary damage</strong> of skin</li><li><strong>Slower recovery</strong> & longer healing time</li><li>Needles become blunt after several uses & create unessesary skin trauma which can lessen efficacy</li><li>Infection/ irritation is increased if not disinfected well</li><li><strong>Less effective absorption</strong> of serum as applied topically</li></ul>"
+            "list": "<ul><li>Rollen kann <strong>unnötige Hautschäden</strong> verursachen</li><li><strong>Langsamere Erholung</strong> und längere Heilungszeit</li><li>Nadeln werden nach mehrmaligem Gebrauch stumpf und verursachen unnötige Hautverletzungen, die die Wirksamkeit verringern können</li><li>Infektionen/Reizungen treten häufiger auf, wenn die Nadeln nicht gründlich desinfiziert werden</li><li><strong>Weniger effektive Aufnahme</strong> von Serum bei topischer Anwendung</li></ul>"
           }
         }
       },
@@ -1034,14 +1034,14 @@
           "type": "column",
           "settings": {
             "pd_image": "shopify://shop_images/Group_18806.png",
-            "pd_name": "<h4><strong>Qure</strong><br/>Micro-Infusion System</h4>",
-            "point5": "As little as 1-2 days",
+            "pd_name": "<h4><strong>Qure</strong><br/>Micro-Infusionsystem</h4>",
+            "point5": "In nur 1-2 Tagen",
             "mark1": "tick",
-            "point6": "Tailored to your skin needs",
+            "point6": "Auf die Bedürfnisse Ihrer Haut abgestimmt",
             "mark2": "tick",
-            "point7": "Minimal downtime & Virtually Painless",
+            "point7": "Minimale Ausfallzeiten & nahezu schmerzfrei",
             "mark3": "tick",
-            "point8": "Less than $25 per treatment",
+            "point8": "Weniger als 25 $ pro Behandlung",
             "mark4": "tick"
           }
         },
@@ -1064,14 +1064,14 @@
           "type": "column",
           "settings": {
             "pd_image": "shopify://shop_images/compare_cs_2.png",
-            "pd_name": "<h4>Derma Roller<br/>At-Home Treatment</h4>",
-            "point5": "A few days to see results",
+            "pd_name": "<h4>Derma Roller</h4><h4>Behandlung für zu Hause</h4>",
+            "point5": "Ein paar Tage, um Ergebnisse zu sehen",
             "mark1": "cross",
-            "point6": "Not customised to skin",
+            "point6": "Nicht auf die Haut abgestimmt",
             "mark2": "cross",
-            "point7": "Potential side effects",
+            "point7": "Mögliche Nebenwirkungen",
             "mark3": "cross",
-            "point8": "$10 per treatment",
+            "point8": "10 $ pro Behandlung",
             "mark4": "tick"
           }
         }
@@ -1093,7 +1093,7 @@
     "line_RWLxMz": {
       "type": "line",
       "settings": {
-        "heading": "INCLUDED IN THE SYSTEM:",
+        "heading": "IM SYSTEM ENTHALTEN:",
         "classname": "bg-black text-white"
       }
     },
@@ -1106,17 +1106,17 @@
             "background": "bg-yellow",
             "pd_img": "shopify://shop_images/serhum.png",
             "name": "",
-            "serum_type": "Rejuvenating",
-            "benefit1": "Brightens  discolouration",
+            "serum_type": "Verjüngend",
+            "benefit1": "Hellt Verfärbungen auf",
             "icon1": "shopify://shop_images/brightens-even-skin-tone_1.png",
-            "benefit2": "Fades  dark spots",
+            "benefit2": "Lässt dunkle Flecken verblassen",
             "icon2": "shopify://shop_images/unique_reduce_line.svg",
-            "benefit3": "Promotes even  skin tone",
+            "benefit3": "Fördert einen gleichmäßigen Hautton",
             "icon3": "shopify://shop_images/boosts-hydration-02_1_071958b6-9b9b-428b-bd41-944b7590d5bd.svg",
-            "title1": "What can it do for your skin",
-            "drop_txt1": "<p>Reveals a <strong>smoother, brighter looking,</strong> and evenly <strong>radiant complexion</strong> to generate a glow effect. Renewal properties to help fade the appearance of dark spots and restore even-looking, smoother-feeling skin.</p><p><strong>Skin Concerns:</strong>Designed for skin with discolouration, rough texture, enlarged pores, acne marks and dark spots.</p>",
-            "title2": "All Ingredients",
-            "drop_txt2": "<p><strong>Epidermal Growth Factor (EGF):</strong><br/>Works at a cellular level to repair and rejuvenate skin. Reduces appearance of wrinkles, improves hydration, and prevents pigmentation.</p><p><strong>Niacinamide:</strong> Superstar ingredient that helps with most skin concerns from soothing to brightening and clarifying, and reducing look of fine lines and wrinkles.</p><p><strong>Tranexamic Acid:</strong> Helps to fade look of dark spots and discolouration. Assists with brightening and evening look of skin tone.</p><p><strong>All ingredients:</strong><br/>Rosa Damascena Flower Water, Propanediol, Glycerin, Tranexamic Acid, Niacinamide, Panthenol, Chrysanthellum Indicum Extract, Ethylhexylglycerin, Tripeptide-1, Xanthan Gum, Allantoin, Sh-Oligopeptide-1.</p><p>Please note that due to innovative updates and changing regulatory guidelines, the ingredient lists provided here may differ slightly from those on our packaging and distributor websites.</p>",
+            "title1": "Was kann es für Ihre Haut tun?",
+            "drop_txt1": "<p>Sorgt für einen <strong>glatteren, strahlenderen</strong> und gleichmäßig <strong>strahlenden Teint</strong> und verleiht ihm einen Glow-Effekt. Erneuernde Eigenschaften helfen, dunkle Flecken zu verblassen und eine gleichmäßig aussehende, glatter anfühlende Haut wiederherzustellen.</p><p><strong>Hautprobleme:</strong> Für Haut mit Verfärbungen, rauer Textur, vergrößerten Poren, Aknenarben und dunklen Flecken.</p>",
+            "title2": "Alle Inhaltsstoffe",
+            "drop_txt2": "<p><strong>Epidermaler Wachstumsfaktor (EGF):</strong></p><p>Wirkt auf zellulärer Ebene, um die Haut zu reparieren und zu verjüngen. Reduziert das Auftreten von Falten, verbessert die Feuchtigkeitsversorgung und beugt Pigmentflecken vor.</p><p><strong>Niacinamid:</strong> Ein Superstar unter den Inhaltsstoffen, der bei den meisten Hautproblemen hilft, von beruhigend bis hin zu aufhellend und klärend, und das Erscheinungsbild von feinen Linien und Falten reduziert.</p><p><strong>Tranexamsäure:</strong> Hilft, dunkle Flecken und Verfärbungen zu verblassen. Trägt zu einem strahlenden und ebenmäßigen Hautbild bei.</p><p><strong>Alle Inhaltsstoffe:</strong></p><p>Rosa Damascena-Blütenwasser, Propandiol, Glycerin, Tranexamsäure, Niacinamid, Panthenol, Chrysanthellum Indicum-Extrakt, Ethylhexylglycerin, Tripeptid-1, Xanthan, Allantoin, Sh-Oligopeptid-1.<br/></p><p>Bitte beachten Sie, dass aufgrund innovativer Aktualisierungen und sich ändernder gesetzlicher Vorschriften die hier angegebenen Inhaltsstofflisten geringfügig von denen auf unseren Verpackungen und den Websites unserer Vertriebspartner abweichen können.</p>",
             "title3": "",
             "drop_txt3": "",
             "review": "",
@@ -1161,9 +1161,9 @@
         "serum_BEc6Lf"
       ],
       "settings": {
-        "heading": "Science-backed Micro-Infusion serums",
-        "subheading": "<p><strong>Choose the exact serum to use in your Micro-Infusion</strong> treatment, or get both and mix them together to experience a complete set of benefits that <strong>addresses your specific skin concerns.</strong></p>",
-        "bottom_txt": "Can't decide?",
+        "heading": "Wissenschaftlich fundierte Micro-Infusion-Seren",
+        "subheading": "<p><strong>Wählen Sie genau das Serum, das Sie für Ihre Mikro-Infusionsbehandlung verwenden möchten</strong>, oder nehmen Sie beide und mischen Sie sie, um alle Vorteile zu nutzen, die <strong>auf Ihre spezifischen Hautprobleme zugeschnitten </strong>sind.</p>",
+        "bottom_txt": "Sie können sich nicht entscheiden?",
         "desk_img": "shopify://shop_images/Group_2160_ffbda153-73a3-44cb-a304-27c046e928fc.png",
         "mob_img": "shopify://shop_images/Group_mobile_2159.png"
       }
