@@ -914,10 +914,10 @@
         "wistia_WQehBR"
       ],
       "settings": {
-        "heading": "Confident skin starts here",
+        "heading": "Selbstbewusste Haut beginnt hier",
         "sub_heading": "",
         "classname": "section videosQure",
-        "btn": "Join Thousands Of Women",
+        "btn": "Schließen Sie sich Tausenden von Frauen an",
         "btn_url": "#new-landing-purchase",
         "ctm_cls_btn": "",
         "desk_slide": 6,
@@ -931,32 +931,32 @@
         "tab_AwmhHK": {
           "type": "Tab",
           "settings": {
-            "tab_txt": "Prepare",
-            "tab_desc": "<p>Twist open the chamber of the device and fill with one ampule of serum.<br/>Twist on needle head with lid to close it tight.</p><p>Leave the device upside down for 1-2 minutes.<br/>During this time, wash your face and make sure your hands are clean.</p>",
+            "tab_txt": "Vorbereiten",
+            "tab_desc": "<p>Drehen Sie die Kammer des Geräts auf und füllen Sie sie mit einer Ampulle des Serums. Drehen Sie den Nadelkopf mit dem Deckel fest, um ihn zu verschließen.</p><p>Lassen Sie das Gerät 1–2 Minuten lang auf dem Kopf stehen. Waschen Sie sich währenddessen das Gesicht und stellen Sie sicher, dass Ihre Hände sauber sind.</p>",
             "image": "shopify://shop_images/6_ea9ed242-a7b5-4cdc-941b-ad54c7da2260.png"
           }
         },
         "tab_yTEcfK": {
           "type": "Tab",
           "settings": {
-            "tab_txt": "Treatment",
-            "tab_desc": "<p>Once the serum has had enough time to make its way into the needles, you can take off the lid and start micro-infusing!</p><p>Start at the centre of the face and work your way outward to cover the full face. Perform 2/3 passes. Take any leftover serum from the device and pat it onto your face and neck to leave on overnight.</p>",
+            "tab_txt": "Behandlung",
+            "tab_desc": "<p>Sobald das Serum genügend Zeit hatte, in die Nadeln einzuziehen, können Sie den Deckel abnehmen und mit der Micro-Infusion beginnen!</p><p>Beginnen Sie in der Mitte des Gesichts und arbeiten Sie sich nach außen vor, um das gesamte Gesicht zu bedecken. Führen Sie 2/3 Durchgänge durch. Nehmen Sie die Serumreste aus dem Gerät und tupfen Sie sie auf Gesicht und Hals und lassen Sie sie über Nacht einwirken.<br/><br/></p>",
             "image": "shopify://shop_images/1a_3.png"
           }
         },
         "tab_QqVtHE": {
           "type": "Tab",
           "settings": {
-            "tab_txt": "Aftercare",
-            "tab_desc": "<p>Once treatment is completed, place lid back on the needle head.</p><p>Twist the lid off and dispose safely.</p><p>Open a new sterile needle head and put it on the device ready for your next treatment.</p>",
+            "tab_txt": "Nachsorge",
+            "tab_desc": "<p>Wenn die Behandlung abgeschlossen ist, setzen Sie den Deckel wieder auf den Nadelkopf. </p><p>Drehen Sie den Deckel ab und entsorgen Sie ihn sicher. </p><p>Öffnen Sie einen neuen sterilen Nadelkopf und setzen Sie ihn für die nächste Behandlung auf das Gerät.</p>",
             "image": "shopify://shop_images/1a_4tt.png"
           }
         },
         "tab_gUbBCP": {
           "type": "Tab",
           "settings": {
-            "tab_txt": "Storage",
-            "tab_desc": "<p>Once treatment is completed, place lid back on the needle head.</p><p>Twist the lid off and dispose safely.</p><p>Open a new sterile needle head and put it on the device ready for your next treatment.</p>",
+            "tab_txt": "Aufbewahrung",
+            "tab_desc": "<p>Wenn die Behandlung abgeschlossen ist, setzen Sie den Deckel wieder auf den Nadelkopf. </p><p>Drehen Sie den Deckel ab und entsorgen Sie ihn sicher. </p><p>Öffnen Sie einen neuen sterilen Nadelkopf und setzen Sie ihn für die nächste Behandlung auf das Gerät.</p>",
             "image": "shopify://shop_images/image_storage.png"
           }
         },
@@ -976,7 +976,7 @@
       ],
       "settings": {
         "ctm_cls_use": "",
-        "heading": "How to use"
+        "heading": "Anwendung"
       }
     },
     "anti-creams-microinfusion-page-break": {
@@ -1026,7 +1026,7 @@
         "option_Njxw7i"
       ],
       "settings": {
-        "heading": "Break through your skin’s barrier and rejuvenate from the inside out.",
+        "heading": "Durchbrechen Sie die Hautbarriere und erneuern Sie Ihre Haut von innen heraus.",
         "image": "shopify://shop_images/skin_barrier.webp"
       }
     },
