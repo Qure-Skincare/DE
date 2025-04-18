@@ -157,34 +157,34 @@
         "heading_dWVwNp": {
           "type": "heading",
           "settings": {
-            "heading": "Your quest for the “one product that finally works” ends here."
+            "heading": "Ihre Suche nach \"dem einen Produkt\", das endlich funktioniert, hat hier ein Ende."
           }
         },
         "option_QEaCxV": {
           "type": "option",
           "settings": {
-            "text": "<p><strong>2-in-1 system </strong>stimulates skin rejuvenation while infusing serum deeper for <strong>faster results.</strong></p>",
+            "text": "<p>Das<strong> 2-in-1-System </strong>stimuliert die Hauterneuerung und lässt das Serum tiefer eindringen, sodass <strong>Ergebnisse schneller sichtbar werden.</strong></p>",
             "image": "shopify://shop_images/deeply-hydrates.svg"
           }
         },
         "option_UKXe3x": {
           "type": "option",
           "settings": {
-            "text": "<p>With just one easy, virtually painless, <strong>at-home 5-minute treatment </strong>every 2 weeks.</p>",
+            "text": "<p>Mit nur einer einfachen, nahezu schmerzfreien <strong>5-minütigen Behandlung </strong>alle zwei Wochen zu Hause.</p>",
             "image": "shopify://shop_images/TIME_4de7163b-8d89-43a3-b353-636fd21536b4.svg"
           }
         },
         "option_EMzXUb": {
           "type": "option",
           "settings": {
-            "text": "<p>At a price up to <strong>30X lower </strong>than any professional in-clinc treatment!</p>",
+            "text": "<p>Zu einem Preis, der bis zu <strong>30-mal niedriger </strong>ist als jede professionelle Behandlung in einer Klinik!</p>",
             "image": "shopify://shop_images/MONEY_5d92e21e-7f2c-4b8c-b8d3-09315a988e9d.svg"
           }
         },
         "button_dJqtnK": {
           "type": "button",
           "settings": {
-            "button_label": "Discover Qure",
+            "button_label": "Qure entdecken",
             "button_url": "#new-landing-purchase"
           }
         }
@@ -214,7 +214,7 @@
           "settings": {
             "image": "shopify://shop_images/results_jess1.webp",
             "image_country": "shopify://shop_images/usa_89e25711-f730-4521-8931-83b3307204af.png",
-            "text_country": "United Stated",
+            "text_country": "Vereinigte Staaten",
             "client": "Jess"
           }
         },
@@ -223,7 +223,7 @@
           "settings": {
             "image": "shopify://shop_images/results_ellie.webp",
             "image_country": "shopify://shop_images/usa_89e25711-f730-4521-8931-83b3307204af.png",
-            "text_country": "United Stated",
+            "text_country": "Vereinigte Staaten",
             "client": "Ellie V."
           }
         },
@@ -232,7 +232,7 @@
           "settings": {
             "image": "shopify://shop_images/results-Ramandeep.png",
             "image_country": "shopify://shop_images/usa_89e25711-f730-4521-8931-83b3307204af.png",
-            "text_country": "United States",
+            "text_country": "Vereinigte Staaten",
             "client": "Ramandeep"
           }
         }
@@ -252,9 +252,9 @@
         "wistia_gNathA": {
           "type": "wistia",
           "settings": {
-            "heading": "Dr Maxfield and Dr Shah",
-            "subheading": "Board-Certified Dermatologists",
-            "text": "\"...[Qure's Micro-Infusion] will help your products penetrate better\"",
+            "heading": "Dr Maxfield und Dr Shah",
+            "subheading": "Fachärzte für Dermatologie",
+            "text": "„... [das Micro-Infusionssystem von Qure] wird dazu beitragen, dass Ihre Produkte besser eindringen.“",
             "image": "shopify://shop_images/trusted_dr1.webp",
             "wistia_id": "9bv0lzoi1d",
             "likes": "2.8M"
@@ -264,8 +264,8 @@
           "type": "video",
           "settings": {
             "heading": "Dr Anthony Youn",
-            "subheading": "Board-Certified Plastic Surgeon",
-            "text": "“Qure’s System is the closest thing that you can get to bringing ...\"",
+            "subheading": "Facharzt für Plastische Chirurgie",
+            "text": "„Das System von Qure ist das, womit man am ehesten ... \"",
             "image": "shopify://shop_images/trusted_dr2.webp",
             "video_url": "https://www.youtube.com/watch?v=gGVKgTHloXw",
             "likes": "5.1M"
@@ -275,8 +275,8 @@
           "type": "video",
           "settings": {
             "heading": "Dr Mona Patel",
-            "subheading": "Internal Medicine Doctor",
-            "text": "\"My skin is brighter, more hydrated, and my products absorb better...\"",
+            "subheading": "Facharzt für Innere Medizin",
+            "text": "„Meine Haut ist strahlender, besser mit Feuchtigkeit versorgt und meine Pflegeprodukte ziehen besser ein ...“",
             "image": "shopify://shop_images/trusted_dr3.webp",
             "video_url": "",
             "video": "shopify://files/videos/71857fdec6b0497294117ed84cab480e.HD-1080p-2.5Mbps-13573985.mp4",
@@ -287,8 +287,8 @@
           "type": "video",
           "settings": {
             "heading": "Dr Aleksandra Brown",
-            "subheading": "Board-Certified Dermatologist",
-            "text": "\"I have liked this in between my in-office treatments. It’s convenient...\"",
+            "subheading": "Fachärztin für Dermatologie",
+            "text": "„Ich habe das zwischen meinen Behandlungen in der Praxis sehr gemocht. Es ist praktisch ...“",
             "image": "shopify://shop_images/trusted_dr4.webp",
             "video_url": "",
             "video": "shopify://files/videos/d5d0c051b43e4117be7b6308e06e8f66.mp4",
@@ -303,7 +303,7 @@
         "video_HUH8JC"
       ],
       "settings": {
-        "heading": "Dermatologist's go-to choice for their own skin",
+        "heading": "Die erste Wahl von Dermatologen für ihre eigene Haut",
         "heading_tag": "h2"
       }
     },
@@ -319,23 +319,23 @@
         "option_RjVYMf": {
           "type": "option",
           "settings": {
-            "heading": "Minimizing the look of \\n Fine Lines and Wrinkles",
-            "text": "<p>Our powerful Hydra-Soothing Serum gets deep into your skin where it can be quickly absorbed, <strong>fading </strong>the appearance of wrinkles, <strong>reducing </strong>fine lines, and <strong>deeply hydrating </strong>for a dewy glow. </p>",
+            "heading": "Minimierung des Erscheinungsbildes von \\n feinen Linien und Falten",
+            "text": "<p>Unser leistungsstarkes Hydra-Soothing Serum dringt tief in die Haut ein, wo es schnell einzieht, <strong>das Erscheinungsbild von Falten mindert</strong>, <strong>feine Linien reduziert</strong> und <strong>tiefgehende Feuchtigkeit spendet</strong>, für einen strahlenden Teint.</p>",
             "image": "shopify://shop_images/Lines_Wrinkles.svg"
           }
         },
         "option_WQWEz3": {
           "type": "option",
           "settings": {
-            "heading": "Reducing the appearance of Dark Spots \\n and Hyperpigmentation",
-            "text": "<p>Our scientifically-backed rejuvenating serum gets deep into your skin where it can be quickly absorbed, <strong>reducing pigmentation </strong>and <strong>fading dark spots </strong>while <strong>evening the look of the skin </strong>and reducing the size appearance of pores. </p>",
+            "heading": "Reduzierung von dunklen Flecken \\n und Hyperpigmentierung",
+            "text": "<p>Unser wissenschaftlich fundiertes Verjüngungsserum dringt tief in die Haut ein, wo es schnell absorbiert wird, <strong>Pigmentflecken reduziert</strong>, <strong>dunkle Flecken verblassen lässt</strong>, <strong>das Hautbild </strong>glättet und die Poren verkleinert.</p>",
             "image": "shopify://shop_images/dark_spots_1428ac89-c09a-4f7b-bb00-4ff0e67c6b13.svg"
           }
         },
         "button_P998T8": {
           "type": "button",
           "settings": {
-            "button_label": "Get Confident Skin",
+            "button_label": "Für selbstbewusste Haut",
             "button_url": "#new-landing-purchase"
           }
         }
@@ -347,8 +347,8 @@
         "button_P998T8"
       ],
       "settings": {
-        "heading": "How does “stamping your skin” work?",
-        "text": "<p>Qure’s microneedles <strong>bypass the stratum corneum</strong> (the tough protective outer layer of skin) to <strong>deliver our scientifically-backed serum</strong> where it is needed to give you faster, better results.</p><p>It also triggers your <strong>natural recovery process</strong> giving your skin a rejuvenating boost.</p>",
+        "heading": "Wie funktioniert das „Stempeln der Haut“?",
+        "text": "<p>Die Mikronadeln von Qure <strong>durchdringen die Hornschicht</strong> (die harte äußere Schutzschicht der Haut) und <strong>bringen unser wissenschaftlich erprobtes Serum</strong> genau dorthin, wo es benötigt wird, um schnellere und bessere Ergebnisse zu erzielen.</p><p>Außerdem wird der <strong>natürliche Regenerationsprozess</strong> angeregt, wodurch Ihre Haut einen verjüngenden Schub erhält.</p>",
         "custom_class": "mw-680",
         "custom_class2": ""
       }
