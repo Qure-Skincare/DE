@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "header_landing_yzqaEc": {
       "type": "header-landing",
@@ -15,8 +15,8 @@
         "announcement_QmXGJK": {
           "type": "announcement",
           "settings": {
-            "heading": "FREE World-Wide Shipping | SAVE 50% Limited Time Offer Ends This Month",
-            "heading_mobile": "Limited Time Offer | Ends This Month!",
+            "heading": "KOSTENLOSER Versand weltweit | 50 % RABATT - Zeitlich begrenztes Angebot endet diesen Monat",
+            "heading_mobile": "Zeitlich begrenztes Angebot | Endet diesen Monat!",
             "color": "white",
             "font_size_desktop": 12,
             "font_size_mobile": 12
@@ -25,7 +25,7 @@
         "navigation_link_97aJVY": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "BENEFITS",
+            "link_label": "VORTEILE",
             "link_url": "#reasons_section",
             "image": "shopify://shop_images/nav_1.png"
           }
@@ -33,7 +33,7 @@
         "navigation_link_CmRG9V": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "RESULTS",
+            "link_label": "ERGEBNISSE",
             "link_url": "#result_section",
             "image": "shopify://shop_images/header_2.webp"
           }
@@ -67,25 +67,25 @@
         "option_WNAxLk": {
           "type": "option",
           "settings": {
-            "text": "Visible results after your very first treatment."
+            "text": "Sichtbare Ergebnisse schon nach der ersten Behandlung."
           }
         },
         "option_wfkdLK": {
           "type": "option",
           "settings": {
-            "text": "Only takes 5-minutes every 2 weeks."
+            "text": "Nur 5 Minuten alle zwei Wochen."
           }
         },
         "option_dwBXRf": {
           "type": "option",
           "settings": {
-            "text": "Virtually painless with minimal downtime."
+            "text": "Nahezu schmerzfrei mit minimaler Ausfallzeit."
           }
         },
         "button_qBUjKA": {
           "type": "button",
           "settings": {
-            "button_label": "Discover Confident skin",
+            "button_label": "Entdecken Sie selbstbewusste Haut",
             "button_url": "#new-landing-purchase"
           }
         }
@@ -97,9 +97,9 @@
         "button_qBUjKA"
       ],
       "settings": {
-        "heading": "Fed Up With Creams That Don't Work The Way You Want?",
+        "heading": "Keine Lust mehr auf Cremes, die nicht so wirken, wie Sie es sich wünschen?",
         "heading_tag": "h2",
-        "text": "<p>Qure’s Micro-Infusion System stamps your skin and gets <strong>past your skin's </strong>defences to deliver active ingredients <strong>exactly where you need them, </strong>reducing the appearance of wrinkles and fine lines, and fading the look of dark spots.</p>",
+        "text": "<p>Das Micro-Infusionssystem von Qure stempelt Ihre Haut und durchdringt <strong>die Hautbarriere</strong>, um die Wirkstoffe <strong>genau dort zu </strong>liefern, wo sie benötigt werden. So werden Falten und feine Linien reduziert und dunkle Flecken verblassen.</p>",
         "wistia_id": "ri7eb8c11y"
       }
     },
@@ -197,13 +197,13 @@
         "button_dJqtnK"
       ],
       "settings": {
-        "heading": "Qure’s Micro-Infusion System goes where your skin creams can’t…",
+        "heading": "Das Micro-Infusion System von Qure wirkt dort, wo Cremes an ihre Grenzen stoßen…",
         "heading_tag": "h2",
-        "text": "<p>Tired of constantly switching skincare products and still <strong>not seeing results?</strong></p><p><strong>Topical skincare alone isn't effective </strong>because many ingredients in face creams and serums are too large to penetrate deep enough into the skin, where your skin needs them most.</p>",
+        "text": "<p>Sind Sie es leid, ständig Ihre Hautpflegeprodukte zu wechseln und trotzdem <strong>keine Ergebnisse zu sehen?</strong></p><p><strong>Topische Hautpflege allein ist nicht wirksam</strong>, da viele Inhaltsstoffe in Gesichtscremes und Seren zu groß sind, um tief genug in die Haut einzudringen, wo Ihre Haut sie am meisten braucht.</p>",
         "wistia_id": "9gjsppjkja",
-        "wistia_id_label": "Topical creams",
+        "wistia_id_label": "Topische Cremes",
         "wistia_id_second": "na8z16hdlx",
-        "wistia_id_second_label": "Stamping Your Skin with \\n Micro-Infusion System"
+        "wistia_id_second_label": "Stempeln Sie Ihre Haut mit dem \\n Micro-Infusionssystem"
       }
     },
     "results-simple": {
