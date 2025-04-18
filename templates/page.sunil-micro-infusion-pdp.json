@@ -16,14 +16,14 @@
           "type": "rating",
           "settings": {
             "image": "shopify://shop_images/star-half_fill.svg",
-            "text": "<p>97% customer satisfaction rate</p>",
+            "text": "<p>97 % Kundenzufriedenheitsrate</p>",
             "product": "micro-infusion-3-month-bundle-3x-b-g-serum-3x-e-g-f-serum"
           }
         },
         "list_FatCgk": {
           "type": "list",
           "settings": {
-            "text": "<ul><li>Helps reduce appearance of <strong>fine lines, smooth texture</strong> whilst helping to infuse active ingredients into your skin.</li><li>Virtually <strong>painless</strong> and performed in the comfort and convenience of your home.</li><li>Minimal to <strong>no downtime</strong> with visible results.</li></ul>"
+            "text": "<ul><li>Hilft, das Erscheinungsbild <strong>feiner Linien</strong> zu reduzieren, die <strong>Hautstruktur zu glätten </strong>und unterstützt das Eindringen aktiver Wirkstoffe in die Haut.</li><li>Praktisch <strong>schmerzfrei</strong> und bequem zu Hause durchführbar.</li><li>Minimale bis <strong>keine Ausfallzeit </strong>bei sichtbaren Ergebnissen.<br/><br/></li></ul>"
           }
         },
         "liquid_6AqWXk": {
@@ -114,8 +114,8 @@
       ],
       "settings": {
         "seo_heading": "MICRO-INFUSION-SYSTEM FÜR DAS GESICHT - EINE ALTERNATIVE ZU DERMAROLLERN",
-        "heading": "Transform dull looking skin with Micro-Infusion System",
-        "heading_mobile": "Transform dull looking skin with Micro-Infusion System",
+        "heading": "Revitalisieren Sie matt aussehende Haut durch Micro-Infusion",
+        "heading_mobile": "Revitalisieren Sie matt aussehende Haut durch Micro-Infusion",
         "product": "",
         "product_images_offset": 0,
         "product_images_limit": 8,
@@ -184,35 +184,35 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/mi_pdp-reason1.svg",
-            "text": "<p><strong>Saves time, money </strong>and hassle compared to in-clinic treatments</p>"
+            "text": "<p><strong>Spart Zeit, Geld</strong> und Ärger im Vergleich zu Behandlungen im Kosmetikstudio</p>"
           }
         },
         "icon_rXrKhB": {
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/mi_pdp-reason2.svg",
-            "text": "<p><strong>Quick & easy </strong>5-minute DIY facial from the convenience of home</p>"
+            "text": "<p><strong>Schnelle & einfache</strong> 5-minütige Gesichtsbehandlung zum Selbermachen für zu Hause</p>"
           }
         },
         "icon_amVNLB": {
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/mi_pdp-reason4.svg",
-            "text": "<p>Virtually <strong>painless, </strong>little to no downtime</p>"
+            "text": "<p>Praktisch<strong> schmerzfrei</strong>, kaum bis keine Ausfallzeit</p>"
           }
         },
         "icon_HdmMrF": {
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/mi_pdp-reason3.svg",
-            "text": "<p>Perfect for transforming dull-looking skin <strong>before events</strong></p>"
+            "text": "<p>Perfekt, um fahle Haut <strong>vor besonderen Anlässen</strong> zum Strahlen zu bringen</p>"
           }
         },
         "icon_TCqtyH": {
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/mi_pdp-reason6.svg",
-            "text": "<p><strong>2-in-1</strong>system rejuvenates skin & infuses serum deeper for <strong>faster results</strong></p>"
+            "text": "<p><strong>2-in-1-System</strong> verjüngt die Haut und lässt das Serum tiefer eindringen, <strong>für schnellere Ergebnisse</strong></p>"
           }
         }
       },
@@ -244,7 +244,7 @@
           "settings": {
             "ctm_cls": "",
             "heading_first": "",
-            "text": "<p>Its tiny, almost painless, 24K gold plated 0.5mm microneedles penetrate <strong>beyond the skin’s surface</strong> to gently create controlled trauma in your skin which help boost the feel of <strong>firmness, smooth texture and reduce the look of fine lines and wrinkles.</strong><br/><br/>The invisible micro-channels then <strong>infuse science-backed serums</strong> into your skin that are tailored to treat your specific skin concerns, increasing absorption and <strong>delivering powerful active ingredients EXACTLY where they’re needed!</strong></p>",
+            "text": "<p>Die winzigen, fast schmerzfreien, 24-karätig vergoldeten 0,5-mm-Mikronadeln dringen<strong> unter die Hautoberfläche</strong> und erzeugen dort sanft ein kontrolliertes Mini-Trauma im Gewebe. Die Haut fühlt sich dadurch <strong>straffer </strong>an und wirkt <strong>glatter, das Erscheinungsbild von feinen Linien und Falten wird reduziert.</strong><br/><br/>Die unsichtbaren Mikrokanäle schleusen <strong>wissenschaftlich fundierte Seren</strong> in Ihre Haut ein, die auf Ihre spezifischen Hautprobleme zugeschnitten sind. Deren Absorption wird erhöht und <strong>leistungsstarke Wirkstoffe werden genau dort abgegeben, wo sie benötigt werden.</strong></p>",
             "btn_text": "Shop Now",
             "btn_url": "",
             "custom_class": "",
@@ -261,7 +261,7 @@
       ],
       "settings": {
         "background": "bg_clr_transparent",
-        "heading": "Qure’s Micro-Infusion goes where your skin cream can’t…",
+        "heading": "Die Micro-Infusion von Qure wirkt dort, wo Ihre Hautcreme nicht hinkommt …",
         "hide_on_mob": false,
         "column": 5,
         "padding_top": 60,
@@ -333,8 +333,8 @@
         "image_FVDNMG"
       ],
       "settings": {
-        "heading": "No hype, just evidence.",
-        "text": "<p>The results speak for themselves. In an independent user study, participants' skin was measured and showed proven visible improvement after just 6 fortnightly treatments.</p>"
+        "heading": "Kein Hype, nur Fakten.",
+        "text": "<p>Die Ergebnisse sprechen für sich. In einer unabhängigen Anwenderstudie wurde der Zustand der Haut der Teilnehmer erfasst. Es zeigte sich eine nachweisbare sichtbare Verbesserung nach nur 6 Behandlungen im Abstand von 14 Tagen.</p>"
       }
     },
     "icons_list_NGrm7y": {
