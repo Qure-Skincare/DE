@@ -986,35 +986,35 @@
           "type": "option",
           "settings": {
             "image": "shopify://shop_images/q_w_derma.svg",
-            "text": "Real results after your very first treatment."
+            "text": "Echte Ergebnisse schon nach der ersten Behandlung."
           }
         },
         "option_LKBaRk": {
           "type": "option",
           "settings": {
             "image": "shopify://shop_images/q-w_effective.svg",
-            "text": "More effective than topical creams."
+            "text": "Wirksamer als topische Cremes."
           }
         },
         "option_yRNWRF": {
           "type": "option",
           "settings": {
             "image": "shopify://shop_images/q_w_plus.svg",
-            "text": "Clinic-like skincare without clinic prices."
+            "text": "Hautpflege wie in der Klinik, aber ohne den Preis."
           }
         },
         "option_r3MNVN": {
           "type": "option",
           "settings": {
             "image": "shopify://shop_images/q_w_time.svg",
-            "text": "Saves you time."
+            "text": "Spart Ihnen Zeit."
           }
         },
         "option_Njxw7i": {
           "type": "option",
           "settings": {
             "image": "shopify://shop_images/q_w_needles.svg",
-            "text": "Virtually painless, minimal to no downtime."
+            "text": "Praktisch schmerzfrei, minimale bis keine Ausfallzeiten."
           }
         }
       },
@@ -1037,7 +1037,7 @@
           "type": "option",
           "settings": {
             "image": "shopify://shop_images/rg_item_1.webp",
-            "text": "<p>noticed a difference in their skin the day after their first treatment.</p>",
+            "text": "<p>stellten bereits am Tag nach der ersten Behandlung eine Veränderung ihrer Haut fest.</p>",
             "percent_bar": 93
           }
         },
@@ -1045,7 +1045,7 @@
           "type": "option",
           "settings": {
             "image": "shopify://shop_images/rg_item_2.webp",
-            "text": "<p>agreed their skin appeared more hydrated and dewy.</p>",
+            "text": "<p>stimmten zu, dass ihre Haut hydratisierter und frischer aussah.</p>",
             "percent_bar": 93
           }
         },
@@ -1053,7 +1053,7 @@
           "type": "option",
           "settings": {
             "image": "shopify://shop_images/rg_item_3.webp",
-            "text": "<p>prefer the convenience of Qure’s Micro-Infusion System to in-clinic treatments</p>",
+            "text": "<p>bevorzugen die Bequemlichkeit des Qure Micro-Infusionssystems gegenüber Behandlungen in der Klinik.</p>",
             "percent_bar": 87
           }
         }
@@ -1064,7 +1064,7 @@
         "option_tPPYDt"
       ],
       "settings": {
-        "heading": "Reveal your glow and renew your confidence."
+        "heading": "Entdecken Sie Ihr Strahlen und erneuern Sie Ihr Selbstvertrauen."
       }
     },
     "faq_CBfhyg": {
@@ -1073,96 +1073,96 @@
         "object_QiNmNp": {
           "type": "object",
           "settings": {
-            "heading": "What is the Qure Micro-Infusion System?",
-            "text": "<p>The Qure Micro-Infusion System is a skincare device that combines micro-needling with a special serum to rejuvenate your skin, helping to reduce the appearance of fine lines, wrinkles, dark spots, and improve overall skin brightness and plumpness.</p>",
+            "heading": "Was ist das Qure Micro-Infusionssystem?",
+            "text": "<p>Das Qure Micro-Infusionssystem ist ein Hautpflegegerät, das Mikronadeln mit einem speziellen Serum kombiniert, um Ihre Haut zu verjüngen, feine Linien, Falten und dunkle Flecken zu reduzieren und die allgemeine Hauthelligkeit und -fülle zu verbessern.</p>",
             "code": ""
           }
         },
         "object_4yYPQ4": {
           "type": "object",
           "settings": {
-            "heading": "How does the Qure Micro-Infusion System work?",
-            "text": "<p>It uses 0.5mm 24k gold needles to create microchannels in the skin, allowing our science-backed Rejuvenating Serum to penetrate deeply and be more effective. This process stimulates the skin's natural recovery, promoting a youthful appearance.</p>",
+            "heading": "Wie funktioniert das Qure Micro-Infusionssystem?",
+            "text": "<p>Es verwendet 0,5 mm lange Nadeln aus 24-karätigem Gold, um Mikrokanäle in der Haut zu erzeugen, durch die unser wissenschaftlich fundiertes Rejuvenating Serum tief eindringen und besser wirken kann. Dieser Prozess stimuliert die natürliche Regeneration der Haut und fördert ein jugendliches Aussehen.</p>",
             "code": ""
           }
         },
         "object_faRVVk": {
           "type": "object",
           "settings": {
-            "heading": "Is the Qure Micro-Infusion System safe to use?",
-            "text": "<p>Yes, the system has been tested and reviewed by leading dermatologists and is designed to be sterile and hygienic with minimal downtime, making it a safe option for at-home skin treatment.</p>",
+            "heading": "Ist das Qure Micro-Infusionssystem sicher in der Anwendung?",
+            "text": "<p>Ja, das System wurde von führenden Dermatologen getestet und geprüft und ist so konzipiert, dass es steril und hygienisch ist und nur minimale Ausfallzeiten verursacht, sodass es eine sichere Option für die Hautbehandlung zu Hause darstellt.</p>",
             "code": ""
           }
         },
         "object_7ViJwh": {
           "type": "object",
           "settings": {
-            "heading": "How often should I use the Qure Micro-Infusion System?",
-            "text": "<p>For best results, we recommend a 10-minute treatment every 2 weeks.</p>",
+            "heading": "Wie oft sollte ich das Qure Micro-Infusionssystem verwenden?",
+            "text": "<p>Für beste Ergebnisse empfehlen wir eine 10-minütige Behandlung alle 2 Wochen.</p>",
             "code": ""
           }
         },
         "object_tERiWN": {
           "type": "object",
           "settings": {
-            "heading": "Can I use the Qure Micro-Infusion System if I have sensitive skin?",
-            "text": "<p>While the system is designed to be gentle and has been loved by dermatologists, we recommend checking with a healthcare professional if you have concerns about using it on sensitive skin.</p>",
+            "heading": "Kann ich das Qure Micro-Infusionssystem verwenden, wenn ich empfindliche Haut habe?",
+            "text": "<p>Obwohl das System besonders sanft ist und von Dermatologen geschätzt wird, empfehlen wir Ihnen, bei Bedenken hinsichtlich der Anwendung auf empfindlicher Haut einen Arzt zu konsultieren.</p>",
             "code": ""
           }
         },
         "object_b4xRkF": {
           "type": "object",
           "settings": {
-            "heading": "What are the benefits of using the Qure Micro-Infusion System?",
-            "text": "<p>Benefits include fading the appearance of fine lines and wrinkles, reducing dark spots and scarring, plumping and brightening dull skin, and activating the body's natural anti-aging mechanisms.</p>",
+            "heading": "Was sind die Vorteile des Qure Micro-Infusionssystems?",
+            "text": "<p>Zu den Vorteilen gehören das Verblassen von feinen Linien und Falten, die Reduzierung von dunklen Flecken und Narben, die Aufpolsterung und Aufhellung matter Haut sowie die Aktivierung der natürlichen Anti-Aging-Mechanismen des Körpers.</p>",
             "code": ""
           }
         },
         "object_qfXzf3": {
           "type": "object",
           "settings": {
-            "heading": "Can’t I just use a derma roller?",
-            "text": "<p>Qure’s Micro-Infusion System features a one time per treatment head. This means it is typically safer and more hygienic than a derma roller. It also infuses the skin at the same time making it much more time efficient and effective than a derma roller.</p>",
+            "heading": "Kann ich nicht einfach einen Dermaroller verwenden?",
+            "text": "<p>Das Micro-Infusionssystem von Qure verfügt über einen Einweg-Behandlungskopf. Das bedeutet, dass es in der Regel sicherer und hygienischer ist als eine Dermaroller. Außerdem versorgt es die Haut gleichzeitig mit Feuchtigkeit, wodurch es viel zeitsparender und effektiver ist als eine Dermaroller.</p>",
             "code": ""
           }
         },
         "object_9UagXp": {
           "type": "object",
           "settings": {
-            "heading": "How do I use the Qure Micro-Infusion System?",
-            "text": "<p>The process involves filling the device with serum, creating microchannels with the needle head, applying the serum through stamping motions on the face, and disposing of the needle head after use. Detailed instructions are included with the system.</p>",
+            "heading": "Wie verwende ich das Qure Micro-Infusionssystem?",
+            "text": "<p>Der Vorgang umfasst das Befüllen des Geräts mit Serum, das Erzeugen von Mikrokanälen mit der Nadelspitze, das Auftragen des Serums durch Stempelbewegungen auf das Gesicht und das Entsorgen der Nadelspitze nach Gebrauch. Eine detaillierte Gebrauchsanweisung liegt dem System bei.</p>",
             "code": ""
           }
         },
         "object_KJWRnn": {
           "type": "object",
           "settings": {
-            "heading": "What's the full ingredients list?",
-            "text": "<p><strong>Rejuvenating Serum, All ingredients:</strong><br/>Rosa Damascena Flower Water, Propanediol 1,3, Glycerin, Tranexamic Acid, Niacinamide, Panthenol, Chrysanthellum indicum extract, Ethylhexylglycerin, Tripeptide-1, Xanthan Gum, Allantoin, sh-Oligopeptide-1.</p><p><strong>Hydra-Soothing Serum, All ingredients:</strong></p><p>Rosa Damascena Flower Water, Propanediol 1,3, Glycerin, Panthenol, Niacinamide, Myrothamnus Flabellifolia leaf /stem extract, Water, Butylene glycol, 4'Hydroxyacetophenone, Copper Tripeptide-1, Oat Beta Glucan, Chrysanthellum indicum extract, Ethylhexylglycerin, Sodium Hyaluronate, Allantoin, Xanthan Gum.</p><p>Please note that due to innovative updates and changing regulatory guidelines, the ingredient lists provided here may differ slightly from those on our packaging and distributor websites.</p>",
+            "heading": "Was ist die vollständige Liste der Inhaltsstoffe?",
+            "text": "<p><strong>Verjüngendes Serum, Alle Inhaltsstoffe:</strong></p><p>Rosa Damascena-Blütenwasser, Propanediol 1,3, Glycerin, Tranexamsäure, Niacinamid, Panthenol, Chrysanthellum indicum-Extrakt, Ethylhexylglycerin, Tripeptid-1, Xanthan, Allantoin, sh-Oligopeptid-1.</p><p><strong>Hydra-beruhigendes Serum, Alle Inhaltsstoffe:</strong><br/></p><p>Rosa Damascena-Blütenwasser, Propanediol 1,3, Glycerin, Panthenol, Niacinamid, Myrothamnus Flabellifolia-Blatt-/Stängelextrakt, Wasser, Butylenglykol, 4'-Hydroxyacetophenon, Kupfertripeptid-1, Hafer-Beta-Glucan, Chrysanthellum indicum-Extrakt, Ethylhexylglycerin, Natriumhyaluronat, Allantoin, Xanthan.</p><p>Bitte beachten Sie, dass aufgrund innovativer Aktualisierungen und sich ändernder gesetzlicher Vorschriften die hier angegebenen Inhaltsstofflisten geringfügig von denen auf unseren Verpackungen und den Websites unserer Vertriebspartner abweichen können.</p>",
             "code": ""
           }
         },
         "object_iNjJHr": {
           "type": "object",
           "settings": {
-            "heading": "What makes the Qure Micro-Infusion System different from clinic treatments?",
-            "text": "<p>It offers a convenient, affordable, and less invasive alternative to clinical treatments, allowing you to achieve similar benefits without the need for costly and time-consuming clinic visits.</p>",
+            "heading": "Was unterscheidet das Qure Micro-Infusionssystem von Behandlungen in der Klinik?",
+            "text": "<p>Es bietet eine bequeme, erschwingliche und weniger invasive Alternative zu klinischen Behandlungen, mit der Sie ähnliche Vorteile erzielen können, ohne kostspielige und zeitaufwändige Klinikbesuche in Anspruch nehmen zu müssen.</p>",
             "code": ""
           }
         },
         "object_jh9h8Y": {
           "type": "object",
           "settings": {
-            "heading": "What is included in the purchase of a Qure Micro-Infusion System?",
-            "text": "<p>You will receive the Micro-Infusion device, sterile 24k gold plated microneedle heads, Qure’s science-backed Rejuvenating Serum, free worldwide shipping over $100, 24/7 customer support, and a 90-day risk-free money-back guarantee.</p>",
+            "heading": "Was ist im Kaufpreis eines Qure Micro-Infusionssystems enthalten?",
+            "text": "<p>Sie erhalten das Micro-Infusionssystem, sterile, mit 24 Karat vergoldete Mikronadelköpfe, das wissenschaftlich fundierte Rejuvenating Serum von Qure, kostenlosen weltweiten Versand ab einem Bestellwert von 100 €, 24/7-Kundensupport und eine 90-tägige Geld-zurück-Garantie.</p>",
             "code": ""
           }
         },
         "object_n7R7ar": {
           "type": "object",
           "settings": {
-            "heading": "What if I'm not satisfied with my results?",
-            "text": "<p>Qure offers a 90-day risk-free money-back guarantee. If you're not satisfied with the results after using the system as recommended, you can return it for a full refund.</p>",
+            "heading": "Was ist, wenn ich mit meinen Ergebnissen nicht zufrieden bin?",
+            "text": "<p>Qure bietet eine 90-tägige Geld-zurück-Garantie ohne Risiko. Wenn Sie nach der empfohlenen Nutzung des Systems mit den Ergebnissen nicht zufrieden sind, können Sie es gegen eine vollständige Rückerstattung zurückgeben.</p>",
             "code": ""
           }
         }
@@ -1184,10 +1184,10 @@
       "settings": {
         "background": "bg-lightGrey",
         "classname": "",
-        "heading": "The answers to your questions",
+        "heading": "Die Antworten auf Ihre Fragen",
         "text": "",
-        "button_label": "Show More Questions",
-        "button_hide_label": "Hide More Questions"
+        "button_label": "Weitere Fragen anzeigen",
+        "button_hide_label": "Weitere Fragen ausblenden"
       }
     }
   },
