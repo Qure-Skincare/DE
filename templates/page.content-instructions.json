@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "header_landing_pFmaRH": {
       "type": "header-landing-simple",
@@ -15,7 +15,7 @@
         "navigation_link_qLHgyD": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "CONTENT REQUIREMENTS",
+            "link_label": "Content ANFORDERUNGEN",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs1.webp"
           }
@@ -23,7 +23,7 @@
         "navigation_link_DgYaFx": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "PRODUCT",
+            "link_label": "PRODUKT",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs2.webp"
           }
@@ -31,7 +31,7 @@
         "navigation_link_3X4mrf": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "INSPIRING CONTENT",
+            "link_label": "INSPIRIERENDE INHALTE",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs3.webp"
           }
@@ -42,8 +42,7 @@
         "navigation_link_DgYaFx",
         "navigation_link_3X4mrf"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "section1": {
       "type": "guide-header",
@@ -51,7 +50,7 @@
         "button_LUpm3B": {
           "type": "button",
           "settings": {
-            "button_label": "Learn more about the Micro-Infusion System",
+            "button_label": "Erfahren Sie mehr über das Micro-Infusionssystem",
             "button_url": "https://www.qureskincare.de/pages/microinfusion"
           }
         }
@@ -60,16 +59,16 @@
         "button_LUpm3B"
       ],
       "settings": {
-        "heading": "Micro-Infusion Creative Content Guide",
-        "text": "<p>Hey skincare enthusiasts!</p><p>Ready to take your content to the next level?</p><p>Our creative guide will help you craft engaging content that showcases how our innovative tool transforms skincare routines for radiant, glowing skin, so let's start!</p>",
+        "heading": "Creative Content Guide für Micro-Infusion",
+        "text": "<p>Hey Skincare-Fans!<br/><br/>Bereit, euer Content-Game aufs nächste Level zu heben?</p><p>Unser Kreativleitfaden hilft Ihnen bei der Erstellung ansprechender Inhalte, die zeigen, wie unser innovatives Tool die Hautpflege-Routine für strahlend schöne Haut verändert. Legen wir los!</p>",
         "wistia_id": "h8lz5uvd39"
       }
     },
     "qure_founder_v2_U8tRyA": {
       "type": "qure-founder-v2",
       "settings": {
-        "heading": "“Feeling good in your skin is not a privilege; it's a fundamental right, and we've set out on a mission to make it universally attainable.”",
-        "subheading": "-Kristina, founder of Qure",
+        "heading": "„Sich in seiner Haut wohlzufühlen ist kein Privileg, sondern ein Grundrecht, und wir haben es uns zur Aufgabe gemacht, dies für alle Menschen möglich zu machen.“",
+        "subheading": "-Kristina, Gründerin von Qure",
         "image": "shopify://shop_images/kristina.webp"
       }
     },
@@ -79,19 +78,19 @@
         "header_RA46tw": {
           "type": "header",
           "settings": {
-            "heading": "STEP 1",
-            "text": "Merge Qure into your creatives",
+            "heading": "SCHRITT 1",
+            "text": "Qure in Ihre Creatives integrieren",
             "image": "shopify://shop_images/ac_step1.webp",
-            "button_label": "Content Requirements"
+            "button_label": "Content Anforderungen"
           }
         },
         "description_mHnPFA": {
           "type": "description",
           "settings": {
             "classname": "faq",
-            "heading": "Key Messages",
+            "heading": "Schlüsselbotschaften",
             "image": "shopify://shop_images/key_message.svg",
-            "content": "<p>Key Points to include in the messaging:</p>",
+            "content": "<p>Schlüsselpunkte für Ihre Kommunikation</p>",
             "wistia_id": ""
           }
         },
@@ -99,8 +98,9 @@
           "type": "collapsed",
           "settings": {
             "show": true,
-            "heading": "How it works",
-            "content": "<ul><li>The unique 2-in-1 system uses virtually painless needles to create invisible micro-channels in the top layer of your skin through a \"stamping\" technique. This controlled trauma stimulates the skin’s natural healing process, enhancing skin texture. Simultaneously, the invisible micro-channels allow science-backed serums to be infused directly below the skin barrier, delivering active ingredients more effectively for faster results - resulting in a rejuvenated, glowing complexion.</li></ul>",
+            "style": "default",
+            "heading": "So funktioniert's",
+            "content": "<ul><li>Das einzigartige 2-in-1-System verwendet nahezu schmerzfreie Nadeln, um durch eine „Stempeltechnik“ unsichtbare Mikrokanäle in der obersten Hautschicht zu erzeugen. Dieses kontrollierte Trauma stimuliert den natürlichen Heilungsprozess der Haut und verbessert die Hautstruktur. Gleichzeitig ermöglichen die unsichtbaren Mikrokanäle, dass wissenschaftlich erprobte Seren direkt unter die Hautbarriere gelangen und die Wirkstoffe so effektiver transportiert werden, was zu schnelleren Ergebnissen führt – für einen verjüngten, strahlenden Teint.</li></ul>",
             "code": ""
           }
         },
@@ -108,8 +108,9 @@
           "type": "collapsed",
           "settings": {
             "show": false,
-            "heading": "Why everyone is obsessing over Qure’s Micro-Infusion System",
-            "content": "<ul><li><strong>Affordable and Convenient:</strong><br/>Enjoy an at-home 5-minute treatment every 2 weeks that costs up to 15X less than professional in-clinic treatments, saving you both time and money.</li><li><strong>Visible Results for Big Events:</strong><br/>Ideal for quickly enhancing your skin before important occasions, with visible results after just one treatment.</li><li><strong>Enhanced Serum Absorption:</strong><br/>Delivers serum directly to the skin, increasing absorption for better results.</li><li><strong>Safe and Easy to Use:</strong><br/>Quick DIY at-home facial with little to no downtime. Single-use sterile needle heads help minimize the risk of infection or irritation caused by blunt and multi-use needles. </li></ul>",
+            "style": "default",
+            "heading": "Warum alle vom Micro-Infusionsystem von Qure so begeistert sind",
+            "content": "<ul><li><strong>Erschwinglich und praktisch:<br/></strong>Genießen Sie alle zwei Wochen eine 5-minütige Behandlung zu Hause, die bis zu 15-mal günstiger ist als professionelle Behandlungen in der Klinik und Ihnen Zeit und Geld spart.</li><li><strong>Sichtbare Ergebnisse für große Ereignisse:<br/></strong>Ideal, um Ihre Haut vor wichtigen Anlässen schnell zu verbessern, mit sichtbaren Ergebnissen nach nur einer Behandlung.</li><li><strong>Verbesserte Serumaufnahme:<br/></strong>Leitet das Serum direkt in die Haut und erhöht die Aufnahme für bessere Ergebnisse.</li><li><strong>Sicher und einfach anzuwenden:<br/></strong>Schnelle DIY-Gesichtsbehandlung für zu Hause mit wenig bis gar keiner Ausfallzeit. Sterile Einweg-Nadelköpfe minimieren das Risiko von Infektionen oder Reizungen durch stumpfe und wiederverwendbare Nadeln.</li></ul>",
             "code": ""
           }
         },
@@ -117,7 +118,8 @@
           "type": "collapsed",
           "settings": {
             "show": false,
-            "heading": "Clinical results from home - minus the “clinical” costs",
+            "style": "default",
+            "heading": "Klinische Ergebnisse von zu Hause aus – ohne die „klinischen“ Kosten",
             "content": "<ul><li>Get smoother, firmer, brighter-looking neck and décolletage skin with consistent treatment. One-time cost investment of the Neck & Décolletage LED Device means unlimited treatments, with no ongoing payments or hassle of attending in-clinic appointments.</li></ul>",
             "code": ""
           }
@@ -126,8 +128,9 @@
           "type": "collapsed",
           "settings": {
             "show": false,
-            "heading": "Serums to treat your specific skin concerns",
-            "content": "<p>Your skin is <strong>unique,</strong> so your treatment should be. Choose between two serums (or both) you want to infuse with your Micro-Infusion device and experience a set of benefits tailored to <strong>your</strong> exact skin concerns.</p>",
+            "style": "default",
+            "heading": "Seren zur Behandlung Ihrer individuellen Hautprobleme",
+            "content": "<p>Ihre Haut ist <strong>einzigartig,</strong> daher sollte auch Ihre Behandlung einzigartig sein. Wählen Sie zwischen zwei Seren (oder beiden), die Sie mit Ihrem Micro-Infusion-Gerät auftragen möchten, und erleben Sie eine Reihe von Vorteilen, die genau auf <strong>Ihre</strong> Hautbedürfnisse zugeschnitten sind.</p>",
             "code": "<div class=\"serums_wrap\">\n                                                <img src=\"https://qureskincaredns-de.com/u_serum_1.webp\" alt=\"\" class=\"img-fluid\">\n                                                <div>\n                                                    <h5 class=\"bg-yellow\">Dark Spots</h5>\n                                                    <p>For dark spots and uneven skin tone choose Rejuvenating\n                                                        serum</p>\n                                                </div>\n                                            </div>\n                                            <ul>\n                                                <li>Brightens discolouration, fades dark spots and acne marks,\n                                                    promotes even skin tone and minimizes pores.</li>\n                                                <li>Formulated with Epidermal Growth Factor (EGF), Niacinamide,\n                                                    Tranexamic Acid.</li>\n                                            </ul>\n                                            <div class=\"serums_wrap\">\n                                                <img src=\"https://qureskincaredns-de.com/u_serum_2.webp\" alt=\"\" class=\"img-fluid\">\n                                                <div>\n                                                    <h5 class=\"bg-grey\">Wrinkles</h5>\n                                                    <p>For fine lines and wrinkles choose Hydra-Soothing serum\n                                                    </p>\n                                                </div>\n                                            </div>\n                                            <ul>\n                                                <li>Reduces the look of fine lines and wrinkles, helps soothe\n                                                    redness and boosts hydration.</li>\n                                                <li>Formulated with Beta Glucan, Niacinamide and Tripeptide-1\n                                                    Peptide.</li>\n                                            </ul>"
           }
         },
@@ -135,9 +138,9 @@
           "type": "description",
           "settings": {
             "classname": "",
-            "heading": "Creative Direction",
+            "heading": "Creatives-Anleitung",
             "image": "shopify://shop_images/direction.svg",
-            "content": "<ul><li>High quality, bright lighting and high resolution imagery/videography to be supplied. No obvious filters.</li><li>Close-up of the Micro-Infusion device and serums to be the feature in the content. Background must be clean and bright.</li><li>When demonstrating the application of the product, please do not wear any make-up, or no visible/noticeable makeup and make sure to do a close-up.</li><li>In cover photos for video content always show yourself using the Qure Micro-Infusion, unless otherwise agreed on with the brand.</li></ul>",
+            "content": "<ul><li>Hochwertige, helle Beleuchtung und hochauflösende Bilder/Videos sind bereitzustellen. Keine offensichtlichen Filter.</li><li>Nahaufnahmen des Micro-Infusion-Geräts und der Seren müssen im Mittelpunkt des Inhalts stehen. Der Hintergrund muss sauber und hell sein.</li><li>Wenn Sie die Anwendung des Produkts demonstrieren, tragen Sie bitte kein Make-up oder kein sichtbares/auffälliges Make-up und achten Sie auf Nahaufnahmen.</li><li>Zeigen Sie auf den Titelbildern von Videoinhalten immer die Nutzung der Qure Micro-Infusion, sofern nicht anders mit der Marke vereinbart.</li></ul>",
             "wistia_id": ""
           }
         },
@@ -145,29 +148,29 @@
           "type": "description",
           "settings": {
             "classname": "",
-            "heading": "Inclusion",
+            "heading": "Inklusion",
             "image": "shopify://shop_images/inclusion.svg",
-            "content": "<ul><li>Tag and mention @qureskincare</li><li>Include hashtags in caption: #quremicroinfusion #microneedling #microinfusion #athomefacial #antiageing #qure #qureskincare #quremicroinfusion</li><li>Please include your affiliate link or link provided by Qure in Instagram stories and in captions of YouTube videos. If can’t be placed in BIO then please include in linktree or similar.</li></ul>",
+            "content": "<ul><li>Markieren und erwähnen Sie @qureskincare #QureSkincare #QureLEDMask #LEDlighttherapy #Neck&DécolletageLEDevice</li><li>Fügen Sie Ihren Affiliate-Link oder andere von Qure bereitgestellte Links in Instagram Stories und Bildunterschriften ein. Wenn der Link nicht in der BIO platziert werden kann, fügen Sie ihn in linktr.ee oder ähnlichen Diensten ein.</li></ul>",
             "wistia_id": ""
           }
         },
         "header_LhpN6x": {
           "type": "header",
           "settings": {
-            "heading": "STEP 2",
-            "text": "Get to know our Micro-Infusion System",
+            "heading": "SCHRITT 2",
+            "text": "Das Micro-Infusionssystem kennenlernen",
             "image": "shopify://shop_images/ac_step2.webp",
-            "button_label": "Product Information"
+            "button_label": "Produktinformationen"
           }
         },
         "description_6WtF8b": {
           "type": "description",
           "settings": {
             "classname": "",
-            "heading": "Product Details",
+            "heading": "Produktdetails",
             "image": "shopify://shop_images/search.svg",
             "image_large": "shopify://shop_images/img_col_e8f6043d-3dfd-4e45-b20d-8d9a3bf04339.png",
-            "content": "<ul><li>0.5 mm needles create controlled depth of micro-channels in the top layer of your skin through a \"stamping\" technique. It “tricks” your skin into activating your body’s natural healing process.</li><li>Single-use sterile 24 gold plated needle heads help minimize the risk of infection or irritation.</li><li>Serum of choice (for wrinkles / for dark spots) is infused directly below the skin barrier, accelerating absorption of active ingredients for faster results.</li></ul><p><a href=\"https://www.qureskincare.de/pages/microinfusion\" title=\"https://www.qureskincare.de/pages/microinfusion\">Learn more about Micro-Infusion System &gt;</a></p>",
+            "content": "<ul><li>0,5-mm-Nadeln erzeugen durch eine „Stempeltechnik“ kontrollierte Mikrokanäle in der obersten Hautschicht. Dadurch wird Ihre Haut „ausgetrickst“, sodass sie den natürlichen Heilungsprozess Ihres Körpers aktiviert.<br/></li><li>Sterile Einweg-Nadelköpfe mit 24-karätiger Vergoldung minimieren das Risiko von Infektionen oder Reizungen.</li><li>Das Serum Ihrer Wahl (gegen Falten/gegen Pigmentflecken) wird direkt unter die Hautbarriere eingebracht, wodurch die Aufnahme der Wirkstoffe beschleunigt wird und schnellere Ergebnisse erzielt werden.</li></ul><p><a href=\"https://www.qureskincare.de/pages/microinfusion\">Erfahren Sie mehr über das Micro-Infusionssystem &gt;</a></p>",
             "wistia_id": ""
           }
         },
@@ -175,16 +178,16 @@
           "type": "description",
           "settings": {
             "classname": "faq",
-            "heading": "Usage Instructions",
+            "heading": "Gebrauchsanweisung",
             "image": "shopify://shop_images/usage_dir.svg",
-            "content": "<ul><li>Treatment every 2 weeks, at night, for the best results. </li><li>Follow pre and post treatment protocol.</li><li>Make sure to scan the QR-code on the packaging before use or see detailed protocol <a href=\"https://www.qureskincare.de/pages/microinfusion-safety-guide\">here</a>.</li></ul>",
+            "content": "<ul><li>Für optimale Ergebnisse alle zwei Wochen abends anwenden.</li><li>Befolgen Sie die Anweisungen vor und nach der Behandlung.</li><li>Scannen Sie vor der Anwendung den QR-Code auf der Packung oder lesen Sie <a href=\"https://www.qureskincare.de/pages/microinfusion-safety-guide\">hier</a> das detaillierte Anwendungsprotokoll.</li></ul>",
             "wistia_id": "yy9nv8vwsn"
           }
         },
         "button_NKqPfp": {
           "type": "button",
           "settings": {
-            "button_label": "Detailed How to Use Guide",
+            "button_label": "Ausführliche Gebrauchsanweisung",
             "button_url": "https://www.qureskincare.de/pages/microinfusion-safety-guide"
           }
         },
@@ -192,25 +195,25 @@
           "type": "description",
           "settings": {
             "classname": "",
-            "heading": "Product Claims",
+            "heading": "Produktangaben",
             "image": "shopify://shop_images/product_claims.svg",
-            "content": "<ul><li>Disposable needle-heads with 24 karat gold-plated needles minimize the risk of infection and irritation</li><li>Delivers science-backed serums directly to skin to help increase absorption & results</li><li>Little to no downtime & quick recovery of the skin</li><li>Offers similar results to in-clinic micro needling</li></ul>",
+            "content": "<ul><li>Einweg-Nadelköpfe mit 24 Karat vergoldeten Nadeln minimieren das Risiko von Infektionen und Reizungen</li><li>Liefert wissenschaftlich fundierte Seren direkt in die Haut, um die Absorption und die Ergebnisse zu verbessern</li><li>Kaum bis gar keine Ausfallzeiten und schnelle Regeneration der Haut</li><li>Bietet ähnliche Ergebnisse wie Micro-Needling in der Klinik</li></ul>",
             "wistia_id": ""
           }
         },
         "header_AwT6ji": {
           "type": "header",
           "settings": {
-            "heading": "STEP 3",
-            "text": "Get inspired by other content creators",
+            "heading": "SCHRITT 3",
+            "text": "Inspiration von anderen Content-Erstellern",
             "image": "shopify://shop_images/ac_step3.webp",
-            "button_label": "Inspiring Content"
+            "button_label": "Inspirierende Inhalte"
           }
         },
         "heading_YiyFGP": {
           "type": "heading",
           "settings": {
-            "heading": "Show before and after"
+            "heading": "Vorher-Nachher- Darstellung"
           }
         },
         "video_4Jjjcm": {
@@ -237,7 +240,7 @@
         "heading_fUcJta": {
           "type": "heading",
           "settings": {
-            "heading": "How to use and product details"
+            "heading": "Produktanwendung und Details"
           }
         },
         "video_H9fmrV": {
@@ -264,7 +267,7 @@
         "heading_N6TQnA": {
           "type": "heading",
           "settings": {
-            "heading": "Compared to alternatives"
+            "heading": "Mit Alternativen vergleichen"
           }
         },
         "video_a3ghkg": {
@@ -291,7 +294,7 @@
         "heading_TTxYWP": {
           "type": "heading",
           "settings": {
-            "heading": "What experts say"
+            "heading": "Was Experten sagen"
           }
         },
         "video_zQFEkP": {
@@ -349,7 +352,7 @@
         "video_EVwMR6"
       ],
       "settings": {
-        "heading": "All you need to know before you start creating your amazing content"
+        "heading": "Alles, was Sie wissen müssen, bevor Sie fantastische Inhalte erstellen"
       }
     }
   },
