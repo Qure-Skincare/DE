@@ -15,7 +15,7 @@
         "announcement_Jg3bwh": {
           "type": "announcement",
           "settings": {
-            "heading": "Get Up To 43% OFF Younger Looking, Radiant Skin!",
+            "heading": "Sichern Sie sich bis zu 43 % RABATT für jünger aussehende, strahlende Haut!",
             "heading_mobile": "",
             "color": "white",
             "font_size_desktop": 12,
@@ -30,7 +30,7 @@
         ".nav__item.cart_btn,.nav__item.header_gift_btn {display: none !important;}"
       ],
       "settings": {
-        "button_label": "SAVE UP TO 43%",
+        "button_label": "BIS ZU 43 % SPAREN",
         "button_url": "https://www.qureskincare.de/pages/qure-microinfusion-offer"
       }
     },
@@ -40,7 +40,7 @@
         "content_aWtJAJ": {
           "type": "content",
           "settings": {
-            "text": "<h1>Enjoy Smoother, Healthier Skin at Home in Just 5 Minutes with Our Micro-Infusion System</h1>",
+            "text": "<h1>Genießen Sie glattere, gesündere Haut – bequem zu Hause in nur 5 Minuten mit unserem Micro-Infusionssystem.</h1>",
             "column_content": 0,
             "classname": "it_info paddingB faq_title pe-md-2"
           }
@@ -48,7 +48,7 @@
         "content_4z7mYH": {
           "type": "content",
           "settings": {
-            "text": "<h5>Created In Partnership With <strong>Leading Dermatologists</strong> And Trusted By <strong>Skincare Experts</strong> Worldwide</h5>",
+            "text": "<h5>Entwickelt in Zusammenarbeit mit <strong>führenden Dermatologen</strong> und von <strong>Hautpflegeexperten</strong> weltweit empfohlen.</h5>",
             "column_content": 0,
             "classname": "it_info p-0 pb-md-3 faq_sub"
           }
@@ -84,7 +84,7 @@
         "content_wrmNDz": {
           "type": "content",
           "settings": {
-            "text": "<h2>What Is the Qure Micro-Infusion System?</h2>",
+            "text": "<h2>Was ist das Qure Micro-Infusionssystem?</h2>",
             "column_content": 10,
             "classname": "it_info pt-3"
           }
@@ -92,7 +92,7 @@
         "content_wpnrcC": {
           "type": "content",
           "settings": {
-            "text": "<p>The Qure Micro-Infusion System is a simple yet <strong>powerful skincare device </strong>that brings the benefits of micro-needling to your home. It helps to reduce the appearance of fine lines, smooths skin texture, and enhances the effectiveness of your serums to improve your skin’s appearance and boost your confidence.<br/><br/>Use it for just 5 minutes every 2 weeks to infuse active ingredients deep into your skin, promoting a brighter, more radiant complexion.</p>",
+            "text": "<p>Das Qure Micro-Infusionssystem ist ein einfaches, aber <strong>leistungsstarkes Hautpflegegerät</strong>, mit dem Sie die Vorteile der Mikronadelung zu Hause genießen können. Es hilft, feine Linien zu reduzieren, die Hautstruktur zu glätten und die Wirksamkeit Ihrer Seren zu optimieren, um das Erscheinungsbild Ihrer Haut zu verbessern und Ihr Selbstbewusstsein zu stärken.</p><p><br/></p><p>Verwenden Sie es alle zwei Wochen für nur 5 Minuten, um Wirkstoffe tief in Ihre Haut einzuarbeiten und einen frischeren, strahlenderen Teint zu erzielen.</p>",
             "column_content": 10,
             "classname": "it_info p-0 pt-0"
           }
@@ -114,7 +114,7 @@
         "content_q4jdd4": {
           "type": "content",
           "settings": {
-            "text": "<h2>How Fast Can I See Results?</h2>",
+            "text": "<h2>Wie schnell kann ich Ergebnisse sehen?</h2>",
             "column_content": 10,
             "classname": "it_info paddingB"
           }
@@ -122,7 +122,7 @@
         "content_FWjC9d": {
           "type": "content",
           "settings": {
-            "text": "<p>With the Qure Micro-Infusion System, many users notice improvements in their skin’s appearance after the first use. While it won’t transform your skin overnight, <strong>you’ll likely see a brighter, more hydrated complexion the next day.<br/><br/></strong>With consistent use every 2 weeks, you can expect to see a significant reduction in fine lines and a smoother skin texture within a month, helping you achieve a more youthful and radiant look. Dermatologists recommend using the device every 2 weeks for a minimum of 3 months for optimal results. Consistency is key!</p>",
+            "text": "<p>Mit dem Qure Micro-Infusionssystem stellen viele Anwender bereits nach der ersten Behandlung eine Verbesserung ihres Hautbildes fest. Die Haut wird zwar nicht über Nacht verwandelt, aber <strong>Sie werden wahrscheinlich schon am nächsten Tag einen strahlenderen und besser hydrierten Teint feststellen.</strong></p><p><br/></p><p>Bei regelmäßiger Anwendung alle zwei Wochen können Sie innerhalb eines Monats mit einer deutlichen Reduzierung feiner Linien und einer glatteren Hautstruktur rechnen, wodurch Sie ein jugendlicheres und strahlenderes Aussehen erzielen. Dermatologen empfehlen, das Gerät für optimale Ergebnisse mindestens drei Monate lang alle zwei Wochen anzuwenden. Regelmäßigkeit ist der Schlüssel zum Erfolg!</p>",
             "column_content": 10,
             "classname": "it_info pb-md-3 pt-0"
           }
@@ -151,7 +151,7 @@
           "type": "option",
           "settings": {
             "heading": "",
-            "text": "<p><strong>Micro-Needles: </strong>Tiny, gold needles (thinner than a human hair) create micro-channels in your skin. This helps stimulate collagen production and triggers your skin’s natural healing process.<br/><br/><strong>Serum Delivery: </strong>The micro-channels allow our scientifically-backed serums to penetrate deeply, delivering active ingredients exactly where they are needed to reduce the appearance of wrinkles, fine lines, and dark spots.<br/><br/><strong>Hydration and Plumping:</strong>The infusion process enhances your skin's ability to retain moisture, resulting in a plumper, more hydrated, and radiant looking complexion.</p>"
+            "text": "<p><strong>Mikronadeln: </strong>Winzige Goldnadeln (dünner als ein menschliches Haar) erzeugen Mikrokanäle in Ihrer Haut. Dies regt die Kollagenproduktion an und löst den natürlichen Heilungsprozess Ihrer Haut aus.</p><p><br/></p><p><strong>Serumabgabe: </strong>Die Mikrokanäle ermöglichen es unseren wissenschaftlich erprobten Seren, tief in die Haut einzudringen und die Wirkstoffe genau dort abzugeben, wo sie benötigt werden, um das Auftreten von Falten, feinen Linien und dunklen Flecken zu reduzieren.</p><p><br/></p><p><strong>Feuchtigkeitsversorgung und Straffung:</strong> Der Infusionsprozess verbessert die Fähigkeit Ihrer Haut, Feuchtigkeit zu speichern, was zu einem pralleren, hydratisierten und strahlenderen Teint führt.</p>"
           }
         },
         "option_9EYzCE": {
@@ -171,8 +171,8 @@
         "@media (max-width: 767px) {.stamping_skin-gif {padding-bottom: 40px; }}"
       ],
       "settings": {
-        "heading": "How Does the Qure Micro-Infusion System Work?",
-        "text": "<p>The Qure Micro-Infusion System is designed to revitalize your skin through a precise and effective process:</p>",
+        "heading": "Wie funktioniert das Qure Micro-Infusionssystem?",
+        "text": "<p>Das Qure Micro-Infusionssystem wurde entwickelt, um Ihre Haut durch einen präzisen und effektiven Prozess zu revitalisieren:</p>",
         "custom_class": "mw-680",
         "custom_class2": ""
       }
@@ -183,7 +183,7 @@
         "content_gf4iKF": {
           "type": "content",
           "settings": {
-            "text": "<p>Use the Qure Micro-Infusion System for just 5 minutes every 2 weeks for a minimum of 3 months and <strong>enjoy smoother looking more youthful skin and a more confident you.</strong></p>",
+            "text": "<p>Verwenden Sie das Qure Micro-Infusionssystem mindestens 3 Monate lang alle 2 Wochen für nur 5 Minuten und <strong>freuen Sie sich über glatter aussehende, jugendlichere Haut und mehr Selbstbewusstsein.</strong></p>",
             "column_content": 10,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
@@ -204,7 +204,7 @@
         "content_UVK7xF": {
           "type": "content",
           "settings": {
-            "text": "<h2>Can I Use the Qure Micro-Infusion System If I Have Sensitive Skin?</h2>",
+            "text": "<h2>Kann ich das Qure Micro-Infusionssystem verwenden, wenn ich empfindliche Haut habe?</h2>",
             "column_content": 10,
             "classname": "it_info pt-md-0 pt-4"
           }
@@ -212,7 +212,7 @@
         "content_kWXQrt": {
           "type": "content",
           "settings": {
-            "text": "<p>Absolutely! The Qure Micro-Infusion System is designed to be <strong>gentle and effective for all skin types.<br/><br/></strong>We know that everyone's skin is unique, and that's why our device is crafted to minimize irritation while maximizing results. The 24k gold plated micro-needles are designed to be virtually painless, and our serums are formulated to soothe and nourish even the most delicate skin.</p>",
+            "text": "<p>Absolut! Das Qure Micro-Infusionssystem wurde so entwickelt, dass es <strong>sanft und effektiv für alle Hauttypen ist.</strong></p><p><br/></p><p>Wir wissen, dass jede Haut einzigartig ist. Deshalb wurde unser Gerät so entwickelt, dass es Irritationen minimiert und gleichzeitig maximale Ergebnisse erzielt. Die 24-karätig vergoldeten Mikronadeln sind so konzipiert, dass sie praktisch schmerzfrei sind, und unsere Seren wurden entwickelt, um selbst empfindlichste Haut zu beruhigen und zu pflegen.</p>",
             "column_content": 10,
             "classname": "it_info paddingB"
           }
@@ -242,35 +242,35 @@
           "type": "steps",
           "settings": {
             "step_image": "shopify://shop_images/mi_faq_use_1.webp",
-            "text_content": "<p><strong>Prep Your Skin: </strong>Cleanse your face thoroughly to remove any makeup or impurities. Pat dry with a clean towel.</p>"
+            "text_content": "<p><strong>Hautvorbereitung: </strong>Reinigen Sie Ihr Gesicht gründlich, um Make-up und Unreinheiten zu entfernen. Tupfen Sie die Haut mit einem sauberen Handtuch trocken.</p>"
           }
         },
         "steps_hJH6Hw": {
           "type": "steps",
           "settings": {
             "step_image": "shopify://shop_images/mi_faq_use_2.webp",
-            "text_content": "<p><strong>Prepare the Device: </strong>Twist open the chamber and fill it with one ampule of your chosen serum. Secure the micro-needle head by twisting it on tightly.</p>"
+            "text_content": "<p><strong>Gerät vorbereiten: </strong>Drehen Sie die Kammer auf und füllen Sie sie mit einer Ampulle des von Ihnen gewählten Serums. Befestigen Sie den Mikronadelkopf, indem Sie ihn fest aufdrehen.</p>"
           }
         },
         "steps_8at44M": {
           "type": "steps",
           "settings": {
             "step_image": "shopify://shop_images/mi_faq_use_3.webp",
-            "text_content": "<p><strong>Activate the Device: </strong>Leave the device upside down for 1-2 minutes to allow the serum to flow into the micro-needles.</p>"
+            "text_content": "<p><strong>Gerät aktivieren: </strong>Lassen Sie das Gerät 1–2 Minuten lang auf dem Kopf stehen, damit das Serum in die Mikronadeln fließen kann.</p>"
           }
         },
         "steps_hWbjmD": {
           "type": "steps",
           "settings": {
             "step_image": "shopify://shop_images/mi_faq_use_4.webp",
-            "text_content": "<p><strong>Micro-Infuse: </strong>Remove the lid and gently press the device onto your skin, starting at the center of your face and working outward. Use a stamping motion to ensure even coverage.</p>"
+            "text_content": "<p><strong>Micro-Infusion starten: </strong>Entfernen Sie den Deckel und drücken Sie das Gerät sanft auf Ihre Haut, beginnend in der Gesichtsmitte und nach außen hin arbeitend. Verwenden Sie eine stempelnde Bewegung, um eine gleichmäßige Verteilung zu gewährleisten.</p>"
           }
         },
         "steps_ynbAn8": {
           "type": "steps",
           "settings": {
             "step_image": "shopify://shop_images/mi_faq_use_5.webp",
-            "text_content": "<p><strong>Aftercare: </strong>Pat any remaining serum onto your face and neck. Once done, place the lid back on the needle head, twist it off, and dispose of it safely.</p>"
+            "text_content": "<p><strong>Nachbehandlung: </strong>Klopfen Sie das restliche Serum sanft auf Gesicht und Hals ein. Setzen Sie anschließend den Deckel wieder auf den Nadelkopf, drehen Sie ihn fest zu und entsorgen Sie ihn sicher.</p>"
           }
         }
       },
@@ -286,8 +286,8 @@
         "@media (max-width: 767px) {.stamping_content-main > .swiper.Swiper_image {overflow: unset; }}"
       ],
       "settings": {
-        "heading": "How Do I Use the Qure Micro-Infusion System?",
-        "sub_head": "Using the Qure Micro-Infusion System is simple and convenient. Just follow these steps:",
+        "heading": "Wie verwende ich das Qure Micro-Infusionssystem?",
+        "sub_head": "Die Verwendung des Qure Micro-Infusionssystems ist einfach und bequem. Befolgen Sie einfach diese Schritte:",
         "custom_class": "mw-932 text-md-left ms-0"
       }
     },
@@ -297,7 +297,7 @@
         "content_bWjYX9": {
           "type": "content",
           "settings": {
-            "text": "<h2>Will the Qure Micro-Infusion System Work for Wrinkles?</h2>",
+            "text": "<h2>Wirkt das Qure Micro-Infusionssystem bei Falten?</h2>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0 pt-md-4"
           }
@@ -344,7 +344,7 @@
         "content_qn4Lda": {
           "type": "content",
           "settings": {
-            "text": "<h2>Will the Qure Micro-Infusion System Work for Dark Spots and Hyperpigmentation?</h2>",
+            "text": "<h2>Wirkt das Qure Micro-Infusionssystem bei dunklen Flecken und Hyperpigmentierung?</h2>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0"
           }
@@ -352,7 +352,7 @@
         "content_XhVnYG": {
           "type": "content",
           "settings": {
-            "text": "<p><strong>Yes, it will!</strong> The Qure Micro-Infusion System is specifically designed to address a variety of skin concerns, including dark spots and hyperpigmentation.<br/><br/>Our micro-needling process, combined with our rejuvenating serum, <strong>helps to penetrate deeply into the skin, reducing pigmentation and evening out skin tone.</strong> The system delivers active ingredients directly to the areas where they are needed most, promoting a clearer, more radiant complexion.<br/><br/>With consistent use, you’ll notice a significant reduction in dark spots and a more even skin tone, helping you to reveal your natural glow.</p>",
+            "text": "<p><strong>Ja, wird es!</strong> Das Qure Micro-Infusionssystem wurde speziell für eine Vielzahl von Hautproblemen entwickelt, darunter dunkle Flecken und Hyperpigmentierung.</p><p>Unser Mikronadelverfahren in Kombination mit unserem verjüngenden Serum <strong>dringt tief in die Haut ein, reduziert Pigmentflecken und gleicht den Hautton aus.</strong> Das System transportiert die Wirkstoffe direkt an die Stellen, wo sie am meisten benötigt werden, und sorgt so für einen klareren, strahlenderen Teint.</p><p>Bei regelmäßiger Anwendung werden Sie eine deutliche Reduzierung von dunklen Flecken und einen gleichmäßigeren Hautton feststellen, sodass Ihre natürliche Ausstrahlung wieder zum Vorschein kommt.</p>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
@@ -383,7 +383,7 @@
         "content_hdqacq": {
           "type": "content",
           "settings": {
-            "text": "<h2>How Much Does the Qure Micro-Infusion System Cost?</h2>",
+            "text": "<h2>Wie viel kostet das Qure Micro-Infusionssystem?</h2>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0 pt-md-2"
           }
@@ -391,7 +391,7 @@
         "content_FJNzmR": {
           "type": "content",
           "settings": {
-            "text": "<p>At Qure, we are dedicated to making advanced skincare solutions accessible and affordable for everyone.<br/><br/>We’ve priced our Micro-Infusion System competitively because we understand that quality skincare shouldn’t break the bank. Professional treatments can be costly and time-consuming, but with Qure, <strong>you can achieve similar results at home for a fraction of the cost.<br/><br/></strong>The Qure Micro-Infusion System, which includes the device and a 3-month supply of serums, typically retails at $297. However, for a limited time, you can get it for just <strong>$149 when you choose our best value bundle, saving you 43%.<br/><br/></strong>We believe everyone deserves to look and feel their best without the high costs of professional treatments.</p>",
+            "text": "<p>Bei Qure haben wir es uns zur Aufgabe gemacht, fortschrittliche Hautpflegelösungen für jedermann zugänglich und erschwinglich zu machen.</p><p>Wir haben unser Micro-Infusionssystem zu einem wettbewerbsfähigen Preis angeboten, weil wir verstehen, dass hochwertige Hautpflege nicht die Welt kosten sollte. Professionelle Behandlungen können kostspielig und zeitaufwendig sein, aber mit Qure <strong>können Sie zu Hause ähnliche Ergebnisse zu einem Bruchteil der Kosten erzielen.</strong></p><p>Das Qure Micro-Infusionssystem, das das Gerät und eine 3-monatige Versorgung mit Seren enthält, kostet normalerweise 297 $. Für eine begrenzte Zeit können Sie es jedoch für nur <strong>149 $ erhalten, wenn Sie sich für unser günstiges Paket entscheiden, wodurch Sie 43 % sparen.</strong></p><p>Wir glauben, dass jeder es verdient, gut auszusehen und sich gut zu fühlen, ohne die hohen Kosten für professionelle Behandlungen auf sich nehmen zu müssen.</p>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0 pt-md-2"
           }
@@ -414,7 +414,7 @@
         "content_FqcjTd": {
           "type": "content",
           "settings": {
-            "text": "<h2>Where Can I Purchase the Qure Micro-Infusion System?</h2>",
+            "text": "<h2>Wo kann ich das Qure Micro-Infusionssystem kaufen?</h2>",
             "column_content": 11,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
@@ -429,7 +429,7 @@
         "content_VdYxaH": {
           "type": "content",
           "settings": {
-            "text": "<p>You can purchase the Qure Micro-Infusion System directly from our official website. This ensures you get the authentic product with the quality and results you expect.<br/><br/>Avoid imitations and knockoffs by buying only from our site. We’ve designed our system to be effective and safe, and only our official website can guarantee you’re getting the real thing.<br/><br/><a href=\"https://www.qureskincare.de/pages/qure-microinfusion-offer\" title=\"https://www.qureskincare.de/pages/qure-microinfusion-offer\">Visit our website to order your Qure Micro-Infusion System today.</a></p>",
+            "text": "<p>Sie können das Qure Micro-Infusionssystem direkt auf unserer offiziellen Website bestellen. So erhalten Sie garantiert das Originalprodukt mit der Qualität und den Ergebnissen, die Sie erwarten.</p><p>Vermeiden Sie Imitate und Fälschungen, indem Sie nur auf unserer Website kaufen. Wir haben unser System so konzipiert, dass es wirksam und sicher ist, und nur unsere offizielle Website kann Ihnen garantieren, dass Sie das Original erhalten.</p><p><a href=\"https://www.qureskincare.de/pages/qure-microinfusion-offer\"><em><strong>Besuchen Sie unsere Website und bestellen Sie noch heute Ihr Qure Micro-Infusionssystem.</strong></em></a></p>",
             "column_content": 5,
             "classname": "it_info p-0 pt-md-3 pe-md-5 me-md-4"
           }
@@ -452,7 +452,7 @@
         "content_iTpBJa": {
           "type": "content",
           "settings": {
-            "text": "<h2>Is the Qure Micro-Infusion System Safe?</h2>",
+            "text": "<h2>Ist das Qure Micro-Infusionssystem sicher?</h2>",
             "column_content": 11,
             "classname": "it_info p-0 pt-3"
           }
@@ -460,7 +460,7 @@
         "content_mRakXV": {
           "type": "content",
           "settings": {
-            "text": "<p>Yes, the Qure Micro-Infusion System is very safe to use. It has been thoroughly tested and reviewed by leading dermatologists to ensure it meets the highest safety standards.<br/><br/>Our device uses gentle, 24k gold micro-needles and carefully formulated serums to provide effective results with minimal risk of irritation. You can confidently incorporate it into your skincare routine, knowing it’s designed with your skin’s health in mind.</p>",
+            "text": "<p>Ja, das Qure Micro-Infusionssystem ist sehr sicher in der Anwendung. Es wurde von führenden Dermatologen gründlich getestet und geprüft, um sicherzustellen, dass es den höchsten Sicherheitsstandards entspricht.<br/><br/>Unser Gerät verwendet sanfte 24-karätige Gold-Mikronadeln und sorgfältig formulierte Seren, um effektive Ergebnisse bei minimalem Risiko von Irritationen zu erzielen. Sie können es bedenkenlos in Ihre Hautpflege integrieren, da es speziell für die Gesundheit Ihrer Haut entwickelt wurde.</p>",
             "column_content": 10,
             "classname": "it_info p-0"
           }
@@ -482,7 +482,7 @@
         "content_pR4q9h": {
           "type": "content",
           "settings": {
-            "text": "<h2>What If I Am Not Happy With My Purchase?</h2>",
+            "text": "<h2>Was passiert, wenn ich mit meinem Kauf nicht zufrieden bin?</h2>",
             "column_content": 10,
             "classname": "it_info p-0 pt-3"
           }
@@ -490,7 +490,7 @@
         "content_3dFLJE": {
           "type": "content",
           "settings": {
-            "text": "<p>We want you to love your Qure Micro-Infusion System. That’s why we offer a 90-day money-back guarantee on all purchases.<br/><br/>You have 90 days from the date your order arrives to try the product and see the results for yourself. If you’re not completely satisfied, simply contact our customer support team at <a href=\"mailto:support@qureskincare.de\">support@qureskincare.de</a>, and we’ll issue you a full refund—no questions asked.<br/><br/>Your satisfaction is our priority, and we’re here to ensure you have a positive experience with Qure.</p>",
+            "text": "<p>Wir möchten, dass Sie Ihr Qure Micro-Infusionssystem lieben. Deshalb bieten wir Ihnen eine 90-tägige Geld-zurück-Garantie auf alle Einkäufe.</p><p><br/></p><p>Sie haben ab dem Datum des Eingangs Ihrer Bestellung 90 Tage Zeit, das Produkt zu testen und sich selbst von den Ergebnissen zu überzeugen. Wenn Sie nicht vollständig zufrieden sind, wenden Sie sich einfach an unseren Kundenservice unter <a href=\"mailto:support@qureskincare.de\">support@qureskincare.de</a>, und wir erstatten Ihnen den Kaufpreis ohne Fragen zurück.</p><p><br/></p><p>Ihre Zufriedenheit ist unsere oberste Priorität, und wir sind hier, um sicherzustellen, dass Sie mit Qure positive Erfahrungen machen.</p>",
             "column_content": 10,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
@@ -512,25 +512,25 @@
         "content_DFtEen": {
           "type": "content",
           "settings": {
-            "content-text": "Click the \"Check Availability\" button below to see if we’re in stock. (Due to high demand, we sell out quickly.)"
+            "content-text": "Klicken Sie unten auf die Schaltfläche „Verfügbarkeit prüfen“, um zu sehen, ob wir das Produkt auf Lager haben. (Aufgrund der hohen Nachfrage sind unsere Produkte schnell ausverkauft.)"
           }
         },
         "content_4VX8FD": {
           "type": "content",
           "settings": {
-            "content-text": "If we have stock, you’ll be directed to our secure checkout where you can choose the bundle that best fits your needs. We recommend the 3 month bundle for best results (and the best price!)"
+            "content-text": "Wenn wir das Produkt auf Lager haben, werden Sie zu unserem sicheren Checkout weitergeleitet, wo Sie das für Sie passende Bundle auswählen können. Für beste Ergebnisse (und den besten Preis!) empfehlen wir das 3-Monats-Bundle."
           }
         },
         "content_ctpPdn": {
           "type": "content",
           "settings": {
-            "content-text": "Enter your shipping and billing information on our secure checkout, and we'll pack your order and send it out to you the following day."
+            "content-text": "Geben Sie Ihre Versand- und Rechnungsdaten in unserem sicheren Checkout ein, und wir verpacken Ihre Bestellung und versenden sie am nächsten Tag."
           }
         },
         "content_4HH989": {
           "type": "content",
           "settings": {
-            "content-text": "Your Qure Micro-Infusion System will be delivered to your door, typically shipping from our local warehouse within 7 working days. It's that straightforward!"
+            "content-text": "Ihr Qure Micro-Infusionssystem wird Ihnen innerhalb von 7 Werktagen direkt nach Hause geliefert, in der Regel aus unserem regionalen Lager. So einfach ist es!"
           }
         },
         "content_6nLCwG": {
@@ -548,8 +548,8 @@
         "content_6nLCwG"
       ],
       "settings": {
-        "heading": "Try it Yourself And Enjoy Simple Skincare Created To Support Real Women Look And Feel Their Best.",
-        "text": "<p>If you're tired of dealing with fine lines, dark spots, and dull skin, the Qure Micro-Infusion System is here to help.<br/><br/>Getting started is simple:</p>",
+        "heading": "Probieren Sie es aus – einfache Hautpflege, die echte Frauen dabei unterstützt, sich rundum wohlzufühlen.",
+        "text": "<p>Wenn Sie genug von feinen Linien, dunklen Flecken und matter Haut haben, ist das Qure Micro-Infusionssystem genau das Richtige für Sie.<br/><br/>Der Einstieg ist ganz einfach:</p>",
         "hide_on": "d-md-none",
         "custom_class": "mw-932 text-md-left ms-0"
       }
@@ -560,7 +560,7 @@
         "content_hYppBq": {
           "type": "content",
           "settings": {
-            "text": "<p>With competitive prices, responsive support, and flexible payment plans, Qure is committed to your skincare success.</p>",
+            "text": "<p>Mit wettbewerbsfähigen Preisen, reaktionsschnellem Support und flexiblen Zahlungsplänen ist Qure Ihrem Erfolg in der Hautpflege verschrieben.</p>",
             "column_content": 9,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
@@ -581,7 +581,7 @@
         "content_BUfy8W": {
           "type": "content",
           "settings": {
-            "text": "<h2>Flexible Payment Plans</h2>",
+            "text": "<h2>Flexible Zahlungspläne</h2>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
@@ -589,7 +589,7 @@
         "content_ayVKnT": {
           "type": "content",
           "settings": {
-            "text": "<p>We offer easy payment plans through Sezzle, AfterPay, and Klarna. Spread your payments over four interest-free monthly installments and start your skincare transformation today without the upfront cost.<br/><br/>Trust Qure to support you on your journey to healthier, more radiant skin. Click \"Check Availability\" now, and let's start transforming your skin together!</p>",
+            "text": "<p>Wir bieten Ihnen bequeme Zahlungspläne über Sezzle, AfterPay und Klarna. Verteilen Sie Ihre Zahlungen auf vier zinsfreie Monatsraten und beginnen Sie noch heute mit Ihrer Hautpflege-Transformation, ohne Vorabkosten.<br/><br/>Vertrauen Sie Qure, Sie auf Ihrem Weg zu einer gesünderen, strahlenderen Haut zu unterstützen. Klicken Sie jetzt auf „Verfügbarkeit prüfen“ und lassen Sie uns gemeinsam Ihre Haut verwandeln!</p>",
             "column_content": 0,
             "classname": "it_info p-0 pt-0 pt-md-3"
           }
@@ -617,13 +617,13 @@
         "about_TWL7mC": {
           "type": "about",
           "settings": {
-            "abt_product": "<ul><li>Unlock Exclusive Savings on the Qure Micro-Infusion System!</li><li>For a limited time, <strong>enjoy up to 43% off</strong> when you choose our best bundle.</li><li>Click \"Check Availability\" below to see our current stock and secure your discount!</li></ul>"
+            "abt_product": "<ul><li>Sichern Sie sich exklusive Rabatte auf das Qure Micro-Infusionssystem!</li><li>Für eine begrenzte Zeit erhalten Sie <strong>bis zu 43 % Rabatt</strong>, wenn Sie sich für unser bestes Paket entscheiden.</li><li>Klicken Sie unten auf „Verfügbarkeit prüfen“, um unseren aktuellen Lagerbestand anzuzeigen und sich Ihren Rabatt zu sichern!</li></ul>"
           }
         },
         "button_RtaRVK": {
           "type": "button",
           "settings": {
-            "btn_text": "Check Availability Now",
+            "btn_text": "Jetzt Verfügbarkeit prüfen",
             "btn_url": "https://www.qureskincare.de/pages/qure-microinfusion-offer"
           }
         }
@@ -645,10 +645,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/results_glorija.webp",
-            "heading": "Best natural glow",
-            "text": "<p>“I was hesitant at first as I didn’t know how much it would hurt but to my surprise it was pretty painless. The 2nd day after the treatment, my skin has the best natural glow! I was also happy to to see how much my pigmentation had lightened after 3rd treatment :) I switch between the serums depending on how my skin is before the treatment.”</p>",
+            "heading": "Bester natürlicher Glow",
+            "text": "<p>„Am Anfang habe ich etwas gezögert, weil ich nicht wusste, wie sehr es wehtun würde, aber zu meiner Überraschung war es ziemlich schmerzfrei. Am zweiten Tag nach der Behandlung hatte meine Haut einen wahnsinnig schönen, natürlichen Glow! Außerdem hat sich meine Pigmentierung schon nach der dritten Behandlung aufgehellt :) Ich wechsle die Seren ab, je nachdem, wie der Zustand meiner Haut vor der Behandlung ist.“<br/><br/></p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/australia_f_35e9b6f0-d77f-4184-afaf-224d96562185.webp",
-            "text_country": "Australia",
+            "text_country": "Australien",
             "client": "Glorija",
             "code": ""
           }
@@ -657,10 +658,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/ellie_412942fe-4036-4c4e-a52b-10020082a2c1.png",
-            "heading": "My skin returned to life!",
-            "text": "<p>“I just turned 57 years. My skin was extremely dry and while using this product my skin RETURNED to LIFE! I am so impressed with it! My Coworkers ask me what I use in my skin.. and I tell them. Product easy to use and the needles are better that using a pen for microneedling. This is an amazing product that you will not regret in purchasing it. I really see the change in my skin. Outstanding job QURE!”</p>",
+            "heading": "Meine Haut sieht wieder lebendig aus!",
+            "text": "<p>„Ich bin gerade 57 Jahre alt geworden. Meine Haut war extrem trocken und durch die Verwendung dieses Produkts ist meine Haut wieder zum Leben erwacht. Ich bin wahnsinnig beeindruckt! Meine Kollegen fragen mich, was ich für meine Haut verwende ... und ich sage es ihnen. Das Gerät ist einfach zu verwenden und die Nadeln sind besser als die Verwendung eines Microneedling-Stift. Sie werden den Kauf nicht bereuen. Ich sehe wirklich die Veränderung in meiner Haut. Hervorragende Arbeit, QURE!“<br/><br/></p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/america_f.webp",
-            "text_country": "United States",
+            "text_country": "Vereinigte Staaten",
             "client": "Ellie V.",
             "code": ""
           }
@@ -669,10 +671,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/results_mona.webp",
-            "heading": "Fade after just two treatments",
-            "text": "<p>“I personally think my products absorbed better, my skin looks a bit brighter and that larger acne scar on my right cheek has started to fade after just TWO treatments!”</p>",
+            "heading": "Verblasst bereits nach zwei Behandlungen",
+            "text": "<p>„Ich persönlich finde, dass meine Produkte besser einziehen, meine Haut etwas strahlender aussieht und die große Aknenarbe auf meiner rechten Wange nach nur ZWEI Behandlungen bereits verblasst ist!“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/usa_189ccd4e-add5-48f9-8078-c50c3e29332f.png",
-            "text_country": "United States",
+            "text_country": "Vereinigte Staaten",
             "client": "Mona P.",
             "code": ""
           }
@@ -681,10 +684,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/ela_o.png",
-            "heading": "Shocked at the results",
-            "text": "<p>“Shocked at the results after just one treatment!<br/>I’m not one to usually leave reviews... but I was shocked at how my skin looked the morning after<br/><br/>my first treatment!<br/>Texture was soooo much smoother, my skin looked clear, glowy and healthy. The system was so easy to use and I can’t wait until my next treatment.”</p>",
+            "heading": "Schockiert von den Ergebnissen",
+            "text": "<p>„Normalerweise schreibe ich keine Bewertungen, aber ich war schockiert, wie gut meine Haut am Morgen nach meiner ersten Behandlung aussah!</p><p>Die Textur war soooo viel glatter, meine Haut sah klar, strahlend und gesund aus. Das System war so einfach zu bedienen und ich kann meine nächste Behandlung kaum erwarten.“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/america_f.webp",
-            "text_country": "United States",
+            "text_country": "Vereinigte Staaten",
             "client": "Ela O.",
             "code": ""
           }
@@ -693,10 +697,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/ann.png",
-            "heading": "I LOVE the results",
-            "text": "<p>“I heard about micro-infusion in clinics but couldn’t afford to fork out hundreds of dollars for a treatment. So when I saw this online I jumped at buying it instantly. Yes, it doesn’t stamp in botox and filler BUT personally I LOVE the results and how easy it is to use myself at home. <br/>It works great for my skin, I have noticed my skin texture is much smoother and brighter.”</p>",
+            "heading": "Ich liebe dieses Produkt",
+            "text": "<p>„Ich habe in Kliniken von Micro-Infusionen gehört, konnte mir aber keine Behandlung für mehrere hundert Dollar leisten. Als ich dieses Gerät online gesehen habe, habe ich sofort zugeschlagen. Ja, es enthält kein Botox und keine Füllstoffe, ABER ich persönlich LIEBE die Ergebnisse und finde es toll, dass ich es ganz einfach zu Hause anwenden kann.<br/>Es wirkt hervorragend auf meine Haut, die viel glatter und strahlender geworden ist.“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/australia_f.webp",
-            "text_country": "Australia",
+            "text_country": "Australien",
             "client": "Ann",
             "code": ""
           }
@@ -705,10 +710,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/chelsea.png",
-            "heading": "Amazing results!",
-            "text": "<p>\"Amazing results. I am just in shock at how great my skin is looking. This stuff has been amazing for hyperpigmentation and also some hormonal cystic acne. I will be continuing to support this business because it has brought the skin I know back. I was at my wits end with a hormonal breakout and bad hyperpigmentation.\"</p>",
+            "heading": "Erstaunliche Ergebnisse!",
+            "text": "<p>„Erstaunliche Ergebnisse. Ich bin einfach nur schockiert, wie toll meine Haut aussieht. Dieses Produkt wirkt hervorragend gegen Hyperpigmentierung und auch gegen hormonell bedingte zystische Akne. Ich werde dieses Unternehmen weiterhin unterstützen, weil es mir meine Haut zurückgegeben hat. Ich war mit hormonell bedingten Hautunreinheiten und starker Hyperpigmentierung völlig am Ende.“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/america_f.webp",
-            "text_country": "United States",
+            "text_country": "Vereinigte Staaten",
             "client": "Chelsea J.",
             "code": ""
           }
@@ -717,8 +723,9 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/jess.png",
-            "heading": "IT REALLY WORKS!!",
-            "text": "<p>“I committed to the 3 month saver bundle and after 6 treatments (2 weeks apart) I’m SO happy with the results!!! My pores are smaller and I have mainly noticed a difference in my skin texture. My skin goes a little red straight after the treatment but that quickly goes away. It’s a little uncomfortable when I do it on my forehead but it’s fine everywhere else. Totally worth it!!!”</p>",
+            "heading": "ES FUNKTIONIERT WIRKLICH!!",
+            "text": "<p>„Ich habe mich für das 3-Monats-Sparpaket entschieden und nach 6 Behandlungen (im Abstand von jeweils 2 Wochen) bin ich SO zufrieden mit den Ergebnissen!!! Meine Poren sind kleiner und ich habe vor allem einen Unterschied in meiner Hautstruktur festgestellt. Direkt nach der Behandlung ist meine Haut etwas gerötet, aber das verschwindet schnell wieder. Auf der Stirn ist es etwas unangenehm, aber sonst ist es überall in Ordnung. Es lohnt sich auf jeden Fall!!!“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/usa_189ccd4e-add5-48f9-8078-c50c3e29332f.png",
             "text_country": "United States",
             "client": "Jess",
@@ -729,10 +736,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/results_akina.webp",
-            "heading": "I love this product",
-            "text": "<p>“I used three time so far. I can see the results from first time I used. I love this product but only thing is it’s take time to apply till used all serum per application. I tried many different way to press to my skin so the serum come out more but then a lot of time not.”</p>",
+            "heading": "Ich liebe dieses Produkt",
+            "text": "<p>„Ich habe es bisher dreimal verwendet und seit der ersten Verwendung sehe ich Ergebnisse. Ich liebe dieses Produkt, aber es dauert eine Weile, bis man es schafft, das gesamte Serum pro Anwendung aufzutragen. Ich habe verschiedene Methoden ausprobiert, um es auf meine Haut zu drücken, damit mehr Serum herauskommt, aber das hat nicht immer funktioniert.“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/usa_189ccd4e-add5-48f9-8078-c50c3e29332f.png",
-            "text_country": "United States",
+            "text_country": "Vereinigte Staaten",
             "client": "Akina M.",
             "code": ""
           }
@@ -741,10 +749,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/andrea.png",
-            "heading": "Absolutely love it!",
-            "text": "<p>“I have used many topicals to help with post acne marks. This micro-infusion system has given me the most consistent results. Absolutely love it!”</p>",
+            "heading": "Ich liebe es total!",
+            "text": "<p>„Ich habe viele topische Mittel gegen Aknenarben ausprobiert. Dieses Micro-Infusionssystem hat mir die besten Ergebnisse gebracht. Ich bin absolut begeistert!“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/usa_189ccd4e-add5-48f9-8078-c50c3e29332f.png",
-            "text_country": "United States",
+            "text_country": "Vereinigte Staaten",
             "client": "Andrea A.",
             "code": ""
           }
@@ -753,8 +762,9 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/priya.png",
-            "heading": "Plumper, more hydrated!",
-            "text": "<p>“After the first use of EGF, my skin was plumper, more hydrated and skin tone improved radically, literally the next day. Love this product, will definitely be purchasing more as its really helped smooth out the fine lines also”</p>",
+            "heading": "Voller, hydratisierter!",
+            "text": "<p>„Nach der ersten Anwendung war meine Haut praller, besser mit Feuchtigkeit versorgt und der Hautton hat sich buchstäblich über Nacht radikal verbessert. Ich liebe dieses Produkt und werde es auf jeden Fall wieder kaufen, da es auch wirklich geholfen hat, die feinen Linien zu glätten.“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/uk.png",
             "text_country": "United Kingdom",
             "client": "Priya P.",
@@ -765,10 +775,11 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/results_andrea-g.webp",
-            "heading": "Definitely be re-ordering",
-            "text": "<p>“Still a newbie but so far so great! I have dermarolled for more than a decade -still do with .25 at least one a week. I’ve avoided getting a pen because there’s so much involved- but the Qure system is just awesome. So easy and user friendly and my skin loves the serum! Doing my third treatment Saturday and will definitely be re-ordering 🤗</p>",
+            "heading": "Werde auf jeden Fall nachbestellen",
+            "text": "<p>„Ich bin noch neu dabei, aber bisher läuft es super! Ich benutze seit mehr als einem Jahrzehnt Dermaroller bei einer Einstellung von 0,25, mindestens einmal pro Woche. Ich hatte mir bisher keinen Pen zugelegt, weil damit so viel Aufwand einhergeht – aber das Qure-System ist einfach genial. So einfach und benutzerfreundlich und meine Haut liebt das Serum! Ich mache am Samstag meine dritte Behandlung und werde definitiv nachbestellen 🤗 “</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/usa_189ccd4e-add5-48f9-8078-c50c3e29332f.png",
-            "text_country": "United States",
+            "text_country": "Vereinigte Staaten",
             "client": "Andrea G.",
             "code": ""
           }
@@ -777,8 +788,9 @@
           "type": "result",
           "settings": {
             "image": "shopify://shop_images/ramandeep.png",
-            "heading": "I definitely see a difference",
-            "text": "<p>“I have done 2 treatments - 1 for rejuvenating and 2 for hydration with 3 week gap in between treatments. I definitely see a difference in before and after pictures. I am sure I need 4-8 more treatments but this did make a difference.”</p>",
+            "heading": "Ich sehe definitiv einen Unterschied",
+            "text": "<p>„Ich habe zwei Behandlungen gemacht – eine zur Verjüngung und zwei zur Feuchtigkeitsversorgung mit drei Wochen Pause dazwischen. Ich sehe definitiv einen Unterschied zwischen den Vorher- und Nachher-Bildern. Ich bin mir sicher, dass ich noch vier bis acht Behandlungen brauche, aber diese haben schon einen Unterschied gemacht.“</p>",
+            "see-more": "",
             "image_country": "shopify://shop_images/usa_189ccd4e-add5-48f9-8078-c50c3e29332f.png",
             "text_country": "Michigan",
             "client": "Ramandeep",
@@ -788,7 +800,7 @@
         "button_9jXnrk": {
           "type": "button",
           "settings": {
-            "button_label": "Check Availability And Apply Discount Now",
+            "button_label": "Jetzt Verfügbarkeit prüfen und Rabatt sichern",
             "button_url": "https://www.qureskincare.de/pages/qure-microinfusion-offer",
             "custom_class": "mw-452"
           }
@@ -815,16 +827,17 @@
       ],
       "settings": {
         "classname": "mi_landing_result",
-        "heading": "Results you‘ll see with your own eyes",
-        "heading_reduced": "Real Women. Real Results",
-        "text_verified_customer": "Verified customer",
-        "text_reviewed": "Reviewed in"
+        "heading": "Sichtbare Ergebnisse",
+        "heading_reduced": "Echte Frauen. Echte Ergebnisse.",
+        "text_verified_customer": "Verifizierter Kunde",
+        "text_reviewed": "Bewertet in"
       }
     },
     "liquid_cwyUB3": {
       "type": "liquid",
       "settings": {
-        "code": "<div class=\"offering_period_bl mw-855 mb-5\">\n            <div class=\"container\">\n                <div class=\"offering_period bg-grey\">\n                    <p><strong>As of 07/30/24:</strong></p>\n                    <p>\n                        To celebrate more women saying no to the hype and yes to simple skincare that works, we're\n                        offering a\n                        limited-time discount of up to 43% for this month only.</p>\n                </div>\n            </div>\n        </div>"
+        "code": "<div class=\"offering_period_bl mw-855 mb-5\">\n            <div class=\"container\">\n                <div class=\"offering_period bg-grey\">\n                    <p><strong>Zum 30.07.24:</strong></p>\n                    <p>\n                        Um mehr Frauen zu feiern, die Nein zum Hype und Ja zu einfacher Hautpflege sagen, die wirkt, bieten wir\nnur in diesem Monat einen\nzeitlich begrenzten Rabatt von bis zu 43 % an.</p>\n                </div>\n            </div>\n        </div>",
+        "popup_micro_infusion_enabled": true
       }
     }
   },
