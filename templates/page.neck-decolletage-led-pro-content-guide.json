@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "header_landing_pFmaRH": {
       "type": "header-landing-simple",
@@ -15,7 +15,7 @@
         "navigation_link_qLHgyD": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "CONTENT REQUIREMENTS",
+            "link_label": "Content ANFORDERUNGEN",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs1.webp"
           }
@@ -23,7 +23,7 @@
         "navigation_link_DgYaFx": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "PRODUCT",
+            "link_label": "PRODUKT",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs2.webp"
           }
@@ -31,7 +31,7 @@
         "navigation_link_3X4mrf": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "INSPIRING CONTENT",
+            "link_label": "INSPIRIERENDE INHALTE",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs3.webp"
           }
@@ -42,8 +42,7 @@
         "navigation_link_DgYaFx",
         "navigation_link_3X4mrf"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "section1": {
       "type": "guide-header",
@@ -60,8 +59,8 @@
         "button_LUpm3B"
       ],
       "settings": {
-        "heading": "Neck & Décolletage LED Creative Content Guide",
-        "text": "<p>Hey skincare enthusiasts!</p><p>Ready to take your content to the next level?</p><p>Unlock the full potential of the Neck & Décolletage LED Device with our creative content guide. This brief will help you craft engaging content that showcases how our innovative tool transforms skincare routines for radiant, glowing skin.</p>",
+        "heading": "LED Creative Content Guide für Hals & Dekolleté",
+        "text": "<p>Hey Skincare-Fans!<br/><br/>Bereit, euer Content-Game aufs nächste Level zu heben?</p><p>Mit unserem Creative Content Guide holt ihr das volle Potenzial aus dem LED-Gerät für Hals & Dekolleté. Dieses Briefing hilft euch dabei, ansprechende Inhalte zu erstellen, die zeigen, wie unser innovatives Tool Pflegeroutinen verändert – für strahlende, gesund aussehende Haut.</p>",
         "wistia_id": "f9a8svw294"
       }
     },
@@ -100,41 +99,51 @@
         "collapsed_aNzhwA": {
           "type": "collapsed",
           "settings": {
+            "show": true,
+            "style": "default",
             "heading": "Advanced Technology",
             "content": "<ul><li>A combination of Red and Near Infra-Red wavelengths reaches deep within the skin to stimulate collagen and elastin production. Specifically designed to repair and rejuvenate neck and decolletage skin where the first signs of aging show.</li></ul>",
-            "show": true
+            "code": ""
           }
         },
         "collapsed_aNzhwB": {
           "type": "collapsed",
           "settings": {
+            "show": false,
+            "style": "default",
             "heading": "Time-Saving",
             "content": "<ul><li>Reclaim time from your busy schedule as this device requires only 10 minutes of your day. Achieve glowing skin without lengthy treatments or going to the clinic.</li></ul>",
-            "show": false
+            "code": ""
           }
         },
         "collapsed_aNzhwC": {
           "type": "collapsed",
           "settings": {
+            "show": false,
+            "style": "default",
             "heading": "Clinical results from home - minus the “clinical” costs",
             "content": "<ul><li>Get smoother, firmer, brighter-looking neck and décolletage skin with consistent treatment. One-time cost investment of the Neck & Décolletage LED Device means unlimited treatments, with no ongoing payments or hassle of attending in-clinic appointments.</li></ul>",
-            "show": false
+            "code": ""
           }
         },
         "collapsed_aNzhwD": {
           "type": "collapsed",
           "settings": {
+            "show": false,
+            "style": "default",
             "heading": "Benefits",
             "content": "<ul><li>Neck & Décolletage LED Device repairs sun-damaged skin, and reduces the appearance of redness, pigmentation, age spots, and fine lines and wrinkles. It evens skin tone and boosts firmness for radiant younger-looking skin</li></ul>",
-            "show": false
+            "code": ""
           }
         },
         "collapsed_8awDR6": {
           "type": "collapsed",
           "settings": {
+            "show": false,
+            "style": "default",
             "heading": "Portability",
             "content": "<ul><li>Our fully portable mask allows you to multitask, whether you're working or unwinding, so you never have to compromise on self-care.</li></ul>",
-            "show": false
+            "code": ""
           }
         },
         "description_tVQDHe": {
@@ -189,25 +198,31 @@
         "collapsed_N6miTX": {
           "type": "collapsed",
           "settings": {
+            "show": true,
+            "style": "default",
             "heading": "Prepare & set",
             "content": "<ul><li>Cleanse and dry your skin to prepare it for ultimate LED light absorption.</li><li>Secure the device around your neck using the adjustable velcro straps.</li></ul>",
-            "show": true
+            "code": ""
           }
         },
         "collapsed_xhxiYz": {
           "type": "collapsed",
           "settings": {
+            "show": false,
+            "style": "default",
             "heading": "Quick Start",
             "content": "<ul><li>Press & hold to start your 10-minute treatment.</li></ul>",
-            "show": false
+            "code": ""
           }
         },
         "collapsed_EJJWTr": {
           "type": "collapsed",
           "settings": {
+            "show": false,
+            "style": "default",
             "heading": "Aftercare",
             "content": "<ul><li>The device will automatically shut off after 10 minutes. Remove the device and gently wipe it down. Follow up with your usual skincare routine. That’s it!</li></ul>",
-            "show": false
+            "code": ""
           }
         },
         "description_GE3PNL": {
