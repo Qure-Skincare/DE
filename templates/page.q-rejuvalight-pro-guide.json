@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "header_landing_pFmaRH": {
       "type": "header-landing-simple",
@@ -15,7 +15,7 @@
         "navigation_link_qLHgyD": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "CONTENT REQUIREMENTS",
+            "link_label": "Content ANFORDERUNGEN",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs1.webp"
           }
@@ -23,7 +23,7 @@
         "navigation_link_DgYaFx": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "PRODUCT",
+            "link_label": "PRODUKT",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs2.webp"
           }
@@ -31,7 +31,7 @@
         "navigation_link_3X4mrf": {
           "type": "navigation-link",
           "settings": {
-            "link_label": "INSPIRING CONTENT",
+            "link_label": "INSPIRIERENDE INHALTE",
             "link_url": "#tabsAccordion",
             "image": "shopify://shop_images/header_cs3.webp"
           }
@@ -42,8 +42,7 @@
         "navigation_link_DgYaFx",
         "navigation_link_3X4mrf"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "section1": {
       "type": "guide-header",
@@ -51,7 +50,7 @@
         "button_LUpm3B": {
           "type": "button",
           "settings": {
-            "button_label": "Learn more about the Q-Rejuvalight Pro",
+            "button_label": "Mehr über die Q-Rejuvalight Pro erfahren",
             "button_url": "https://www.qureskincare.de/products/q-rejuvalight-pro-facewear"
           }
         }
@@ -61,17 +60,17 @@
       ],
       "settings": {
         "heading": "Q-Rejuvalight Pro Creative Content Guide",
-        "text": "<p>Hey skincare enthusiasts!</p><p>Ready to take your content to the next level?</p><p>Our creative guide will help you showcase the magic of the Q-Rejuvalight Pro</p><p>Facewear. Let's create stunning, engaging content that highlights how this game-changing tool transforms skincare routines and your confidence.</p>",
+        "text": "<p>Hey Skincare-Fans!<br/><br/>Bereit, euer Content-Game aufs nächste Level zu heben?</p><p>Unser Kreativleitfaden hilft Ihnen dabei, die Magie der Q-Rejuvalight Pro Gesichtsmaske zu präsentieren. Lassen Sie uns gemeinsam beeindruckende, ansprechende Inhalte erstellen, die zeigen, wie dieses bahnbrechende Gerät Ihre Hautpflege und Ihr Selbstbewusstsein revolutioniert.</p>",
         "wistia_id": "p19i5hn8jl"
       }
     },
     "qure_founder_LkfQUT": {
       "type": "qure-founder",
       "settings": {
-        "heading": "“This is my absolute favorite mask. It’s quick, effective and patients see great results with consistent use.”",
-        "sub_heading": "<p><strong>- Dr. Muneeb Shah, MD</strong>, Board certified dermatologist</p>",
+        "heading": "„Das ist meine absolute Lieblingsmaske. Sie wirkt schnell und effektiv, und bei regelmäßiger Anwendung erzielen die Patienten großartige Ergebnisse.“",
+        "sub_heading": "<p><strong>- Dr. Muneeb Shah, MD</strong>, Facharzt für Dermatologie</p>",
         "image": "shopify://shop_images/dr.shah_new.webp",
-        "trust_des": "Trusted and recommended by world leading Dermatologists",
+        "trust_des": "Von weltweit führenden Dermatologen empfohlen",
         "trusted_image_mob": "shopify://shop_images/Dr_Muneeb.webp"
       }
     },
@@ -81,19 +80,19 @@
         "header_RA46tw": {
           "type": "header",
           "settings": {
-            "heading": "STEP 1",
-            "text": "Merge Qure into your creatives",
+            "heading": "SCHRITT 1",
+            "text": "Qure in Ihre Creatives integrieren",
             "image": "shopify://shop_images/ac_pro1.webp",
-            "button_label": "Content Requirements"
+            "button_label": "Content Anforderungen"
           }
         },
         "description_mHnPFA": {
           "type": "description",
           "settings": {
             "classname": "faq",
-            "heading": "Key Messages",
+            "heading": "Schlüsselbotschaften",
             "image": "shopify://shop_images/key_message.svg",
-            "content": "<p>Key Points to include in the messaging:</p>",
+            "content": "<p>Schlüsselpunkte für Ihre Kommunikation</p>",
             "wistia_id": ""
           }
         },
@@ -102,8 +101,8 @@
           "settings": {
             "show": true,
             "style": "default",
-            "heading": "Backed by clinical research - proven to work!",
-            "content": "<p>This FDA-cleared at-home LED mask combines 5 clinically proven wavelengths to actively treat the entire face and penetrate at a cellular level, deeper than any topical skincare, to treat a multitude of skin concerns.</p>",
+            "heading": "Durch klinische Studien belegt – wirkt nachweislich!",
+            "content": "<p>Diese von der FDA zugelassene LED-Maske für zu Hause kombiniert 5 klinisch erprobte Wellenlängen, um das gesamte Gesicht aktiv zu behandeln und tiefer als jede topische Hautpflege auf zellulärer Ebene einzudringen, um eine Vielzahl von Hautproblemen zu behandeln.</p>",
             "code": ""
           }
         },
@@ -112,8 +111,8 @@
           "settings": {
             "show": false,
             "style": "default",
-            "heading": "Clinical results from home - minus the ‘clinical’ costs",
-            "content": "<p>The Q-Rejuvalight Pro uses the same technology clinics use, but is an affordable option and conveniently accessible from home. Daily 3-minute treatments give you corrective results  for a fraction of the usual in-clinic cost. One-time cost investment of the Q-Rejuvalight Pro means unlimited treatments, with no ongoing payments. No appointments, no waiting, and no hassle.</p>",
+            "heading": "Klinische Ergebnisse von zu Hause aus – ohne die „klinischen“ Kosten",
+            "content": "<p>Die Q-Rejuvalight Pro verwendet dieselbe Technologie wie Kliniken, ist jedoch eine erschwingliche Option und bequem von zu Hause aus zugänglich. Tägliche 3-minütige Behandlungen liefern korrigierende Ergebnisse  zu einem Bruchteil der üblichen Kosten in einer Klinik. Die einmalige Investition in die Q-Rejuvalight Pro bedeutet unbegrenzte Behandlungen ohne laufende Kosten. Keine Termine, keine Wartezeiten und kein Aufwand.</p>",
             "code": ""
           }
         },
@@ -122,8 +121,8 @@
           "settings": {
             "show": false,
             "style": "default",
-            "heading": "Personalized treatments - world’s 1st customizable LED mask",
-            "content": "<p>Choose a treatment on 5 different facial areas to suit your skin’s unique needs and target specific concerns on different facial areas. Help prevent breakouts on your chin while smoothing the appearance of \"crow’s feet\" at the same time.</p>",
+            "heading": "Personalisierte Behandlungen – die weltweit erste individuell anpassbare LED-Maske",
+            "content": "<p>Wählen Sie eine Behandlung für 5 verschiedene Gesichtsbereiche, die auf die individuellen Bedürfnisse Ihrer Haut abgestimmt ist, und gehen Sie gezielt auf Ihre Problemzonen ein. Beugen Sie Hautunreinheiten am Kinn vor und glätten Sie gleichzeitig „Krähenfüße“.</p>",
             "code": ""
           }
         },
@@ -132,8 +131,8 @@
           "settings": {
             "show": false,
             "style": "default",
-            "heading": "App operated",
-            "content": "<p>Schedule and track treatments, and get motivated with treatment challenge courses for maximum results. Get reminders sent to your phone so you never miss a treatment.</p>",
+            "heading": "App-gesteuert",
+            "content": "<p>Planen und verfolgen Sie Anwendungen und motivieren Sie sich mit Behandlungsprogrammen für maximale Ergebnisse. Lassen Sie sich Erinnerungen auf Ihr Smartphone senden, damit Sie keine Behandlung verpassen.</p>",
             "code": ""
           }
         },
@@ -142,8 +141,8 @@
           "settings": {
             "show": false,
             "style": "default",
-            "heading": "Personal Experience & Benefits",
-            "content": "<p>Share personal experience! Discuss your results, and how you fit it into your daily skincare routine. Talk about the benefits of LED light therapy for skin health and why one should incorporate it into their skincare routine.</p>",
+            "heading": "Persönliche Erfahrungen & Vorteile",
+            "content": "<p>Teilen Sie Ihre persönlichen Erfahrungen! Besprechen Sie Ihre Ergebnisse und wie Sie die Behandlung in Ihre tägliche Hautpflege integrieren. Sprechen Sie über die Vorteile der LED-Lichttherapie für die Hautgesundheit und warum man sie in die Hautpflege integrieren sollte.</p>",
             "code": ""
           }
         },
@@ -151,9 +150,9 @@
           "type": "description",
           "settings": {
             "classname": "",
-            "heading": "Creative Direction",
+            "heading": "Creatives-Anleitung",
             "image": "shopify://shop_images/direction.svg",
-            "content": "<ul><li>High quality, bright lighting and high resolution imagery/videography to be supplied. No obvious filters.</li><li>Q-Rejuvalight Pro Facewear is the feature of the content. The background must be clean and bright.</li><li>When wearing the product, please do not wear any make-up, or no visible/noticeable makeup.</li><li>In cover photos for video content always show yourself using the Q-Rejuvalight Pro Facewear, unless otherwise agreed on with the brand.</li></ul>",
+            "content": "<ul><li>Es sind hochwertige, helle Beleuchtung und hochauflösende Bilder/Videos zu liefern. Keine offensichtlichen Filter.</li><li>Q-Rejuvalight Pro Facewear ist das Hauptmerkmal des Inhalts. Der Hintergrund muss sauber und hell sein.</li><li>Wenn Sie das Produkt tragen, tragen Sie bitte kein Make-up oder kein sichtbares/auffälliges Make-up.</li><li>Zeigen Sie sich auf den Titelbildern für Videoinhalte immer mit der Q-Rejuvalight Pro Gesichtsmaske, sofern nicht anders mit der Marke vereinbart.</li></ul>",
             "wistia_id": ""
           }
         },
@@ -170,10 +169,10 @@
         "header_LhpN6x": {
           "type": "header",
           "settings": {
-            "heading": "STEP 2",
-            "text": "Get to know your Q-Rejuvalight Pro",
+            "heading": "SCHRITT 2",
+            "text": "Lernen Sie die Q-Rejuvalight Pro kennen",
             "image": "shopify://shop_images/ac_pro2.webp",
-            "button_label": "Product Information"
+            "button_label": "Produkt Informationen"
           }
         },
         "description_6WtF8b": {
@@ -192,8 +191,8 @@
           "settings": {
             "show": false,
             "style": "grey",
-            "heading": "Technical specifications",
-            "content": "<ul><li><strong>TREATMENT TIME:</strong> 3 minutes</li><li><strong>CERTIFICATIONS:</strong> FDA, TGA, CE, UKCA</li><li><strong>OPERATION:</strong> Wireless, hands-free</li><li><strong>WAVELENGTH:</strong> 415nm (Blue), 605nm (Amber), 630nm (Red), 660nm (Deep Red), 880nm (Infrared)</li><li><strong>CHARGING TIME:</strong> 2 hours</li><li><strong>LEDs:</strong> 160 dual core</li></ul>",
+            "heading": "Technische Daten",
+            "content": "<ul><li><strong>BEHANDLUNGSDAUER:</strong> 3 Minuten</li><li><strong>ZULASSUNGEN:</strong> FDA, TGA, CE, UKCA</li><li><strong>BEDIENUNG:</strong> Kabellos, freihändig</li><li><strong>WELLENLÄNGE:</strong> 415 nm (blau), 605 nm (bernsteinfarben), 630 nm (rot), 660 nm (tiefrot), 880 nm (Infrarot)</li><li><strong>LADEZEIT:</strong> 2 Stunden</li><li><strong>LEDs:</strong> 160 Dual-Core</li></ul>",
             "code": ""
           }
         },
@@ -202,24 +201,24 @@
           "settings": {
             "show": false,
             "style": "grey",
-            "heading": "Treatment details",
-            "content": "<ul><li><strong>USE:</strong> Use daily after cleansing, before topical skincare</li><li><strong>ANTI-AGING TREATMENT:</strong> 415nm (Blue), 605nm (Amber), 630nm (Red), 660nm (Deep Red), 880nm (Infrared)</li><li><strong>ANTI-BREAKOUT TREATMENT:</strong> 415nm (Blue), 630nm (Red)</li><li><strong>CUSTOMIZED TREATMENT: </strong>Choose treatment modes for each facial area</li><li><strong>SKIN TYPE: </strong>Most suitable for Fitzpatrick Skin Types I-IV</li></ul>",
+            "heading": "Behandlungsdetails",
+            "content": "<ul><li><strong>ANWENDUNG:</strong> Täglich nach der Reinigung und vor der Hautpflege auftragen.</li><li><strong>ANTI-AGING-BEHANDLUNG:</strong> 415 nm (blau), 605 nm (bernsteinfarben), 630 nm (rot), 660 nm (tiefrot), 880 nm (Infrarot)</li><li><strong>ANTI-AKNE-BEHANDLUNG: </strong>415 nm (blau), 630 nm (rot)</li><li><strong>INDIVIDUELLE BEHANDLUNG: </strong>Wählen Sie die Behandlungsmodi für jeden Gesichtsbereich</li><li><strong>HAUTTYP: </strong>Am besten geeignet für die Hauttypen I-IV nach Fitzpatrick</li></ul>",
             "code": ""
           }
         },
         "content_a4X9pc": {
           "type": "content",
           "settings": {
-            "text": "<ul><li><strong>Easy to use and travel-friendly -</strong><br/>Rechargeable and hands-free operation.</li><li><strong>Fits a busy lifestyle.</strong> Delivers quick 3 minute, fully personalized LED treatment.</li><li>Comes with a universal USB charger cord, luxury storage pouch, and light-blocking protective eyewear.</li><li><strong>Compatible Qure Skincare app</strong><br/>to track, schedule, plan, and customize treatments.</li><li>LED Lights are near the skin which maximizes penetration, and results.</li><li><strong>Innovative, premium design</strong> with high-quality materials used</li><li><strong>Excellent value for money -</strong> Performing unlimited treatments at home and not needing to pay for in-clinic LED treatments.</li><li><strong>Universal shape</strong> to fit various facial shapes and treat the entire face.</li><li>Combination of market-leading wavelengths and customization - Customize treatments to treat specific concerns and adapt to changing skin conditions with 1 device.</li></ul><p><a href=\"https://www.qureskincare.de/products/q-rejuvalight-pro-facewear\" title=\"Learn more about the Q-Rejuvalight Pro\">Learn more about the Q-Rejuvalight Pro &gt;</a></p>"
+            "text": "<ul><li><strong>Einfach zu bedienen und reisefreundlich –</strong></li><li>Wiederaufladbar und freihändig zu bedienen.</li><li><strong>Passt zu einem aktiven Lebensstil.</strong> Bietet eine schnelle, vollständig personalisierte 3-minütige LED-Behandlung.</li><li>Mit universellem USB-Ladekabel, luxuriöser Aufbewahrungstasche und lichtundurchlässiger Schutzbrille.</li><li><strong>Kompatibel mit der Qure Skincare App</strong></li><li>Zum Verfolgen, Planen und Anpassen von Behandlungen.</li><li>Die LED-Lichter befinden sich nahe an der Haut, was die Durchdringung und die Ergebnisse maximiert.<br/></li><li><strong>Innovatives, hochwertiges Design</strong> mit hochwertigen Materialien</li><li><strong>Hervorragendes Preis-Leistungs-Verhältnis –</strong> Unbegrenzte Behandlungen zu Hause, ohne dass Sie für LED-Behandlungen in der Klinik bezahlen müssen.</li><li><strong>Universelle Form</strong>, die sich an verschiedene Gesichtsformen anpasst und das gesamte Gesicht behandelt.</li><li>Kombination aus marktführenden Wellenlängen und individueller Anpassung – Passen Sie die Behandlungen an bestimmte Probleme an und passen Sie sie mit einem Gerät an wechselnde Hautbedingungen an.</li></ul><p><a href=\"https://www.qureskincare.de/products/q-rejuvalight-pro-facewear\">Erfahren Sie mehr über das Q-Rejuvalight Pro &gt;</a></p>"
           }
         },
         "description_BNpxL3": {
           "type": "description",
           "settings": {
             "classname": "",
-            "heading": "Usage Instructions",
+            "heading": "Gebrauchsanweisung",
             "image": "shopify://shop_images/usage_dir.svg",
-            "content": "<ul><li>Use Q-Rejuvalight Pro Facewear daily for the best results. Make sure to be consistent, it takes you only 3 minutes per treatment.</li><li>Make sure to scan the QR-code on the packaging before use or see detailed guide <a href=\"https://www.qureskincare.de/pages/q-rejuvalight-pro-led-mask-guide\">here.</a></li><li>Before using the Q-Rejualight Pro please watch the video below. It will show you how to <strong>correctly attach the strap</strong> and <strong>insert the goggles.</strong></li></ul>",
+            "content": "<ul><li>Verwenden Sie Q-Rejuvalight Pro Facewear täglich, um optimale Ergebnisse zu erzielen. Achten Sie auf regelmäßige Anwendung, jede Behandlung dauert nur 3 Minuten.</li><li>Scannen Sie vor der Verwendung den QR-Code auf der Verpackung oder lesen Sie die detaillierte Anleitung <a href=\"https://www.qureskincare.de/pages/q-rejuvalight-pro-led-mask-guide\">hier.</a></li><li>Sehen Sie sich vor der Verwendung des Q-Rejualight Pro bitte das folgende Video an. Darin wird gezeigt, wie Sie <strong>den Riemen richtig befestigen</strong> und <strong>die Schutzbrille einsetzen.</strong></li></ul>",
             "wistia_id": "jlz3itwzrb"
           }
         },
@@ -227,7 +226,7 @@
           "type": "description",
           "settings": {
             "classname": "faq",
-            "heading": "Product Claims",
+            "heading": "Produktangaben",
             "image": "shopify://shop_images/product_claims.svg",
             "content": "",
             "wistia_id": ""
@@ -239,8 +238,8 @@
             "show": false,
             "style": "image",
             "image_large": "shopify://shop_images/pd_claim1.webp",
-            "heading": "Anti-Aging Treatments",
-            "content": "<ul><li>Boosts collagen (naturally) as much as 81% for youthful, plump skin</li><li>Smooths fine lines and reduces wrinkles, and boosts skin firmness</li><li>Increases skin radiance, fades dark spots and promotes even-toned complexion</li><li>Reduces inflammation, rosacea, and redness</li></ul>",
+            "heading": "Anti-Aging Behandlung",
+            "content": "<ul><li>Steigert die Kollagenproduktion (auf natürliche Weise) um bis zu 81 % für jugendliche, pralle Haut</li><li>Glättet feine Linien, reduziert Falten und verbessert die Hautfestigkeit</li><li>Verleiht der Haut mehr Ausstrahlung, mildert dunkle Flecken und sorgt für einen ebenmäßigen Teint</li><li>Reduziert Entzündungen, Rosazea und Rötungen</li></ul>",
             "code": "<div class=\"percentage_bar2\">\n                                                        <span class=\"percent_3\"></span>\n                                                        <span class=\"percent_4\"></span>\n                                                        <span class=\"percent_2\"></span>\n                                                        <span class=\"percent_6\"></span>\n                                                    </div>\n                                                    <div class=\"d-flex justify-content-between\">\n                                                        <p class=\"percent_3-text\">IR 880nm</p>\n                                                        <p class=\"percent_4-text\">Deep Red 660nm</p>\n                                                        <p class=\"percent_2-text\">Red 630nm</p>\n                                                        <p class=\"percent_6-text\">Amber 605nm</p>\n                                                    </div>"
           }
         },
@@ -250,24 +249,24 @@
             "show": false,
             "style": "image",
             "image_large": "shopify://shop_images/pd_claim2.webp",
-            "heading": "Anti-Breakout Treatment",
-            "content": "<ul><li>Reduces acne by up to 83.3% and prevents future breakouts for clearer skin</li><li>Regulates oil production for clearer skin</li><li>Speeds up healing and fades post-breakout marks for more even-toned skin</li><li>Soothes redness and calms breakouts</li></ul>",
+            "heading": "Anti-Akne Behandlung",
+            "content": "<ul><li>Reduziert Akne um bis zu 83,3 % und beugt zukünftigen Ausbrüchen vor für eine klarere Haut</li><li>Reguliert die Talgproduktion für eine klarere Haut</li><li>Beschleunigt die Heilung und lässt Hautunreinheiten verblassen für einen gleichmäßigeren Teint</li><li>Lindert Rötungen und beruhigt Hautunreinheiten</li></ul>",
             "code": "<div class=\"percentage_bar\">\n                                                <span class=\"percent_1\"></span>\n                                                <span class=\"percent_2\"></span>\n                                            </div>\n                                            <div class=\"d-flex justify-content-between\">\n                                                <p class=\"percent_1-text\">Blue light 415 nm</p>\n                                                <p class=\"percent_2-text\">Red light 630 nm</p>\n                                            </div>"
           }
         },
         "header_AwT6ji": {
           "type": "header",
           "settings": {
-            "heading": "STEP 3",
-            "text": "Get inspired by other content creators",
+            "heading": "SCHRITT 3",
+            "text": "Inspiration von anderen Content-Erstellern",
             "image": "shopify://shop_images/ac_pro3.webp",
-            "button_label": "Inspiring Content"
+            "button_label": "Inspirierende Inhalte"
           }
         },
         "heading_YiyFGP": {
           "type": "heading",
           "settings": {
-            "heading": "Show how it works for you"
+            "heading": "Zeigen Sie, wie es bei Ihnen funktioniert"
           }
         },
         "video_4Jjjcm": {
@@ -294,7 +293,7 @@
         "heading_fUcJta": {
           "type": "heading",
           "settings": {
-            "heading": "Personal story"
+            "heading": "Persönliche Erfahrung"
           }
         },
         "video_H9fmrV": {
@@ -321,7 +320,7 @@
         "heading_t3inkx": {
           "type": "heading",
           "settings": {
-            "heading": "Skincare recommendation"
+            "heading": "Hautpflegeempfehlung"
           }
         },
         "video_TJgxNn": {
@@ -348,7 +347,7 @@
         "heading_wNDqjx": {
           "type": "heading",
           "settings": {
-            "heading": "What experts say"
+            "heading": "Was Experten sagen"
           }
         },
         "video_BqjDk8": {
@@ -435,7 +434,7 @@
         "video_GUaTcE"
       ],
       "settings": {
-        "heading": "All you need to know before you start creating your amazing content"
+        "heading": "Alles, was Sie wissen müssen, bevor Sie fantastische Inhalte erstellen"
       }
     }
   },
