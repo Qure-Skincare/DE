@@ -1182,7 +1182,7 @@
           "type": "object",
           "settings": {
             "heading": "Wann werde ich Ergebnisse sehen?",
-            "text": "<p>Die Micro-Infusion-Behandlung ist eine wirksame Hautpflegebehandlung, bei der Sie bereits nach ein bis zwei Tagen eine strahlendere Haut, kleinere Poren, mehr Feuchtigkeit und insgesamt einen gesunden, frischen Teint feststellen werden.<br/>Je mehr Behandlungen Sie durchführen, desto größer ist der Nutzen für Ihre Haut im Laufe der Zeit! Diese schnelle und einfache Gesichtsbehandlung für zu Hause ist ideal für ein oder zwei Tage vor einem großen Ereignis, wenn Sie schnell etwas für Ihr Hautbild tun möchten.<br/>Vergessen Sie nicht, Ihre tägliche Hautpflege beizubehalten, um die Wirksamkeit Ihrer Micro-Infusion-Behandlung zu verstärken und Ihre Haut langfristig strahlend zu erhalten.</p>",
+            "text": "<p>Die Micro-Infusions-Behandlung ist eine wirksame Hautpflegebehandlung, bei der Sie bereits nach ein bis zwei Tagen eine strahlendere Haut, kleinere Poren, mehr Feuchtigkeit und insgesamt einen gesunden, frischen Teint feststellen werden.</p><p><br/>Je mehr Behandlungen Sie durchführen, desto größer ist der Nutzen für Ihre Haut im Laufe der Zeit! Diese schnelle und einfache Gesichtsbehandlung für zu Hause ist ideal für ein oder zwei Tage vor einem großen Ereignis, wenn Sie schnell etwas für Ihr Hautbild tun möchten.</p><p><br/>Vergessen Sie nicht, Ihre tägliche Hautpflege beizubehalten, um die Wirksamkeit Ihrer Micro-Infusion-Behandlung zu verstärken und Ihre Haut langfristig strahlend zu erhalten.</p>",
             "code": ""
           }
         },
@@ -1198,7 +1198,7 @@
           "type": "object",
           "settings": {
             "heading": "Kann man es auch um die Augen und am Hals anwenden?",
-            "text": "<p>Ja, Sie können die Micro-Infusion um die Augenpartie herum anwenden, um Krähenfüße zu glätten. Achten Sie nur darauf, dass Sie einen sehr sanften Druck ausüben und nur einen Durchgang machen. Beobachten Sie Ihre Haut entsprechend, denn jede Haut ist anders!Eine Micro-Infusion am Hals kann helfen, das Erscheinungsbild feiner Linien zu verbessern und die Haut zu verjüngen. Die Behandlung kann auf Probleme wie Halsfalten, horizontale Linien und altersbedingte Hautprobleme abzielen, um die allgemeine Textur, den Ton und die Jugendlichkeit der Haut zu verbessern. </p>",
+            "text": "<p>Ja, Sie können die Micro-Infusion um die Augenpartie herum anwenden, um Krähenfüße zu glätten. Achten Sie nur darauf, dass Sie einen sehr sanften Druck ausüben und nur einen Durchgang machen. Beobachten Sie Ihre Haut entsprechend, denn jede Haut ist anders!</p><p>Eine Micro-Infusion am Hals kann helfen, das Erscheinungsbild feiner Linien zu verbessern und die Haut zu verjüngen. Die Behandlung kann auf Probleme wie Halsfalten, horizontale Linien und altersbedingte Hautprobleme abzielen, um die allgemeine Textur, den Ton und die Jugendlichkeit der Haut zu verbessern. </p>",
             "code": ""
           }
         },
@@ -1213,7 +1213,7 @@
         "object_AemyD4": {
           "type": "object",
           "settings": {
-            "heading": "Wann ist die beste Zeit für eine Micro-Infusion-Behandlung?",
+            "heading": "Wann ist die beste Zeit für eine Micro-Infusions-Behandlung?",
             "text": "<p>Wir empfehlen, die Behandlung abends vor dem Schlafengehen durchzuführen. Vermeiden Sie den Aufenthalt in der Sonne und die Verwendung von Make-up für 24 Stunden nach der Behandlung. Weitere Informationen zur Pflege nach der Behandlung finden Sie in unserem <a href=\"https://www.qureskincare.de/pages/microinfusion-safety-guide\"><span style=\"text-decoration:underline\">Sicherheitsleitfaden</span></a>.</p>",
             "code": ""
           }
@@ -1221,7 +1221,7 @@
         "object_CTEVqW": {
           "type": "object",
           "settings": {
-            "heading": "Wie viele Behandlungen kann ich mit einem Micro-Infusion-Gerät durchführen?",
+            "heading": "Wie viele Behandlungen kann ich mit einem Micro-Infusions-Gerät durchführen?",
             "text": "<p>Jeder Nadelkopf ist nur einmal pro Behandlung zu verwenden und nach jeder Behandlung zu entsorgen. Dies minimiert das Risiko einer Infektion und einer unnötigen Schädigung der Haut. Verwenden Sie 1 volle Serum-Ampulle pro Behandlung.</p>",
             "code": ""
           }
@@ -1246,7 +1246,7 @@
           "type": "object",
           "settings": {
             "heading": "Was sind die Vorteile der Micro-Infusion?",
-            "text": "<p>Die Nadeln des Micro-Infusion-Geräts und die Stempelbewegung lösen den natürlichen Heilungsprozess des Körpers aus und regen die Kollagenproduktion an, wodurch Ihre Haut straffer aussieht und feine Linien gemildert werden.</p><p>Der Serum-Booster, den Sie für Ihre Micro-Infusion auswählen, bestimmt die wichtigsten Vorteile Ihrer Behandlung. Sehr feine Nadeln injizieren Mikrotropfen mit konzentriertem Serum in einer bestimmten Tiefe in die Dermis (oberste Hautschicht) genau dort, wo sie benötigt werden, um die Aufnahme der Wirkstoffe zu beschleunigen, die auf bestimmte Hautprobleme abzielen.</p><p>Sie können Ihre Behandlungen wechseln und sogar die beiden Seren miteinander mischen!</p><p>Weitere Vorteile:</p><ul><li>Gleichmäßigerer Hautton und Hautstruktur</li><li>Strahlender, frischer Teint</li><li>Weichere feine Linien</li><li>Straffere, verjüngte Haut</li></ul>",
+            "text": "<p>Die Nadeln des Micro-Infusions-Geräts und die Stempelbewegung lösen den natürlichen Heilungsprozess des Körpers aus und regen die Kollagenproduktion an, wodurch Ihre Haut straffer aussieht und feine Linien gemildert werden.</p><p>Der Serum-Booster, den Sie für Ihre Micro-Infusion auswählen, bestimmt die wichtigsten Vorteile Ihrer Behandlung. Sehr feine Nadeln injizieren Mikrotropfen mit konzentriertem Serum in einer bestimmten Tiefe in die Dermis (oberste Hautschicht) genau dort, wo sie benötigt werden, um die Aufnahme der Wirkstoffe zu beschleunigen, die auf bestimmte Hautprobleme abzielen.</p><p>Sie können Ihre Behandlungen wechseln und sogar die beiden Seren miteinander mischen!</p><p>Weitere Vorteile:</p><ul><li>Gleichmäßigerer Hautton und Hautstruktur</li><li>Strahlender, frischer Teint</li><li>Weichere feine Linien</li><li>Straffere, verjüngte Haut</li></ul>",
             "code": ""
           }
         },
@@ -1254,7 +1254,7 @@
           "type": "object",
           "settings": {
             "heading": "Gibt es irgendwelche Nebenwirkungen?",
-            "text": "<p>Jede Haut ist anders. In den ersten Stunden nach der Behandlung kann es zu leichten Hautrötungen kommen. Diese sollten jedoch minimal sein und schnell wieder verschwinden.<br/>Wenn Sie unter Hautproblemen leiden, empfehlen wir Ihnen, vor der Anwendung Ihren Hautarzt oder Arzt zu konsultieren. Es wird außerdem empfohlen, vor der Behandlung einen Patch-Test an einer nicht zu exponierten Hautstelle durchzuführen, um besser zu verstehen, wie Ihre Haut reagiert und mit welcher Ausfallzeit Sie rechnen müssen.</p>",
+            "text": "<p>Jede Haut ist anders. In den ersten Stunden nach der Behandlung kann es zu leichten Hautrötungen kommen. Diese sollten jedoch minimal sein und schnell wieder verschwinden.</p><p><br/>Wenn Sie unter Hautproblemen leiden, empfehlen wir Ihnen, vor der Anwendung Ihren Hautarzt oder Arzt zu konsultieren. Es wird außerdem empfohlen, vor der Behandlung einen Patch-Test an einer nicht zu exponierten Hautstelle durchzuführen, um besser zu verstehen, wie Ihre Haut reagiert und mit welcher Ausfallzeit Sie rechnen müssen.</p>",
             "code": ""
           }
         },
@@ -1262,7 +1262,7 @@
           "type": "object",
           "settings": {
             "heading": "Was ist der Unterschied zwischen dem Mikro-Needling-Rolling-Gerät für den Hausgebrauch und der Micro-Infusion?",
-            "text": "<p>Micro-Needling konzentriert sich darauf, das körpereigene Kollagen durch Mikroverletzungen zu stimulieren. Dabei werden jedoch keine Wirkstoffe direkt in die Haut eingebracht.<br/><br/>Mit der Micro-Infusion profitieren Sie nicht nur von den Vorteilen des Micro-Needlings, sondern versorgen Ihre Haut auch gezielt mit Wirkstoffen, die auf Ihre individuellen Hautprobleme abgestimmt sind. Dadurch wirkt die Behandlung schneller und effektiver.</p>",
+            "text": "<p>Micro-Needling konzentriert sich darauf, das körpereigene Kollagen durch Mikroverletzungen zu stimulieren. Dabei werden jedoch keine Wirkstoffe direkt in die Haut eingebracht.<br/><br/>Mit der Micro-Infusion profitieren Sie nicht nur von den Vorteilen des Micro-Needlings, sondern versorgen Ihre Haut auch gezielt mit Wirkstoffen, die auf Ihre individuellen Hautprobleme abgestimmt sind. Dadurch wirkt die Behandlung schneller und effektiver.</p><p>Das Micro-Infusionssystem von Qure verfügt über Einweg-Nadelköpfe, die nach jedem Gebrauch entsorgt werden, um das Infektionsrisiko auf ein Minimum zu reduzieren – im Gegensatz zu Mikronadelrollen für den Heimgebrauch, die mehrfach verwendet werden.</p>",
             "code": ""
           }
         },
