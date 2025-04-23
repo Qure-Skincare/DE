@@ -30405,7 +30405,7 @@ p {
 
 .shipping.shipping_bg {
     background: #F4ECDD;
-    padding: 7px 25px;
+    padding: 0px;
     border-radius: 10px;
     max-width: 468px;
 }
