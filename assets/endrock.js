@@ -1340,7 +1340,7 @@ function updateSiteWideGamification (cartTotal) {
     } else if ((!enableProductGift || !giftProductIsAvailable || urlGiftProductIsAvailable=="false") &&
         enableFreeShipping &&
         cartTotal >= differenceFreeShipping){
-      progressContainerMessage.innerHTML = "<p>Congrats you have <strong> Free Shipping!</strong></p>";
+      progressContainerMessage.innerHTML = "<p>Herzlichen Glückwunsch <strong> Sie haben kostenlosen Versand!!</strong></p>";
     }
   }
 

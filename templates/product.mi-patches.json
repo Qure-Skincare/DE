@@ -82,7 +82,7 @@
         ".swiper-wrapper {justify-content: center !important;}"
       ],
       "settings": {
-        "heading": "FEATURED IN",
+        "heading": "ANGEBOTEN IN",
         "slider_type": "five_slides",
         "slide_per_view_desktop": 3,
         "slide_per_view_mobile": 3
@@ -375,8 +375,8 @@
         "classname": "mi_landing_result",
         "heading": "Words directly from the source",
         "heading_reduced": "",
-        "text_verified_customer": "Verified customer",
-        "text_reviewed": "Reviewed in"
+        "text_verified_customer": "Verifizierter Käufer",
+        "text_reviewed": "Bewertet in"
       }
     },
     "liquid_EH7JLe2": {

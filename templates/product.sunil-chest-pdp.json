@@ -162,7 +162,7 @@
         "text_YnDmgg"
       ],
       "settings": {
-        "heading": "FEATURED IN",
+        "heading": "ANGEBOTEN IN",
         "slider_type": "one_slides",
         "slide_per_view_desktop": 4,
         "slide_per_view_mobile": 3
@@ -294,7 +294,7 @@
         "heading": "Achieve your skincare goals",
         "text": "",
         "slide_count": true,
-        "text_verified_customer": "Verified customer"
+        "text_verified_customer": "Verifizierter Käufer"
       }
     },
     "icons_list_MaLwqY": {
@@ -511,8 +511,8 @@
         "classname": "mi_landing_result",
         "heading": "Results you‘ll see with your own eyes",
         "heading_reduced": "",
-        "text_verified_customer": "Verified customer",
-        "text_reviewed": "Reviewed in"
+        "text_verified_customer": "Verifizierter Käufer",
+        "text_reviewed": "Bewertet in"
       }
     },
     "image_text_imD7Hc": {

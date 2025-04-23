@@ -1015,7 +1015,7 @@ main .certified_derm p {
     font-size: 11px;
     line-height: 16px;
     font-weight: 400;
-    padding-left: 10px;
+    padding-left: 4px;
 }
 
 .realResultSlider .swiper-slide {
@@ -2869,7 +2869,7 @@ main .certified_derm p {
     background: #c7e7dc;
     border-radius: 8px 8px 0 0;
     margin: 0 0 0 auto;
-    width: 170px;
+    width: 200px;
     height: 24.78px;
     display: flex;
     justify-content: center;

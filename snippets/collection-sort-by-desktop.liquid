@@ -1,6 +1,6 @@
 {% comment %}Sort by: Featured{% endcomment %}
 <div class="sort-by--container cus-shorting d-none d-md-block">
-<label for="sort-by">Sort by:</label>
+<label for="sort-by">Sortieren:</label>
   {%- assign sort_by = collection.sort_by | default: collection.default_sort_by -%}
   <select id="sort-by" class="sort-by">
     {% for option in collection.sort_options %}

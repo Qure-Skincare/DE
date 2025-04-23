@@ -62,7 +62,7 @@
 						</button>
 					</a>
 				</div>
-        {% render 'pdm_cart-gamification', settingsGamification: section.settings, cartTotal: cart.items_subtotal_price %}
+        		{% render 'pdm_cart-gamification', settingsGamification: section.settings, cartTotal: cart.items_subtotal_price %}
 			</div>
 
 			{% if section.settings.sidecart_timer_old_enable %}
@@ -295,16 +295,16 @@
 					{% if cart.item_count == 0 %}
 						<div class="drawer__cart-is-empty">
 							<div class="drawer__cart-empty-text">
-								<h4>Your shopping bag is empty.</h4>
-								<p>Fill it with amazing skincare.</p>
+								<h4>Die Einkaufstasche <br />ist leer.</h4>
+								<p>Füllen Sie ihn mit <br /> wunderbarer Hautpflege.</p>
 							</div>
 							<div class="empty-product">
 								<div class="empty-title dekstop-empty">
-									<h4>Micro-Infusion Facial System </h4>
+									<h4>Micro-Infusion Gesichtssystem </h4>
 										<div class="empty-review">
 											<img src="https://qureskincaredns-de.com/bundle_r_3.svg" alt="" class="mr-2">
 											&nbsp;&nbsp;&nbsp;&nbsp;
-											<a href="/pages/microinfusion">98% of customers loved their skin after one treatment</a>
+											<a href="/pages/microinfusion">98% der Kunden liebten ihre Haut nach einer Behandlung</a>
 										</div>
 								</div>
 								<div class="empty-main">
@@ -312,10 +312,10 @@
 										<img src="{{ 'cart_micro_new_400x.webp' | asset_url }}" style="max-width: 160px;">
 										<div class="empty-mobile">
 											<div class="empty-title">
-												<h4>Micro-Infusion Facial System </h4>
+												<h4>Micro-Infusion Gesichtssystem </h4>
 												<div class="empty-review">
 													<img src="https://qureskincaredns-de.com/bundle_r_3.svg" alt="">
-													<a href="/pages/microinfusion"> 98% of customers loved their skin after one treatment</a>
+													<a href="/pages/microinfusion"> 98% der Kunden liebten ihre Haut nach einer Behandlung</a>
 												</div>
 											</div>
 										</div>
@@ -326,25 +326,25 @@
 												<span>
 													<img src="https://qureskincaredns-de.com/dark-spots.svg" alt="">
 												</span>
-												Reduce appearance of fine lines, pores and dark spots. 
+												Reduziert das Erscheinungsbild von feinen Linien, Poren und dunklen Flecken. 
 											</li>
 											<li>
 												<span>
 													<img src="https://qureskincaredns-de.com/skin.svg" alt="">
 												</span>
-												Infuse active ingredients into your skin. 
+												Schleusen Sie Wirkstoffe in Ihre Haut ein. 
 											</li>
 											<li>
 												<span>
 													<img src="https://qureskincaredns-de.com/downtime.svg" alt="">
 												</span> 
-												Immediately visible results, minimal downtime!
+												Sofort sichtbare Ergebnisse, minimale Ausfallzeiten!
 											</li>
 											<li>
 												<span>
 													<img src="https://qureskincaredns-de.com/plus.svg" alt="">
 												</span> 
-												Virtually painless, and performed safely from home.
+												Praktisch schmerzlos und sicher von zu Hause aus durchführbar.
 											</li>
 										</ul>
 									</div>
@@ -420,7 +420,7 @@
 									{% if custom_saving != blank %}
 										<p class="drawer_savings" style="color: {{ custom_saving.settings.color }}">{{ custom_saving.settings.text }}</p>
 									{% else %}
-										<p class="drawer_savings">You're saving</p>
+										<p class="drawer_savings">Sie sparen</p>
 									{% endif %}
 								{% endif %}
 							{%- endif -%}
@@ -429,7 +429,7 @@
 						{%- if is_only_gift == true -%}
 							<p class="drawer_shipping">&nbsp;</p>
 						{%- else -%}
-							<p style class="drawer_shipping">Shipping</p>
+							<p style class="drawer_shipping">Versand</p>
 						{%- endif -%}
 					</div>
 
@@ -498,7 +498,7 @@
 							<img src="https://qureskincaredns-de.com/secureship_sm.svg" alt="" class="img-fluid">
 						</div>
 						<div class="insurance__text">
-							<p class="insurance__text--top">Protect Your Order from Loss, Damage & Theft <strong>{{ insurancePrice | money_without_trailing_zeros }}</strong>
+							<p class="insurance__text--top">Schützen Sie Ihre Bestellung vor Verlust, Beschädigung und Diebstahl <strong>{{ insurancePrice | money_without_trailing_zeros }}</strong>
 							</p>
 						</div>
 						<div class="insurance__switch-wrapper">
@@ -522,7 +522,7 @@
 
 			<div class="cart_total-checkout">
 				<div class="drawer__cart-total">
-					<p class="cart_items_subtotal_price">Your Total</p>
+					<p class="cart_items_subtotal_price">Ihr Total</p>
           {% render 'pdm-cart-total-checkout' cartData:cart, totalCartComparePrice: total_cart_compare_price, is_only_gift:is_only_gift %}
 				</div>
 
@@ -549,7 +549,7 @@
 									</clipPath>
 								</defs>
 							</svg></span>
-						Free Shipping over <span class="money" style="padding-left:3px">US$100</span>
+							Versandkostenfrei ab <span class="money" style="padding-left:3px">100 €</span>
 					</p>
 					<p>
 						<span><svg xmlns="http://www.w3.org/2000/svg" width="33" height="24" viewBox="0 0 33 24" fill="none">
@@ -559,7 +559,7 @@
 								<path d="M1.61951 9.52284C1.61951 16.9435 7.65237 22.9764 15.0872 22.9764C22.5221 22.9764 28.391 16.986 28.391 9.56532H31.359L25.7368 1.29492L20.1288 9.56532H24.4868" stroke="black" stroke-width="1.39435" stroke-miterlimit="2.61313" stroke-linecap="round" stroke-linejoin="round"></path>
 							</svg>
 						</span>
-						Buy Now, Pay Later
+						Jetzt kaufen, später bezahlen
 					</p>
 				</div>
 			</div>

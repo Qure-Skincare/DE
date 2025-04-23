@@ -186,7 +186,7 @@
     },
     "checkbox": {
       "from": "From",
-      "verified": "Verified Customer",
+      "verified": "Verifizierter Käufer",
       "loop": "Enable loop",
       "autoplay": "Enable autoplay",
       "show": "Show",

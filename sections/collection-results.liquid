@@ -41,7 +41,7 @@
                                             <div class="product_card_userName">{{ block.settings.client }}</div>
                                         {% endif %}
                                         <div class="product_verified">
-                                            <img src="{{ 'verified.svg' | asset_url }}" alt="" class="me-1">Verified Customer
+                                            <img src="{{ 'verified.svg' | asset_url }}" alt="" class="me-1">Verifizierter Käufer
                                         </div>
                                     </div>
                                 </div>
@@ -154,8 +154,8 @@
                         {% endif %}
                     </div>
                     <div class="product-grid__atc-form-wrapper collection-form">
-                        <a class="button_primary" style="cursor:pointer;" data-ajax-cart-request-button="/cart/add?id={{ product.variants.first.id }}&quantity=1" onclick="setEventProductHandler('{{ product.handle | escape }}')" data-ajax-cart-request-button>Buy Now</a>
-                        <a href="{{ routes.root_url }}{{ product_url }}" class="collec-more">Learn More</a>
+                        <a class="button_primary" style="cursor:pointer;" data-ajax-cart-request-button="/cart/add?id={{ product.variants.first.id }}&quantity=1" onclick="setEventProductHandler('{{ product.handle | escape }}')" data-ajax-cart-request-button>Kaufen</a>
+                        <a href="{{ routes.root_url }}{{ product_url }}" class="collec-more">Erfahren</a>
                     </div>
                 </div>
             </div>

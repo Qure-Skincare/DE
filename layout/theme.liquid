@@ -258,6 +258,40 @@
     </script>
     <script src="https://c.albss.com/p/l/loader.iife.js" async></script>
 
+    {% comment %} <script>
+        function addEventListenerStamped(el, eventName, handler) {
+            if (el.addEventListener) { el.addEventListener(eventName, handler); }
+            else { el.attachEvent('on' + eventName, function () { handler.call(el); }); }
+        }
+
+        addEventListenerStamped(document, 'stamped:reviews:loaded', function(e) {
+            setTimeout(() => {
+                const countries = [
+                    { name: "United States", code: "us" },
+                    { name: "Canada", code: "ca" },
+                    { name: "France", code: "fr" },
+                    { name: "United Kingdom", code: "gb" },
+                    { name: "Australia", code: "au" },
+                    { name: "New Zealand", code: "nz" }
+                ];
+
+                countries.forEach(({ name, code }) => {
+                    document.querySelectorAll(`span[data-location="${name}"]`).forEach(el => {
+                        el.setAttribute('data-location', 'Deutschland');
+                        el.textContent = 'Deutschland';
+                    });
+
+                    const flagSelector = `img[src="https://cdn.stamped.io/cdn/flags/${code}.svg"]`;
+                    document.querySelectorAll(flagSelector).forEach(img => {
+                        img.src = 'https://cdn.stamped.io/cdn/flags/de.svg';
+                        img.setAttribute('data-src', 'https://cdn.stamped.io/cdn/flags/de.svg');
+                        img.setAttribute('alt', 'Deutschland');
+                    });
+                });
+            }, 1000)
+        });
+    </script> {% endcomment %}
+
     {% section 'slidecart' %}
 
     {% render 'gdpr' %}

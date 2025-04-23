@@ -132,7 +132,7 @@
         "image_BK9W8D"
       ],
       "settings": {
-        "heading": "FEATURED IN"
+        "heading": "ANGEBOTEN IN"
       }
     },
     "before_after_slider_Nfk96E": {
@@ -540,8 +540,8 @@
       "settings": {
         "classname": "mi_landing_result",
         "heading": "Results you‘ll see with your own eyes",
-        "text_verified_customer": "Verified customer",
-        "text_reviewed": "Reviewed in"
+        "text_verified_customer": "Verifizierter Käufer",
+        "text_reviewed": "Bewertet in"
       }
     },
     "two_column_box_xCB6mV": {

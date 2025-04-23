@@ -243,7 +243,7 @@
         "result_Cg3zJX"
       ],
       "settings": {
-        "text_verified_customer": "Verified customer"
+        "text_verified_customer": "Verifizierter Käufer"
       }
     },
     "trusted-second": {
@@ -849,7 +849,7 @@
         "classname": "mi_landing_result",
         "heading": "Sichtbare Ergebnisse",
         "heading_reduced": "",
-        "text_verified_customer": "Verifizierter Kunde",
+        "text_verified_customer": "Verifizierter Käufer",
         "text_reviewed": "Bewertet in"
       }
     },

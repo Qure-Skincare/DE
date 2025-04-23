@@ -198,7 +198,7 @@
 
                                     <div class="subscribe_save_wrapper with_subscription mt-2">
                                         <div class="subscribeTopInfo">
-                                            <p>Over 1,000 people chose subscription</p>
+                                            <p>Über 1.000 Menschen wählten diese</p>
                                         </div>
                                         <div class="subscriptionType active" data-subscription="subscription">
                                             <div class="subscribe_save_bx">
@@ -225,7 +225,7 @@
                                         <div class="subscriptionType" data-subscription="no-subscription">
                                             <div class="noSubscription">
                                                 <div class="noSubscriptionText">
-                                                    One time purchase
+                                                    Einmaliger Kauf
                                                 </div>
                                                 <div class="noSubscriptionPrice">
                                                     {{ product.price | money_without_trailing_zeros }}
@@ -238,7 +238,7 @@
                                             {% if product.variants.first.available %}
                                                 <a class="btn btn-lg btn-primary without_subscription buy_btn" href="{{ routes.cart_add_url }}?id={{ product.variants.first.id }}&quantity=1" onclick="setEventProductHandler('{{ product.handle | escape }}')" data-ajax-cart-request-button>{% if section.settings.reserve == true %}Reserve now{% else %}Buy Now{% endif %}</a>
                                             {% else %}
-                                                <a class="btn btn-lg btn-primary without_subscription buy_btn" href="#">{% if section.settings.reserve == true %}Reserve now{% else %}Sold Out{% endif %}</a>
+                                                <a class="btn btn-lg btn-primary without_subscription buy_btn" href="#">{% if section.settings.reserve == true %}Jetzt reservieren{% else %}Ausverkauft{% endif %}</a>
                                             {% endif %}
 
                                             {% capture sticky-button-classname %}without_subscription{% endcapture %}
@@ -251,11 +251,11 @@
                                             %}
 
                                             <div class="payment_method without_subscription">
-                                                <p>OR pay 4 monthly payments of {{ product.price | divided_by: 4 | money_without_trailing_zeros }} with</p>
+                                                <p>ODER 4 monatliche Zahlungen von je {{ product.price | divided_by: 4 | money_without_trailing_zeros }} mit</p>
                                                 <div class="pmt_img ps-2">
                                                     <img src="{{ 'klarna.svg' | asset_url }}" alt="">
-                                                    <img src="{{ 'sezzle.svg' | asset_url }}" alt=""><img src="{{ 'afterpay.svg' | asset_url }}"
-                                                        alt="">
+                                                    <img src="{{ 'sezzle.svg' | asset_url }}" alt="">
+                                                    <img src="{{ 'afterpay.svg' | asset_url }}" alt="">
                                                 </div>
                                             </div>
                                         </div>
@@ -265,7 +265,7 @@
                                         <form method="post" action="/cart/add" accept-charset="UTF-8" id="SubscriptionForm" class="shopify-product-form buy-form-{{ section_id }} form-test-id" enctype="multipart/form-data" data-form-id="{{ product_id }}">
                                             <input type="hidden" name="selling_plan" value="{{ block.settings.plan }}">
                                             <button type="submit" class="btn btn-lg btn-primary with_subscription buy_btn" onclick="setEventProductHandler('{{ product.handle | escape }}')" name="Submit" value="Submit">
-                                                Subscribe Now
+                                                Jetzt abonnieren
                                             </button>
                                             <input type="hidden" name="id" value="{{ product_variant_id }}" />
                                         </form>
@@ -287,9 +287,9 @@
                             {% render 'pdm_orderby' %}
                         {% endunless %}
                             {% if product.variants.first.available %}
-                                <a class="btn btn-lg btn-primary buy_btn" href="{{ routes.cart_add_url }}?id={{ product.variants.first.id }}&quantity=1" onclick="setEventProductHandler('{{ product.handle | escape }}')" data-ajax-cart-request-button>{% if section.settings.reserve == true %}Reserve now{% else %}Buy Now{% endif %}</a>
+                                <a class="btn btn-lg btn-primary buy_btn" href="{{ routes.cart_add_url }}?id={{ product.variants.first.id }}&quantity=1" onclick="setEventProductHandler('{{ product.handle | escape }}')" data-ajax-cart-request-button>{% if section.settings.reserve == true %}Jetzt reservieren{% else %}Jetzt kaufen{% endif %}</a>
                             {% else %}
-                                <a class="btn btn-lg btn-primary buy_btn" href="#">{% if section.settings.reserve == true %}Reserve now{% else %}Sold Out{% endif %}</a>
+                                <a class="btn btn-lg btn-primary buy_btn" href="#">{% if section.settings.reserve == true %}Jetzt reservieren{% else %}Ausverkauft{% endif %}</a>
                             {% endif %}
 
                             {% if product.compare_at_price != blank %}
@@ -315,8 +315,8 @@
                             {% endif %}
 
                             <div class="payment_method">
-                                <p class="d-none d-md-block">OR pay 4 monthly payments of <span class="igInstallmentPrice" data-product-id="{{ product.id }}"> {{ product.price | divided_by: 4 | money_without_trailing_zeros }}</span> with</p>
-                                <p class="d-block d-md-none">OR 4 monthly payments of {{ product.price | divided_by: 4 | money_without_trailing_zeros }} with</p>
+                                <p class="d-none d-md-block">ODER 4 monatliche Zahlungen von je <span class="igInstallmentPrice" data-product-id="{{ product.id }}"> {{ product.price | divided_by: 4 | money_without_trailing_zeros }}</span> mit</p>
+                                <p class="d-block d-md-none">ODER 4 monatliche Zahlungen von je {{ product.price | divided_by: 4 | money_without_trailing_zeros }} mit</p>
                                 <div class="pmt_img ps-2">
                                     <img src="{{ 'klarna.svg' | asset_url }}" alt="">
                                     <img src="{{ 'sezzle.svg' | asset_url }}" alt="">

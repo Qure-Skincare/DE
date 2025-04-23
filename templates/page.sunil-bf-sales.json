@@ -392,8 +392,8 @@
         "classname": "mi_landing_result",
         "heading": "Confidence changing results, from people just like you",
         "heading_reduced": "",
-        "text_verified_customer": "Verified customer",
-        "text_reviewed": "Reviewed in"
+        "text_verified_customer": "Verifizierter Käufer",
+        "text_reviewed": "Bewertet in"
       }
     },
     "two_column_box_FQCXGb": {
@@ -448,7 +448,7 @@
         "heading_FfwHyq": {
           "type": "heading",
           "settings": {
-            "heading": "FEATURED IN"
+            "heading": "ANGEBOTEN IN"
           }
         },
         "image_3pHEKV": {

@@ -3,7 +3,7 @@
 {% else %}
 
     <div class="available_bar">
-        <p>AVAILABLE UNTIL STOCK LASTS</p>
+        <p>VERFÜGBAR, SOLANGE DER VORRAT REICHT</p>
     </div>
 
     <div class="section productSubscription choose_serum form-{{ section_id }}" id="productSubscription">
@@ -12,14 +12,11 @@
                 <div class="col-md-6">
                     <div class="qure__treatments">
                         <div class="section__header text-start order-2 order-md-1">
-                            <h2 class="heading">Choose your treatment options</h2>
+                            <h2 class="heading">Wählen Sie Ihre Behandlungsoptionen</h2>
                             <div class="des">
-                                <p>Rest assured that all orders are one-time purchases.</p>
-                                <p> <strong>You will not be charged again</strong> in the subsequent months, and
-                                    there are no hidden charges.</p>
-                                <p>When you are ready to reorder your treatment, you can purchase needle heads
-                                    and
-                                    serum of choice.</p>
+                                <p>Seien Sie versichert, dass alle Bestellungen einmalige Käufe sind.</p>
+                                <p>In den Folgemonaten werden Ihnen <strong>keine weiteren Gebühren berechnet</strong>, und es gibt keine versteckten Kosten.</p>
+                                <p>Wenn Sie bereit sind, Ihre Behandlung nachzubestellen, können Sie Nadelköpfe und das Serum Ihrer Wahl kaufen.</p>
                             </div>
                         </div>
                         <div class="tmtFtrs_image order-1 order-md-2 mw-mob-100">
@@ -31,7 +28,7 @@
                                     <img src="{{ 'dermatologist.svg' | asset_url }}" alt="">
                                 </div>
                                 <div class="tmtFtr_des">
-                                    Dermatologist<br> Reviewed
+                                    Dermatologisch <br> getestet
                                 </div>
                             </div>
                             <div class="tmtFtrs_block text-center">
@@ -39,7 +36,7 @@
                                     <img src="{{ 'free-shipping-ftr.svg' | asset_url }}" alt="">
                                 </div>
                                 <div class="tmtFtr_des">
-                                    Free World-Wide<br> Shipping over $100
+                                    Weltweit kostenlos<br> Versandkostenfrei ab 100 €
                                 </div>
                             </div>
                             <div class="tmtFtrs_block text-center">
@@ -47,13 +44,12 @@
                                     <img src="{{ 'science-ftr.svg' | asset_url }}" alt="">
                                 </div>
                                 <div class="tmtFtr_des">
-                                    Backed by<br> Science
+                                    Unterstützt von<br> Wissenschaft
                                 </div>
                             </div>
                         </div>
                         <div class="qst_box text-center d-none d-md-block">
-                            <img src="{{ 'question_mark.svg' | asset_url }}" alt="" class="me-2"> Have questions about
-                            MicroInfusion? <a href="#">Chat with us!</a>
+                            <img src="{{ 'question_mark.svg' | asset_url }}" alt="" class="me-2"> Haben Sie Fragen zu MicroInfusion? <a href="/pages/contact-us">Chatten Sie mit uns!</a>
                         </div>
                     </div>
                 </div>
@@ -113,7 +109,7 @@
                             <div class="step_counter"><span>1</span></div>
                             <div class="step_block">
                                 <div class="step_header">
-                                    <h3><span>Step 1/2</span> Choose the Bundle:</h3>
+                                    <h3><span>Schritt 1/2</span> Wählen Sie das Bündel:</h3>
                                 </div>
                                 <div class="step_content">
                                     <div class="step_conten_blocks">
@@ -125,14 +121,14 @@
                                         <a class="planBlock active {{ section_id }}_productPeriodObject" href="month_3" data-tab="month_3"
                                             data-per="& SAVE {{ discount_percentage }}%" data-image="https://qureskincaredns-de.com/MI6x-mixed_blue.webp">
                                             <div class="plan_choosed">
-                                                <span>Over 5,000 people chose this supply</span>
+                                                <span>Über 5.000 Menschen haben sich dafür entschieden</span>
                                             </div>
                                             <input type="radio" name="monthlyPlan" id="3_month" checked data-product-period="3">
                                             <label class="monthly_plans" for="3_month" payment-price="{{ divided_price | money_without_trailing_zeros }}">
                                                 <div class="plan_des">
                                                     <div class="plan_hdr">
-                                                        <h3>3 Month Supply</h3>
-                                                        <span class="saved_price">SAVE {{ discount_percentage }}%</span>
+                                                        <h3>3-Monats-Vorrat</h3>
+                                                        <span class="saved_price">{{ discount_percentage }}% SPAREN</span>
                                                     </div>
                                                     <div class="plan_des">6 Micro-Infusion Treatments</div>
                                                 </div>
@@ -188,56 +184,41 @@
                                     </div>
                                     <div class="tab_content content" id="month_3">
                                         <div class="plan_bundle_detail">
-                                            <h6 class="cs_item__accordion">What is in the 3 Month Supply
-                                                bundle:<span><img src="{{ 'arrow-up.png' | asset_url }}" alt=""></span></h6>
+                                            <h6 class="cs_item__accordion">Was ist im 3-Monats-Vorratspaket enthalten?<span>
+                                            <img src="{{ 'arrow-up.png' | asset_url }}" alt=""></span></h6>
                                             <div class="u_item__hidden-div" style="display: none;">
                                                 <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>
-                                                    Micro-Infusion Device (valued at $80)</p>
+                                                    Mikro-Infusionsgerät (im Wert von 80 €)</p>
                                                 <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>5
-                                                    Clinical-Grade Micro-Needling Heads (valued at $50) </p>
+                                                    Klinische Micro-Needling-Köpfe (im Wert von 50 €) </p>
                                                 <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>6
-                                                    clinically-formulated 4ml serums of choice to treat your
-                                                    specific
-                                                    skin concerns (valued at $120) </p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>World-wide
-                                                    shipping (valued at $25)</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>24/7
-                                                    customer support access</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Risk
-                                                    free 90 Days money back guarantee to trial</p>
-
+                                                    klinisch formulierte 4-ml-Seren nach Wahl zur Behandlung Ihrer speziellen Hautprobleme (im Wert von 120 €) </p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Weltweiter Versand (im Wert von 25 €)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>24/7 Zugang zum Kundensupport</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Risikofreie 90 Tage Geld-zurück-Garantie zum Testen</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="tab_content" id="month_2">
                                         <div class="plan_bundle_detail">
-                                            <h6 class="cs_item__accordion">What is in the 2 Month Supply
-                                                bundle:<span><img src="{{ 'arrow-up.png' | asset_url }}" alt=""></span></h6>
+                                            <h6 class="cs_item__accordion">Was enthält das Paket mit 2 Monatsvorräten?<span>
+                                            <img src="{{ 'arrow-up.png' | asset_url }}" alt=""></span></h6>
                                             <div class="u_item__hidden-div" style="display: none;">
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>
-                                                    Micro-Infusion Device (valued at $80)</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>3
-                                                    Clinical-Grade Micro-Needling Heads (valued at $30) </p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>4
-                                                    clinically-formulatd 4ml serums of choice to treat your specific
-                                                    skin concerns (valued at $80)</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>World-wide
-                                                    shipping (valued at $25)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Mikro-Infusionsgerät (im Wert von 80 €)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>3 Klinische Micro-Needling-Köpfe (im Wert von 30 €) </p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>4 klinisch formulierte 4-ml-Seren nach Wahl zur Behandlung Ihrer speziellen Hautprobleme (im Wert von 80 €)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Weltweiter Versand (im Wert von 25 €)</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="tab_content" id="month_1">
                                         <div class="plan_bundle_detail">
-                                            <h6 class="cs_item__accordion">What is in the 1 Month Supply
-                                                bundle:<span><img src="{{ 'arrow-up.png' | asset_url }}" alt=""></span></h6>
+                                            <h6 class="cs_item__accordion">Was enthält das Paket mit 1 Monatsvorrat?<span>
+                                                <img src="{{ 'arrow-up.png' | asset_url }}" alt=""></span></h6>
                                             <div class="u_item__hidden-div" style="display: none;">
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>
-                                                    Micro-Infusion Device (valued at $80)</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>1
-                                                    Clinical-Grade Micro-Needling Heads (valued at $10) </p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>2
-                                                    clinically-formulated 4ml serums of choice to treat your
-                                                    specific skin concerns (valued at $40)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Mikro-Infusionsgerät (im Wert von 80 €)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>1 klinische Micro-Needling-Köpfe (im Wert von 10 €) </p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>2 klinisch formulierte 4-ml-Seren nach Wahl zur Behandlung Ihrer speziellen Hautprobleme (im Wert von 40 €)</p>
                                             </div>
                                         </div>
                                     </div>
@@ -248,7 +229,7 @@
                             <div class="step_counter"><span>2</span></div>
                             <div class="step_block">
                                 <div class="step_header">
-                                    <h3><span>Step 2/2</span></h3>
+                                    <h3><span>Schritt 2/2</span></h3>
                                 </div>
                             </div>
                         </div>
@@ -275,14 +256,14 @@
                                         </button>
                                 {% endif %}
 
-                                <a class="btn btn-lg btn-primary buy_btn mt-3 {{ section_id }}_productButtonObject" href="{{ routes.cart_add_url }}?id={{ product.variants.first.id }}&quantity=1" data-ajax-cart-request-button>Buy Now <span
-                                    class="savedAmount">& SAVE {{ discount_percentage }}%</span><img src="{{ 'arrow_right.svg' | asset_url }}" alt="">
+                                <a class="btn btn-lg btn-primary buy_btn mt-3 {{ section_id }}_productButtonObject" href="{{ routes.cart_add_url }}?id={{ product.variants.first.id }}&quantity=1" data-ajax-cart-request-button>Jetzt kaufen <span
+                                    class="savedAmount">& {{ discount_percentage }}% SPAREN</span><img src="{{ 'arrow_right.svg' | asset_url }}" alt="">
                                 </a>
 
-                                <a class="btn btn-lg btn-primary buy_btn buy_btn_soldout mt-3 {{ section_id }}_productButtonObject" style="display: none;">Sold Out</a>
+                                <a class="btn btn-lg btn-primary buy_btn buy_btn_soldout mt-3 {{ section_id }}_productButtonObject" style="display: none;">Ausverkauft</a>
                             </div>
                             <div class="payment_method">
-                                <p>OR pay 4 monthly payments of <span class="payment_price">{{ divided_price | money_without_trailing_zeros }}</span> with</p>
+                                <p>ODER zahlen Sie 4 monatliche Zahlungen von <span class="payment_price">{{ divided_price | money_without_trailing_zeros }}</span> mit</p>
                                 <div class="pmt_img ps-2">
                                     <img src="{{ 'klarna.svg' | asset_url }}" alt="">
                                     <img src="{{ 'sezzle.svg' | asset_url }}" alt=""><img src="{{ 'afterpay.svg' | asset_url }}" alt="">
@@ -293,22 +274,20 @@
                             <div class="c_s_wrapper">
                                 <div class="c_s_bx">
                                     <img src="{{ 'dermatologist.svg' | asset_url }}" alt="">
-                                    <p>Dermatologist<br>Reviewed</p>
+                                    <p>Dermatologisch <br> getestet</p>
                                 </div>
                                 <div class="c_s_bx">
                                     <img src="{{ 'shipping.svg' | asset_url }}" alt="">
-                                    <p>Free World-Wide<br> Shipping Over $100</p>
+                                    <p>Weltweit kostenlos<br> Versandkostenfrei ab 100 €</p>
                                 </div>
                                 <div class="c_s_bx">
                                     <img src="{{ 'science-ftr.svg' | asset_url }}" alt="">
-                                    <p>Backed by<br>Science</p>
+                                    <p>Unterstützt von<br> Wissenschaft</p>
                                 </div>
                             </div>
                             <div class="c_s_ques text-center">
                                 <p class="ask-ques">
-                                    <img src="{{ 'question_mark.svg' | asset_url }}" alt="" class="me-2">
-                                    Have questions about MicroInfusion?
-                                    <a href="#">Chat with us!</a>
+                                    <img src="{{ 'question_mark.svg' | asset_url }}" alt="" class="me-2"> Haben Sie Fragen zu MicroInfusion? <a href="/pages/contact-us">Chatten Sie mit uns!</a>
                                 </p>
                             </div>
                         </div>
