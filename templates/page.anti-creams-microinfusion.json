@@ -57,7 +57,7 @@
         ".header_gift_btn {display: none;}"
       ],
       "settings": {
-        "button_label": "SAVE UP TO 50%",
+        "button_label": "SPAREN 50%",
         "button_url": "#productSubscription"
       }
     },

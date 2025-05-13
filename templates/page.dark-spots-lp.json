@@ -1632,10 +1632,10 @@
       "settings": {
         "background": "bg_yellow",
         "classname": "",
-        "heading": "The answers to your questions",
+        "heading": "Antworten auf Ihre Fragen",
         "text": "",
-        "button_label": "Show More Questions",
-        "button_hide_label": "Hide More Questions"
+        "button_label": "Weitere Fragen anzeigen",
+        "button_hide_label": "Weitere Fragen ausblenden"
       }
     },
     "social_zwVAqW": {

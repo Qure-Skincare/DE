@@ -25,12 +25,20 @@
         }
         .step_counter_before:before {
             display: none !important;
+        }
+
+        a[data-tab="month_1"],
+        a[data-tab="month_2"] {
+            display: none !important;
+        }
+        .step_content .pmtBlock:not(:first-of-type) {
+            display: none !important;
         }  
     </style>
 
     <!-- treatment section start -->
     <div class="available_bar">
-        <p>SOLD OUT 10X - AVAILABLE UNTIL STOCK LASTS </p>
+        <p>AUSVERKAUFT 10X – VERFÜGBAR, SOLANGE DER VORRAT REICHT </p>
     </div>
     <div class="section productSubscription choose_serum form-{{ section_id }}" id="productSubscription">
         <div class="container">
@@ -39,23 +47,19 @@
                     <div class="qure__treatments">
                         <div class="text-start order-2 order-md-1">
                             <div class="section__header d-none d-md-block">
-                                <h2 class="title-lg">Choose your treatment options</h2>
+                                <h2 class="title-lg">Wählen Sie Ihre Behandlungsoptionen</h2>
                                 <div class="des">
-                                    <p> <strong>Rest assured that all orders are one-time purchases.</strong></p>
-                                    <p>You will not be charged again in the subsequent months, and there are no
-                                        hidden charges. When you are ready to reorder your treatment, you can
-                                        purchase needle heads and serum of choice.</p>
+                                    <p> <strong>Seien Sie versichert, dass alle Bestellungen einmalige Käufe sind.</strong></p>
+                                    <p>In den folgenden Monaten fallen keine weiteren Kosten an, und es gibt keine versteckten Gebühren. Wenn Sie bereit sind, Ihre Behandlung erneut zu bestellen, können Sie die Nadelköpfe und das Serum Ihrer Wahl erwerben.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="tmtFtrs_image order-1 order-md-2">
                             <div class="section__header d-block d-md-none">
-                                <h2 class="title-lg">Choose your treatment options</h2>
+                                <h2 class="title-lg">Wählen Sie Ihre Behandlungsoptionen</h2>
                                 <div class="des">
-                                    <p> <strong>Rest assured that all orders are one-time purchases.</strong></p>
-                                    <p>You will not be charged again in the subsequent months, and there are no
-                                        hidden charges. When you are ready to reorder your treatment, you can
-                                        purchase needle heads and serum of choice.</p>
+                                    <p> <strong>Seien Sie versichert, dass alle Bestellungen einmalige Käufe sind.</strong></p>
+                                    <p>In den folgenden Monaten fallen keine weiteren Kosten an, und es gibt keine versteckten Gebühren. Wenn Sie bereit sind, Ihre Behandlung erneut zu bestellen, können Sie die Nadelköpfe und das Serum Ihrer Wahl erwerben.</p>
                                 </div>
                             </div>
                             <img src="{{ 'MI6x-mixed_blue.webp' | asset_url }}" class="img-fluid" alt="" id="choosen_image" />
@@ -72,8 +76,7 @@
                             </div> <!-- Ftr Block end-->
                         </div>
                         <div class="qst_box text-center d-none d-md-block">
-                            <img src="{{ 'question_mark.svg' | asset_url }}" alt="" class="me-2">Have questions about
-                            MicroInfusion? <a href="#">Chat with us!</a>
+                            <img src="{{ 'question_mark.svg' | asset_url }}" alt="" class="me-2">Haben Sie Fragen zu MicroInfusion? <a href="/pages/contact-us">Chatten Sie mit uns!</a>
                         </div>
                     </div>
                 </div>
@@ -134,13 +137,13 @@
                             <div class="step_counter"><span>1</span></div>
                             <div class="step_block">
                                 <div class="step_header">
-                                    <h3 class="d-none d-md-block">Choose your supply:</h3>
-                                    <h3 class="d-block d-md-none">Choose the Bundle:</h3>
+                                    <h3 class="d-none d-md-block">Wählen Sie Ihre Versorgung:</h3>
+                                    <h3 class="d-block d-md-none">Wählen Sie Ihre Versorgung:</h3>
                                 </div>
                                 <div class="step_content pdm-step_content_v2">
                                     <div class="step_conten_blocks">
 
-                                        {% assign product = all_products['micro-infusion-3-month-bundle-hydra-soothing-rejuvenating'] %}
+                                        {% assign product = all_products['micro-infusion-3-month-bundle-3x-b-g-serum-3x-e-g-f-serum'] %}
                                         {% assign divided_price = product.price | divided_by: 4 %}
                                         {% assign discount_percentage = product.price | times: 1.0 | divided_by: product.compare_at_price | minus: 1 | abs | times: 100 | ceil %}
 
@@ -152,7 +155,7 @@
                                             >
                                             <div class="pdm_plan-choosen">
                                                 <p>
-                                                    Best Value
+                                                    Bester Wert
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10" fill="none">
                                                         <path d="M5 0.5L6.22371 3.70411L9.5 3.93769L6.98 6.15153L7.78115 9.5L5 7.66411L2.21885 9.5L3.02 6.15153L0.5 3.93769L3.77629 3.70411L5 0.5Z" fill="#FFFAF0"/>
                                                     </svg>
@@ -169,9 +172,9 @@
                                                 <div class="plan_des">
                                                     <div class="plan_hdr">
                                                         <h3>3 Month Supply</h3>
-                                                        <span class="saved_price item-1">SAVE {{ discount_percentage }}%</span>
+                                                        <span class="saved_price item-1">SPAREN {{ discount_percentage }}%</span>
                                                     </div>
-                                                    <div class="plan_des">(6 Micro-Infusion Treatments)</div>
+                                                    <div class="plan_des">(6 Mikroinfusionsbehandlungen)</div>
                                                 </div>
                                                 <div class="price pmd_price-first-elemnt">
                                                     <div class="price-row">
@@ -183,11 +186,11 @@
                                                             <path d="M7 12.25C9.8995 12.25 12.25 9.8995 12.25 7C12.25 4.1005 9.8995 1.75 7 1.75C4.1005 1.75 1.75 4.1005 1.75 7C1.75 9.8995 4.1005 12.25 7 12.25Z" stroke="#C4121A" stroke-linecap="round" stroke-linejoin="round"/>
                                                             <path d="M6.41699 4.66797V7.58464H9.33366" stroke="#C4121A" stroke-linecap="round" stroke-linejoin="round"/>
                                                         </svg>
-                                                        <p><strong class="pdm_price-stock-left-quantity"></strong>left</p>
+                                                        <p><strong class="pdm_price-stock-left-quantity"></strong>links</p>
                                                     </div>
                                                 </div>
                                                 <div class="pdm_plan-bundle-detail item-1">
-                                                    <p> 🔥 2 months supply <strong>+ 1 extra month for just <span class="pdm_plan-bundle-detail__money item-1"></span></strong></p>
+                                                    <p> 🔥 2 Monate Vorrat <strong>+ 1 zusätzlicher Monat für nur <span class="pdm_plan-bundle-detail__money item-1"></span></strong></p>
                                                 </div>
                                             </label>
                                          
@@ -253,22 +256,14 @@
                                     </div>
                                     <div class="tab_content" id="month_3">
                                         <div class="plan_bundle_detail">
-                                            <h6 class="cs_item__accordion">Buy one 3 month supply and get:<span><img
-                                                        src="{{ 'arrow-up.png' | asset_url }}" alt=""></span></h6>
+                                            <h6 class="cs_item__accordion">Kaufen Sie eine 3-Monats-Packung und erhalten Sie:<span><img src="{{ 'arrow-up.png' | asset_url }}" alt=""></span></h6>
                                             <div class="u_item__hidden-div" style="display: none;">
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>
-                                                    Micro-Infusion Device (valued at $80)</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>5
-                                                    Clinical-Grade Micro-Needling Heads (valued at $50)</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>6
-                                                    clinically-formulated 4ml serums of choice to treat your
-                                                    specific skin concerns (valued at $120) </p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>World-wide
-                                                    shipping (valued at $25)</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>24/7
-                                                    customer support access</p>
-                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Risk
-                                                    free 90 Days money back guarantee to trial</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Mikroinfusionsgerät (im Wert von €80)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>5 Mikronadelköpfe in klinischer Qualität (im Wert von €50)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>6 Klinisch formulierte 4-ml-Seren Ihrer Wahl zur Behandlung Ihrer spezifischen Hautprobleme (im Wert von €120)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Weltweiter Versand (im Wert von €25)</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>24/7 Kundensupport</p>
+                                                <p><span><img src="{{ 'tick.png' | asset_url }}" alt=""></span>Risikofreie 90-Tage-Geld-zurück-Garantie zum Ausprobieren</p>
                                             </div>
                                         </div>
                                     </div>
@@ -308,7 +303,7 @@
                             </div>
                         </div>
 
-                        {% assign product = all_products['micro-infusion-3-month-bundle-hydra-soothing-rejuvenating'] %}
+                        {% assign product = all_products['micro-infusion-3-month-bundle-3x-b-g-serum-3x-e-g-f-serum'] %}
                         {% assign divided_price = product.price | divided_by: 4 %}
                         {% assign discount_percentage = product.price | times: 1.0 | divided_by: product.compare_at_price | minus: 1 | abs | times: 100 | ceil %}
 
@@ -316,7 +311,7 @@
                             <div class="step_counter step_counter_before"><span>2</span></div>
                             <div class="step_block">
                                 <div class="step_header">
-                                    <h3 class="align-items-baseline">Choose a payment option:</h3>
+                                    <h3 class="align-items-baseline">Zahlungsoption auswählen:</h3>
                                 </div>
                                 <div class="step_content item-3 pdm-step_content_v2">
                                     <div class="pmtBlock">
@@ -324,10 +319,10 @@
                                         <label class="pmt_plans" for="pay_in_full">
                                             <div class="pmt_des">
                                                 <div class="pmt_hdr">
-                                                    <h3>Pay in full</h3>
+                                                    <h3>Vollständig bezahlen</h3>
                                                 </div>
                                                 <div class="pmt_row-test">
-                                                    <div class="pmt_des">One-time payment with</div>
+                                                    <div class="pmt_des">Einmalzahlung mit</div>
                                                     <div class="pmt_options">
                                                         {% if section.settings.payment_icons != blank %}
                                                             {{
@@ -393,14 +388,14 @@
                                 {% endif %}
                                       
                                     <a class="btn btn-atc buy_btn submit_btn {{ section_id }}_productButtonObject" href="{{ routes.cart_add_url }}?id={{ product.variants.first.id }}&quantity=1" data-ajax-cart-request-button>
-                                        Buy Now <span class="savedAmount">& SAVE {{ discount_percentage }}%</span>
+                                        Jetzt kaufen <span class="savedAmount">& SPAREN {{ discount_percentage }}%</span>
                                     </a>
 
-                                    <a class="btn btn-atc submit_btn buy_btn_soldout {{ section_id }}_productButtonObject" href="#" style="display: none;">Sold Out</a>
+                                    <a class="btn btn-atc submit_btn buy_btn_soldout {{ section_id }}_productButtonObject" href="#" style="display: none;">Ausverkauft</a>
                                 </div>
                             </div>
                         </div>
-                        <div class="c_s_shipping d-block d-md-none">
+                        {% comment %} <div class="c_s_shipping d-block d-md-none">
                             <div class="c_s_wrapper cs_wrapper-pdm">
                                 <div class="c_s_bx">
                                     {% render "serums-months-svg-low-contrast", icon: "thumbs_up" %} 
@@ -414,12 +409,10 @@
                             </div>
                             <div class="c_s_ques text-center">
                                 <p class="ask-ques">
-                                    <img src="{{ 'question_mark.svg' | asset_url }}" alt="">
-                                    Have questions about MicroInfusion?
-                                    <a href="#">Chat with us!</a>
+                                    <img src="{{ 'question_mark.svg' | asset_url }}" alt="">Haben Sie Fragen zu MicroInfusion? <a href="#">Chatten Sie mit uns!</a>
                                 </p>
                             </div>
-                        </div>
+                        </div> {% endcomment %}
                     </div>
                 </div>
             </div>

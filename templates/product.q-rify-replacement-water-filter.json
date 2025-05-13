@@ -430,10 +430,10 @@
       "settings": {
         "background": "bg_yellow",
         "classname": "bg_yellow",
-        "heading": "Keep the questions flowing",
+        "heading": "Antworten auf Ihre Fragen",
         "text": "",
-        "button_label": "Show More Questions",
-        "button_hide_label": "Hide More Questions"
+        "button_label": "Weitere Fragen anzeigen",
+        "button_hide_label": "Weitere Fragen ausblenden"
       }
     },
     "pdm_product_social_proof_data_6ctXkc": {

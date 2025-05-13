@@ -1019,10 +1019,10 @@
       ],
       "settings": {
         "classname": "bg_yellow",
-        "heading": "Have questions?",
+        "heading": "Antworten auf Ihre Fragen",
         "text": "<p>We have answers.<\/p>",
-        "button_label": "Show More Questions",
-        "button_hide_label": "Hide More Questions"
+        "button_label": "Weitere Fragen anzeigen",
+        "button_hide_label": "Weitere Fragen ausblenden"
       }
     }
   },

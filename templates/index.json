@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "mobile-product-slider",
+      "disabled": true,
       "blocks": {
         "slide_eMzaPx": {
           "type": "slide",
