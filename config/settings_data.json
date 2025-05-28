@@ -305,12 +305,10 @@
     },
     "content_for_index": [],
     "blocks": {
-      "1530068250781986104": {
-        "type": "shopify://apps/fbp-fast-bundle/blocks/fast_bundle/9e87fbe2-9041-4c23-acf5-322413994cef",
+      "13477285647392927056": {
+        "type": "shopify://apps/kefi-upsells/blocks/kefi/a54b549a-0a53-4f58-b095-45369cafa8e7",
         "disabled": false,
-        "settings": {
-          "home": false
-        }
+        "settings": {}
       }
     }
   },
