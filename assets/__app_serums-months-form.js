@@ -1,14 +1,14 @@
 let product_type = 1; //default type
 let product_period = 3; //default period
-let product_variant = 43216377217263; //default product variant
+let product_variant = 45193009955004; //default product variant
 
 let product_variants = [];
 
 //Rejuvenating + Hydra-Soothing
 product_variants[1] = [];  
-product_variants[1][1] = 43216489513199; //1 month
-product_variants[1][2] = 43216449208559; //2 months
-product_variants[1][3] = 43216377217263; //3 months
+product_variants[1][1] = 45193009889468; //1 month
+product_variants[1][2] = 44574537973948; //2 months
+product_variants[1][3] = 45193009955004; //3 months
 
 //Rejuvenating
 product_variants[2] = []; 
