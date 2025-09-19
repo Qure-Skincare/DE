@@ -76,14 +76,14 @@
                                 <div class="step_conten_blocks">
                                     <div class="planBlock {{ section_id }}_productPeriodObject">
                                         <div class="plan_choosed">
-                                            <span>Über 5.000 Menschen haben sich dafür entschieden</span>
+                                            <span style="background-color: #d61414;">Kaufen Sie eins, bekommen Sie eins gratis</span>
                                         </div>
-                                        {% assign product = all_products['pack-avance-effet-lissant-fermete-1'] %}
+                                        {% assign product = all_products['micro-infusion-3-month-bundle-3x-b-g-serum-3x-e-g-f-serum'] %}
                                         {% assign divided_price = product.price | divided_by: 4 %}
                                         {% assign compare_at_price = product.compare_at_price %}
 
                                         {% if compare_at_price == blank %}
-                                            {% assign compare_at_price = 61800 %}
+                                            {% assign compare_at_price = 30900 %}
                                         {% endif %}
                                             
                                         {% assign discount_percentage = product.price | times: 1.0 | divided_by: compare_at_price | minus: 1 | abs | times: 100 | ceil %}
@@ -92,12 +92,12 @@
                                         <label class="monthly_plans" for="mBanner_3_month" payment-price="{{ divided_price | money_without_trailing_zeros }}">
                                             <div class="plan_des">
                                                 <div class="plan_hdr">
-                                                    <h3>6-Monats-Vorrat</h3>
+                                                    <h3>3-Monats-Vorrat</h3>
                                                     {% if discount_percentage != blank %}
                                                         <span class="saved_price">{{ discount_percentage }}% SPAREN</span>
                                                     {% endif %}
                                                 </div>
-                                                <div class="plan_des">12 Micro-Infusion Treatments</div>
+                                                <div class="plan_des">6 Micro-Infusion Treatments</div>
                                             </div>
                                             <div class="price">
                                                 <div class="plan_prc regular_price">{{ compare_at_price | money_without_trailing_zeros }}</div>
@@ -106,7 +106,7 @@
                                         </label>
                                     </div>
                                     
-                                    <div class="planBlock {{ section_id }}_productPeriodObject">
+                                    {% comment %} <div class="planBlock {{ section_id }}_productPeriodObject">
                                         {% assign product = all_products['micro-infusion-3-month-bundle-3x-b-g-serum-3x-e-g-f-serum'] %}
                                         {% assign divided_price = product.price | divided_by: 4 %}
                                         {% assign compare_at_price = product.compare_at_price %}
@@ -134,7 +134,7 @@
                                                 <div class="plan_prc sale_price">{{ product.price | money_without_trailing_zeros }}</div>
                                             </div>
                                         </label>
-                                    </div>
+                                    </div> {% endcomment %}
 
                                     <div class="planBlock {{ section_id }}_productPeriodObject">
                                         {% assign product = all_products['micro-infusion-1-month-bundle-for-wrinkles-dark-spots-microinfsn-1mth-egf-bg'] %}
@@ -194,11 +194,11 @@
 
         </div>
     
-        {% assign product = all_products['pack-avance-effet-lissant-fermete-1'] %}
+        {% assign product = all_products['micro-infusion-3-month-bundle-3x-b-g-serum-3x-e-g-f-serum'] %}
         {% assign compare_at_price = product.compare_at_price %}
 
         {% if compare_at_price == blank %}
-            {% assign compare_at_price = 61800 %}
+            {% assign compare_at_price = 30900 %}
         {% endif %}
 
 
@@ -222,12 +222,66 @@
                 class="upsell_popup_btn openPopupUpsell"></button>
             {% endif %}
 
-            <a class="btn btn-lg btn-primary buy_btn mt-3 {{ section_id }}_productButtonObject" href="{{ routes.cart_add_url }}?id={{ product.variants.first.id }}&quantity=1" data-ajax-cart-request-button>Jetzt kaufen <span
-                    class="savedAmount">& {{ discount_percentage }}% SPAREN</span><img src="{{ 'arrow_right.svg' | asset_url }}" alt="">
-            </a>
-
-            <a class="btn btn-lg btn-primary buy_btn_soldout mt-3 {{ section_id }}_productButtonSoldOutObject" style="display: none;">Ausverkauft</a>
+            <a 
+                id="offer_button"
+                class="btn btn-lg btn-lg-small-text btn-primary buy_btn mt-3 {{ section_id }}_productButtonObject"
+                href="{{ routes.cart_add_url }}?id={{ product.variants.first.id }}&quantity=1"
+            >Jetzt kaufen
+            <span
+              class="savedAmount"
+              >& {{ discount_percentage }}% SPAREN</span
+            ><img src="{{ 'arrow_right.svg' | asset_url }}" alt="">
+          </a>
+    
+          <a
+            class="btn btn-lg btn-lg-small-text btn-primary buy_btn_soldout mt-3 {{ section_id }}_productButtonSoldOutObject"
+            style="display: none;"
+            >Ausverkauft</a
+          >
+            
         </div>
+
+        <script>
+            document.getElementById("offer_button").addEventListener("click", function(event) {
+              event.preventDefault();
+      
+              const href = this.getAttribute("href");
+              const urlParams = new URLSearchParams(href.split('?')[1]);
+              const product_variant_id = urlParams.get('id');
+              let __discount = '';
+              let __items = [];
+      
+              if(product_variant_id == '44574537973948') {
+      
+                __discount = 'FREESERUM';
+      
+                __items.push({
+                    id: product_variant_id,
+                    quantity: 1
+                });
+              }
+      
+              __items.push({
+                  id: product_variant_id,
+                  quantity: 1
+              });
+      
+              if(__discount)
+              {
+                  fetch('/discount/' + __discount).then(async () => {
+                      cartRequestAdd({ 
+                          items:  __items
+                      }, {} )
+                  });
+              }
+              else
+              {
+                  cartRequestAdd({ 
+                      items:  __items
+                  }, {} )
+              }
+            });
+        </script>
 
         <div class="upsell_popup_anchor_hover pdp-ajax-container-reserve">
             {% if section.settings.popup_enabled %}
